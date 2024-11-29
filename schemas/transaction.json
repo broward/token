@@ -1,0 +1,39 @@
+{
+    "type": "object",
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "Transaction",
+    "description": "",
+    "properties": {
+    "category": {
+        "type": "string",
+        "description": "",
+        "maxLength": 300
+    },
+    "status": {
+            "type": "string",
+            "description": "",
+            "maxLength": 300
+        },
+    "result": {
+            "type": "string",
+            "description": "",
+            "maxLength": 300
+        },
+    "token": {
+            "type": "string",
+            "description": "",
+            "maxLength": 300
+        },
+    "settled_amount": {
+        "type": "integer"
+    }, 
+    "pending_amount": {
+    "type": "integer"
+    },
+    "currency": {
+            "type": "string",
+            "description": "",
+            "maxLength": 300
+        }
+    }
+}
