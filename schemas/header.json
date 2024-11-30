@@ -1,0 +1,29 @@
+{ 
+  "type": "object",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "header.json",
+  "title": "header",
+  "description": "universal header",
+  "properties": {
+    "message_type": {
+      "type": "string",
+      "maxLength": 50
+    },
+    "version": {
+      "type": "string",
+      "maxLength": 10
+    },
+    "tracking_id": {
+      "type": "integer"
+    },
+    "create_date": {
+      "type": "integer"
+    }
+  },
+  "required": [
+    "message_type",
+    "version",
+    "tracking_id",
+    "create_date"
+  ]
+}
