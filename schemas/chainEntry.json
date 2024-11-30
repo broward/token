@@ -1,0 +1,15 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "chainEntry",
+    "$ref": "schema:common",
+    "type": "object",
+    "properties": {
+        "chainEntry": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "chainEntry"
+    ],
+    "unevaluatedProperties": false
+}

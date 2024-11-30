@@ -1,13 +1,9 @@
 {
-    "$id": "https://example.com/user-profile.schema.json",
     "$schema": "https://json-schema.org/draft/2020-12/schema",
-    "description": "User profile",
+    "$id": "person",
+    "$ref": "schema:common",
+    "description": "person",
     "type": "object",
-    "required": [
-        "account",
-        "username",
-        "email"
-    ],
     "properties": {
         "account": {
             "type": "string"
@@ -31,5 +27,10 @@
                 "type": "string"
             }
         }
-    }
+    },
+    "required": [
+        "account",
+        "username",
+        "email"
+    ]
 }

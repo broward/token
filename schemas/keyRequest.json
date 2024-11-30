@@ -1,0 +1,15 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "keyRequest",
+    "$ref": "schema:common",
+    "type": "object",
+    "properties": {
+        "keyRequest": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "keyRequest"
+    ],
+    "unevaluatedProperties": false
+}

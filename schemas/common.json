@@ -1,9 +1,9 @@
 { 
   "type": "object",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "header.json",
-  "title": "header",
-  "description": "universal header",
+  "$id": "common",
+  "title": "common",
+  "description": "common message attributes",
   "properties": {
     "message_type": {
       "type": "string",
