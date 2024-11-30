@@ -1,6 +1,6 @@
 # State Depository Token (SDT) Platform
 
-Creating a digital token platform backed by a State-regulated depository similar to Texas bills S.B. No. 2334 and H.B. No. 4903. 
+Creating a digital token platform backed by a State-regulated depository similar to Texas bills [H.B. 1049](https://legiscan.com/TX/sponsors/HB1049/2025) and [H.B. 1056](https://legiscan.com/TX/bill/HB1056/2025).
 
 [White paper](https://broward.ghost.io/current-gold-paper)
 
