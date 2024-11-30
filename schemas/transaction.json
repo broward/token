@@ -31,12 +31,6 @@
             "description": "",
             "maxLength": 300
         },
-        "settled_amount": {
-            "type": "integer"
-        },
-        "pending_amount": {
-            "type": "integer"
-        },
         "currency": {
             "type": "string",
             "description": "",
@@ -44,8 +38,9 @@
         }
     },
     "required": [
-        "",
-        "",
-        ""
+        "payer_account",
+        "payee_account",
+        "amount",
+        "result"
     ]
 }

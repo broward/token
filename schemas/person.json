@@ -18,8 +18,8 @@
         "fullName": {
             "type": "string"
         },
-        "location": {
-            "type": "string"
+        "address": {
+            "$ref": "schema:address"
         },
         "interests": {
             "type": "array",
@@ -30,6 +30,7 @@
     },
     "required": [
         "account",
+        "address",
         "username",
         "email"
     ]

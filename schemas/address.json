@@ -24,7 +24,7 @@
         }
     },
     "required": [
-        "locality",
+        "address1",
         "region",
         "country"
     ],
