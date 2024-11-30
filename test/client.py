@@ -3,7 +3,7 @@
 import requests
 import json
 
-url = 'http://www.google.comx'
+url = 'http://www.google.com'
 
 response = requests.get(url)
 
