@@ -6,4 +6,7 @@ python3.9 get-pip.py
 python3.9 get-pip.py --user
 
 pip3.9 install requests
-
+pip3.9 install flask
+pip3.9 install jsonify
+pip3.9 install peewee
+pip3.9 install psycopg2-binary
