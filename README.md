@@ -2,11 +2,11 @@
 
 Creating a digital token platform backed by a State-regulated depository similar to Texas bills S.B. No. 2334 and H.B. No. 4903. 
 
-![White paper](https://broward.ghost.io/current-gold-paper)
+[White paper](https://broward.ghost.io/current-gold-paper)
 
-![History](https://broward.ghost.io/2024/11/26/sdt-history/)
+[History](https://broward.ghost.io/2024/11/26/sdt-history/)
 
-![Research & Design](https://broward.ghost.io/token/)
+[Research & Design](https://broward.ghost.io/token/)
 
 ![SDTOverview](https://github.com/user-attachments/assets/1864dcd5-c548-4b09-9125-a3ec9dedf996)
 
