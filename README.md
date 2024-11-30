@@ -8,7 +8,7 @@ Creating a digital token platform backed by a State-regulated depository similar
 
 [Research & Design](https://broward.ghost.io/token/)
 
-![SDTOverview](https://github.com/user-attachments/assets/1864dcd5-c548-4b09-9125-a3ec9dedf996)
+![SDTOverview](https://github.com/broward/token/blob/main/docs/SDTOverview.jpg)
 
 1) OpenAPI creates message schemas and REST definitions.
 2) Python generates the working code.
