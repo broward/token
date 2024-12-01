@@ -1,7 +1,6 @@
 {
     "$schema": "https://json-schema.org/draft/2020-12/schema",
     "$id": "key",
-    "$ref": "schema:common",
     "type": "object",
     "properties": {
         "key": {
@@ -10,6 +9,5 @@
     },
     "required": [
         "key"
-    ],
-    "unevaluatedProperties": false
+    ]
 }

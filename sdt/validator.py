@@ -1,24 +1,21 @@
-from jsonschema import validate, ValidationError 
+from jschon import create_catalog, JSON, JSONSchema
+import json
+
+create_catalog('2020-12')
+
 # Define the schema
-schema = {
-    "$schema": "http://json-schema.org/draft-07/schema#",
-    "type": "object",
-    "properties": {
-        "serverName": {"type": "string"},
-        "port": {"type": "integer", "minimum": 1, "maximum": 65535},
-        "enabled": {"type": "boolean"}
-    },
-    "required": ["serverName", "port"]
-}
+with open('schema/key.json', 'r') as f:
+    demo_schema = JSONSchema(json.load(f))
+
 # Define the JSON data
-data = {
-    "serverName": "MyServer",
-    "port": 8080,
-    "enabled": True
-}
+with open('../test/key.json', 'r') as f:
+    data = f.read()  
+
+print(demo_schema)
+print(data)
+
 # Validate the JSON data
-try:
-    validate(instance=data, schema=schema)
-    print("JSON data is valid.")
-except ValidationError as e:
-    print(f"JSON data is invalid: {e.message}")
+result = demo_schema.evaluate(JSON(data))
+
+print("JSON data is valid.")
+
