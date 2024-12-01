@@ -1,10 +1,12 @@
 {
     "$schema": "https://json-schema.org/draft/2020-12/schema",
-    "$id": "person",
-    "$ref": "schema:common",
+    "$id": "https://example.com/person-schema",
     "description": "person",
     "type": "object",
     "properties": {
+        "common": {
+            "$ref": "https://example.com/common-schema"
+        },
         "account": {
             "type": "string"
         },
@@ -19,7 +21,7 @@
             "type": "string"
         },
         "address": {
-            "$ref": "schema:address"
+            "$ref": "https://example.com/address-schema"
         },
         "interests": {
             "type": "array",

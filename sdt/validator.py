@@ -1,21 +1,20 @@
 from jschon import create_catalog, JSON, JSONSchema
 import json
+import pathlib
 
 create_catalog('2020-12')
 
-# Define the schema
-with open('schema/key.json', 'r') as f:
-    demo_schema = JSONSchema(json.load(f))
+data_dir = pathlib.Path(__file__).parent / './schema'
 
-# Define the JSON data
-with open('../test/key.json', 'r') as f:
-    data = f.read()  
+common_schema = JSONSchema.loadf(data_dir / 'common.json')
+address_schema = JSONSchema.loadf(data_dir / 'address.json')
+person_schema = JSONSchema.loadf(data_dir / 'person.json')
 
-print(demo_schema)
-print(data)
+
+print(common_schema)
+print(person_schema)
 
 # Validate the JSON data
-result = demo_schema.evaluate(JSON(data))
 
 print("JSON data is valid.")
 

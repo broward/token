@@ -1,9 +1,11 @@
 {
     "$schema": "https://json-schema.org/draft/2020-12/schema",
-    "$id": "address",
-    "$ref": "schema:common",
+    "$id": "https://example.com/address-schema",
     "type": "object",
     "properties": {
+        "common": {
+            "$ref": "https://example.com/common-schema"
+        },
         "address1": {
             "type": "string"
         },

@@ -5,8 +5,17 @@ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python3.9 get-pip.py
 python3.9 get-pip.py --user
 
+# server
 pip3.9 install requests
+
+# database
 pip3.9 install flask
 pip3.9 install jsonify
 pip3.9 install peewee
 pip3.9 install psycopg2-binary
+
+# validator https://github.com/marksparkza/jschon
+pip3.9 install jschon
+pip3.9 install jschon[requests]
+
+

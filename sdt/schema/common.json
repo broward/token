@@ -1,7 +1,7 @@
 { 
   "type": "object",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "common",
+  "$id": "https://example.com/common-schema",
   "title": "common",
   "description": "common message attributes",
   "properties": {
