@@ -1,7 +1,7 @@
 {
     "$schema": "https://json-schema.org/draft/2020-12/schema",
     "$id": "transaction",
-    "$ref": "schema:common",
+    "$ref": "https://example.com/common-schema",
     "description": "transaction",
     "type": "object",
     "properties": {

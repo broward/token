@@ -1,12 +1,20 @@
 {
-    "message_type": "amet qui",
-    "version": "",
+    "message_type": "person",
+    "version": "1.0",
     "tracking_id": 71671344,
     "create_date": 54221204,
     "account": "labore elit nisi adipisicing",
     "username": "nulla",
     "email": "ZEZscFQY2@sxSLfJk.jke",
     "fullName": "occaecat nisi eu voluptate",
+    "address": {
+        "address1": "sint",
+        "address2": "nostrud",
+        "locality": "deserunt cillum velit dolor incididunt",
+        "region": "aute",
+        "postalCode": "quis aliqua voluptate do",
+        "country": "minim in laboris eiusmod"
+    },
     "interests": [
         "exercitation in in",
         "do"

@@ -4,17 +4,27 @@ import pathlib
 
 create_catalog('2020-12')
 
-data_dir = pathlib.Path(__file__).parent / './schema'
+schema = [''] * 7
+schema[0] = 'common'
+schema[1] = 'address'
+schema[2] = 'chainEntry'
+schema[3] = 'key'
+schema[4] = 'keyRequest'
+schema[5] = 'person'
+schema[6] = 'transaction'
 
-common_schema = JSONSchema.loadf(data_dir / 'common.json')
-address_schema = JSONSchema.loadf(data_dir / 'address.json')
-person_schema = JSONSchema.loadf(data_dir / 'person.json')
+schema_dir = pathlib.Path(__file__).parent / './schema'
+data_dir = pathlib.Path(__file__).parent / '../test'
 
-
-print(common_schema)
-print(person_schema)
+validator = [] * 7
+data = [] * 7
+for i in schema:
+    s = str(i + '.json')
+    validator.append(JSONSchema.loadf(schema_dir / s))
+    data.append(JSON.loadf(data_dir / str(s)))
 
 # Validate the JSON data
+for i in range(7):
+    result = validator[i].evaluate(data[i])
 
-print("JSON data is valid.")
-
+    print(schema[i] + ' returned: ' + str(result))
