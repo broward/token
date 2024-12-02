@@ -2,9 +2,10 @@
     "$schema": "https://json-schema.org/draft/2020-12/schema",
     "$id": "https://example.com/sdt-schema",
     "description": "SDT Schema",
-    "$defs": {
+    "type:": "object",
+    "properties": {
         "header": {
-            "type:": "object",
+            "type": "object",
             "properties": {
                 "message_type": {
                     "type": "string",
@@ -14,8 +15,8 @@
                         "key",
                         "status",
                         "transaction",
-                        "chainEntry",
-                        "keyRequest",
+                        "quorum_entry",
+                        "key_request",
                         "header"
                     ]
                 },
@@ -36,49 +37,37 @@
                 "tracking_id",
                 "create_date"
             ]
-        },
-        "status": {
-            "type": "object",
-            "properties": {
-                "status": {
-                    "type": "string"
-                }
-            },
-            "required": [
-                "status"
-            ],
-            "unevaluatedProperties": false
-        },
-        "address": {
-            "$id": "address",
-            "type": "object",
-            "properties": {
-                "address1": {
-                    "type": "string"
-                },
-                "address2": {
-                    "type": "string"
-                },
-                "locality": {
-                    "type": "string"
-                },
-                "region": {
-                    "type": "string"
-                },
-                "postalCode": {
-                    "type": "string"
-                },
-                "country": {
-                    "type": "string"
-                }
-            },
-            "required": [
-                "address1",
-                "region",
-                "country"
-            ],
-            "unevaluatedProperties": false
         }
+    },
+    "address": {
+        "$id": "address",
+        "type": "object",
+        "properties": {
+            "address1": {
+                "type": "string"
+            },
+            "address2": {
+                "type": "string"
+            },
+            "locality": {
+                "type": "string"
+            },
+            "region": {
+                "type": "string"
+            },
+            "postalCode": {
+                "type": "string"
+            },
+            "country": {
+                "type": "string"
+            }
+        },
+        "required": [
+            "address1",
+            "region",
+            "country"
+        ],
+        "unevaluatedProperties": false
     },
     "person": {
         "description": "person",
@@ -111,6 +100,7 @@
             }
         },
         "required": [
+            "header",
             "account",
             "address",
             "username",

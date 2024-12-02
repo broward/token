@@ -14,7 +14,10 @@ pip3.9 install jsonify
 pip3.9 install peewee
 pip3.9 install psycopg2-binary
 
-# validator https://github.com/marksparkza/jschon
+# https://python-jsonschema.readthedocs.io/en/stable/
+pip3.9 install --upgrade jsonschema
+
+# alternate validator https://github.com/marksparkza/jschon
 pip3.9 install jschon
 pip3.9 install jschon[requests]
 

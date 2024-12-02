@@ -1,14 +1,12 @@
 {
-  "address": {
     "message_type": "address",
     "version": "1.0",
     "tracking_id": 71671344,
     "create_date": 54221204,
     "address1": "sint",
     "address2": "nostrud",
-    "region": "aute",
     "locality": "deserunt cillum velit dolor incididunt",
+    "region": "aute",
     "postalCode": "quis aliqua voluptate do",
     "country": "minim in laboris eiusmod"
   }
-}

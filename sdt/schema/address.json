@@ -3,29 +3,33 @@
     "$id": "https://example.com/address-schema",
     "type": "object",
     "properties": {
-        "address1": {
-            "type": "string"
-        },
-        "address2": {
-            "type": "string"
-        },
-        "locality": {
-            "type": "string"
-        },
-        "region": {
-            "type": "string"
-        },
-        "postalCode": {
-            "type": "string"
-        },
-        "country": {
-            "type": "string"
+        "address": {
+            "type": "object",
+            "properties": {
+                "address1": {
+                    "type": "string"
+                },
+                "address2": {
+                    "type": "string"
+                },
+                "locality": {
+                    "type": "string"
+                },
+                "region": {
+                    "type": "string"
+                },
+                "postalCode": {
+                    "type": "string"
+                },
+                "country": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "address1",
+                "region",
+                "country"
+            ]
         }
-    },
-    "required": [
-        "address1",
-        "region",
-        "country"
-    ],
-    "unevaluatedProperties": false
+    }
 }

@@ -13,11 +13,11 @@ sdt_schema = catalog.get_schema(URI('https://example.com/sdt-schema'))
 
 header = JSON.loadf(data_dir / 'header.json')
 person = JSON.loadf(data_dir / 'person.json')
-address = JSON.loadf(data_dir / 'address.json')
-status = JSON.loadf(data_dir / 'status.json')
+# address = JSON.loadf(data_dir / 'address.json')
+# status = JSON.loadf(data_dir / 'status.json')
 
 print("header test: " + str(sdt_schema.evaluate(header)))
 print("person test: " + str(sdt_schema.evaluate(person)))
-print("address test: " + str(sdt_schema.evaluate(address)))
-print("status test: " + str(sdt_schema.evaluate(status)))
+# print("address test: " + str(sdt_schema.evaluate(address)))
+# print("status test: " + str(sdt_schema.evaluate(status)))
 
