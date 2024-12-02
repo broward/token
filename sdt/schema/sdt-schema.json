@@ -4,7 +4,6 @@
     "description": "SDT Schema",
     "$defs": {
         "header": {
-            "$id": "header",
             "type:": "object",
             "properties": {
                 "message_type": {
@@ -37,6 +36,18 @@
                 "tracking_id",
                 "create_date"
             ]
+        },
+        "status": {
+            "type": "object",
+            "properties": {
+                "status": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "status"
+            ],
+            "unevaluatedProperties": false
         },
         "address": {
             "$id": "address",
