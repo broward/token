@@ -1,13 +1,21 @@
-{ 
+{
   "type": "object",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://example.com/common-schema",
-  "title": "common",
+  "$id": "https://example.com/header-schema",
+  "title": "header",
   "description": "common message attributes",
   "properties": {
     "message_type": {
       "type": "string",
-      "maxLength": 50
+      "enum": [
+        "person",
+        "address",
+        "key",
+        "status",
+        "transaction",
+        "chainEntry",
+        "keyRequest"
+      ]
     },
     "version": {
       "type": "string",

@@ -1,15 +1,17 @@
 {
     "$schema": "https://json-schema.org/draft/2020-12/schema",
-    "$id": "keyRequest",
-    "$ref": "https://example.com/common-schema",
+    "$id": "key_request",
     "type": "object",
     "properties": {
+        "header": {
+            "$ref": "https://example.com/header-schema"
+        },
         "keyRequest": {
             "type": "string"
         }
     },
     "required": [
-        "keyRequest"
+        "key_request"
     ],
     "unevaluatedProperties": false
 }

@@ -1,10 +1,12 @@
 {
     "$schema": "https://json-schema.org/draft/2020-12/schema",
     "$id": "transaction",
-    "$ref": "https://example.com/common-schema",
     "description": "transaction",
     "type": "object",
     "properties": {
+        "header": {
+            "$ref": "https://example.com/header-schema"
+        },
         "payer_account": {
             "type": "string",
             "description": "",
@@ -26,10 +28,13 @@
             "description": "",
             "maxLength": 300
         },
-        "token": {
+        "type": {
             "type": "string",
-            "description": "",
-            "maxLength": 300
+            "enum": [
+                "withdrawal",
+                "deposit",
+                "payment"
+            ]
         },
         "currency": {
             "type": "string",

@@ -1,9 +1,11 @@
 {
     "$schema": "https://json-schema.org/draft/2020-12/schema",
     "$id": "key",
-    "$ref": "https://example.com/common-schema",
     "type": "object",
     "properties": {
+        "header": {
+            "$ref": "https://example.com/header-schema"
+        },
         "key": {
             "type": "string"
         }

@@ -1,10 +1,12 @@
 {
     "$schema": "https://json-schema.org/draft/2020-12/schema",
     "$id": "https://example.com/person-schema",
-    "$ref": "https://example.com/common-schema",
     "description": "person",
     "type": "object",
     "properties": {
+        "header": {
+            "$ref": "https://example.com/header-schema"
+        },
         "account": {
             "type": "string"
         },

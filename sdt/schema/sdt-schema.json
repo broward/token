@@ -1,0 +1,109 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://example.com/sdt-schema",
+    "description": "SDT Schema",
+    "$defs": {
+        "header": {
+            "$id": "header",
+            "type:": "object",
+            "properties": {
+                "message_type": {
+                    "type": "string",
+                    "enum": [
+                        "person",
+                        "address",
+                        "key",
+                        "status",
+                        "transaction",
+                        "chainEntry",
+                        "keyRequest",
+                        "header"
+                    ]
+                },
+                "version": {
+                    "type": "string",
+                    "maxLength": 10
+                },
+                "tracking_id": {
+                    "type": "integer"
+                },
+                "create_date": {
+                    "type": "integer"
+                }
+            },
+            "required": [
+                "message_type",
+                "version",
+                "tracking_id",
+                "create_date"
+            ]
+        },
+        "address": {
+            "$id": "address",
+            "type": "object",
+            "properties": {
+                "address1": {
+                    "type": "string"
+                },
+                "address2": {
+                    "type": "string"
+                },
+                "locality": {
+                    "type": "string"
+                },
+                "region": {
+                    "type": "string"
+                },
+                "postalCode": {
+                    "type": "string"
+                },
+                "country": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "address1",
+                "region",
+                "country"
+            ],
+            "unevaluatedProperties": false
+        }
+    },
+    "person": {
+        "description": "person",
+        "type": "object",
+        "properties": {
+            "header": {
+                "$ref": "$defs/header"
+            },
+            "account": {
+                "type": "string"
+            },
+            "username": {
+                "type": "string"
+            },
+            "email": {
+                "type": "string",
+                "format": "email"
+            },
+            "fullName": {
+                "type": "string"
+            },
+            "address": {
+                "$ref": "$defs/address"
+            },
+            "interests": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                }
+            }
+        },
+        "required": [
+            "account",
+            "address",
+            "username",
+            "email"
+        ]
+    }
+}
