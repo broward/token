@@ -12,6 +12,9 @@ COPY ${API_DIR}/server.py /app/server.py
 # Install Flask
 RUN pip3.9 install flask
 
+# Update jsonschema
+RUN pip3.9 install --upgrade jsonschema
+
 # Expose the appropriate port dynamically
 ARG PORT
 EXPOSE ${PORT}
