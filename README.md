@@ -1,6 +1,6 @@
 # State Depository Token (SDT) Platform
 
-Creating a digital token platform backed by a State-regulated depository similar to Texas bills [H.B. 1049](https://legiscan.com/TX/sponsors/HB1049/2025) and [H.B. 1056](https://legiscan.com/TX/bill/HB1056/2025) and [Wyoming's stablecoin](https://stabletoken.wyo.gov/).
+A digital token platform backed by State-regulated depositories similar to Texas bills [H.B. 1049](https://legiscan.com/TX/sponsors/HB1049/2025) and [H.B. 1056](https://legiscan.com/TX/bill/HB1056/2025) and [Wyoming's stablecoin](https://stabletoken.wyo.gov/).
 
 [White paper](https://broward.ghost.io/current-gold-paper)
 
@@ -9,6 +9,8 @@ Creating a digital token platform backed by a State-regulated depository similar
 [Research & Design](https://broward.ghost.io/token/)
 
 ![SDTOverview](https://github.com/broward/token/blob/main/docs/SDTOverview.jpg)
+
+**PROCESS FLOW**
 
 1) OpenAPI and ChatGBT create message schemas, REST server and database DDL.
 2) Python and ChatGBT generate the execution code.
