@@ -10,6 +10,7 @@ A digital token platform backed by State-regulated depositories similar to Texas
 
 ![SDTOverview](https://github.com/broward/token/blob/main/docs/SDTOverview.jpg)
 
+
 **PROCESS FLOW**
 
 1) OpenAPI and ChatGBT create message schemas, REST server and database DDL.
