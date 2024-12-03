@@ -1,9 +1,18 @@
 from flask import Flask, request, jsonify
+import json
+
+with open('schema.json', 'r') as f:
+    # Load the JSON data into a Python dictionary
+    GOLD_SCHEMA = json.load(f)
 
 app = Flask(__name__)
 
 # Mock database
 coins = {}
+
+@app.route("/")
+def index():
+    return "Hello from GOLD server!"
 
 @app.route('/coins', methods=['POST'])
 def add_coin():

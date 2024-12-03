@@ -1,39 +1,16 @@
 from flask import Flask, request, jsonify
 from jsonschema import validate, ValidationError
+import json
+
+with open('schema.json', 'r') as f:
+    # Load the JSON data into a Python dictionary
+    ACH_SCHEMA = json.load(f)
 
 app = Flask(__name__)
 
-# ACH Schema
-ACH_SCHEMA = {
-    "$schema": "https://json-schema.org/draft/2020-12/schema",
-    "type": "object",
-    "properties": {
-        "transaction_id": {"type": "string"},
-        "payer": {
-            "type": "object",
-            "properties": {
-                "name": {"type": "string"},
-                "account_number": {"type": "string"},
-                "routing_number": {"type": "string", "pattern": "^[0-9]{9}$"}
-            },
-            "required": ["name", "account_number", "routing_number"]
-        },
-        "payee": {
-            "type": "object",
-            "properties": {
-                "name": {"type": "string"},
-                "account_number": {"type": "string"},
-                "routing_number": {"type": "string", "pattern": "^[0-9]{9}$"}
-            },
-            "required": ["name", "account_number", "routing_number"]
-        },
-        "amount": {"type": "number", "minimum": 0},
-        "currency": {"type": "string", "pattern": "^[A-Z]{3}$"},
-        "transaction_date": {"type": "string", "format": "date-time"},
-        "memo": {"type": "string"}
-    },
-    "required": ["transaction_id", "payer", "payee", "amount", "currency", "transaction_date"]
-}
+@app.route("/")
+def index():
+    return "Hello from ACH server!" + str(ACH_SCHEMA)
 
 @app.route("/ach_transaction", methods=["POST"])
 def ach_transaction():

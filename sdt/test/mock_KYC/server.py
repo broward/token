@@ -1,45 +1,15 @@
 from flask import Flask, request, jsonify
+import json
+
+with open('schema.json', 'r') as f:
+    # Load the JSON data into a Python dictionary
+    KYC_SCHEMA = json.load(f)
 
 app = Flask(__name__)
 
-# JSON Schema for validation
-KYC_SCHEMA = {
-    "type": "object",
-    "properties": {
-        "first_name": {"type": "string"},
-        "last_name": {"type": "string"},
-        "date_of_birth": {"type": "string", "format": "date"},
-        "nationality": {"type": "string"},
-        "id_type": {"type": "string", "enum": ["passport", "driver_license", "national_id"]},
-        "id_number": {"type": "string"},
-        "address": {
-            "type": "object",
-            "properties": {
-                "street": {"type": "string"},
-                "city": {"type": "string"},
-                "state": {"type": "string"},
-                "zip_code": {"type": "string"},
-                "country": {"type": "string"}
-            },
-            "required": ["street", "city", "state", "zip_code", "country"]
-        },
-        "email": {"type": "string", "format": "email"},
-        "phone": {"type": "string"},
-        "kyc_date": {"type": "string", "format": "date-time"}
-    },
-    "required": [
-        "first_name",
-        "last_name",
-        "date_of_birth",
-        "nationality",
-        "id_type",
-        "id_number",
-        "address",
-        "email",
-        "phone",
-        "kyc_date"
-    ]
-}
+@app.route("/")
+def index():
+    return "Hello from KYC server!"
 
 # Endpoint to receive KYC information
 @app.route("/submit_kyc", methods=["POST"])

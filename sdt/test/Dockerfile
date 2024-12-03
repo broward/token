@@ -8,6 +8,7 @@ WORKDIR /app
 
 # Copy only the necessary API files
 COPY ${API_DIR}/server.py /app/server.py
+COPY ${API_DIR}/schema.json /app/schema.json
 
 # Install Flask
 RUN pip3.9 install flask
