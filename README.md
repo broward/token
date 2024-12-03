@@ -10,7 +10,7 @@ Creating a digital token platform backed by a State-regulated depository similar
 
 ![SDTOverview](https://github.com/broward/token/blob/main/docs/SDTOverview.jpg)
 
-1) OpenAPI creates message schemas and REST definitions.
+1) OpenAPI and ChatGBT create message schemas, REST server and database DDL.
 2) Python generates the working code.
 3) Client sends a transaction message plus a private key shard.
 4) REST API accepts the message and queues it to SQS.
