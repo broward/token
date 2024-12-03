@@ -1,0 +1,42 @@
+version: '3.9'
+
+services:
+  api_server1:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        API_DIR: mock_AML
+        PORT: 5001
+    ports:
+      - "5001:5001"
+
+  api_server2:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        API_DIR: mock_KYC
+        PORT: 5002
+    ports:
+      - "5002:5002"
+
+  api_server3:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        API_DIR: mock_ACH
+        PORT: 5003
+    ports:
+      - "5003:5003"
+
+  api_server4:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        API_DIR: gold_depository
+        PORT: 5004
+    ports:
+      - "5004:5004"
