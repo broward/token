@@ -1,0 +1,1 @@
+generate a json schema using https://json-schema.org/draft/2020-12/schema rules which has user, address, account, transaction, history and status objects, generate a matching postgres DDL script, a python REST API using Flask and matching test json objects.

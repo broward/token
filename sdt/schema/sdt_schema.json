@@ -1,62 +1,140 @@
 {
-    "$schema": "https://json-schema.org/draft/2020-12/schema",
-    "type": "object",
-    "properties": {
-      "user": {
-        "type": "object",
-        "properties": {
-          "id": { "type": "integer" },
-          "name": { "type": "string" },
-          "email": { "type": "string", "format": "email" },
-          "created_at": { "type": "string", "format": "date-time" }
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "user": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
         },
-        "required": ["id", "name", "email", "created_at"]
-      },
-      "address": {
-        "type": "object",
-        "properties": {
-          "id": { "type": "integer" },
-          "user_id": { "type": "integer" },
-          "street": { "type": "string" },
-          "city": { "type": "string" },
-          "state": { "type": "string" },
-          "zip_code": { "type": "string" }
+        "name": {
+          "type": "string"
         },
-        "required": ["id", "user_id", "street", "city", "state", "zip_code"]
-      },
-      "account": {
-        "type": "object",
-        "properties": {
-          "id": { "type": "integer" },
-          "user_id": { "type": "integer" },
-          "account_type": { "type": "string", "enum": ["savings", "checking"] },
-          "balance": { "type": "number" },
-          "created_at": { "type": "string", "format": "date-time" }
+        "email": {
+          "type": "string",
+          "format": "email"
         },
-        "required": ["id", "user_id", "account_type", "balance", "created_at"]
-      },
-      "transaction": {
-        "type": "object",
-        "properties": {
-          "id": { "type": "integer" },
-          "account_id": { "type": "integer" },
-          "amount": { "type": "number" },
-          "transaction_type": { "type": "string", "enum": ["credit", "debit"] },
-          "created_at": { "type": "string", "format": "date-time" }
-        },
-        "required": ["id", "account_id", "amount", "transaction_type", "created_at"]
-      },
-      "history": {
-        "type": "array",
-        "items": {
-          "$ref": "#/properties/transaction"
+        "created_at": {
+          "type": "string",
+          "format": "date-time"
         }
       },
-      "status": {
-        "type": "string",
-        "enum": ["active", "inactive", "suspended"]
+      "required": [
+        "id",
+        "name",
+        "email",
+        "created_at"
+      ]
+    },
+    "address": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "user_id": {
+          "type": "integer"
+        },
+        "street": {
+          "type": "string"
+        },
+        "city": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "zip_code": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "user_id",
+        "street",
+        "city",
+        "state",
+        "zip_code"
+      ]
+    },
+    "account": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "user_id": {
+          "type": "integer"
+        },
+        "account_type": {
+          "type": "string",
+          "enum": [
+            "savings",
+            "checking"
+          ]
+        },
+        "balance": {
+          "type": "number"
+        },
+        "created_at": {
+          "type": "string",
+          "format": "date-time"
+        }
+      },
+      "required": [
+        "id",
+        "user_id",
+        "account_type",
+        "balance",
+        "created_at"
+      ]
+    },
+    "transaction": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "account_id": {
+          "type": "integer"
+        },
+        "amount": {
+          "type": "number"
+        },
+        "transaction_type": {
+          "type": "string",
+          "enum": [
+            "credit",
+            "debit"
+          ]
+        },
+        "created_at": {
+          "type": "string",
+          "format": "date-time"
+        }
+      },
+      "required": [
+        "id",
+        "account_id",
+        "amount",
+        "transaction_type",
+        "created_at"
+      ]
+    },
+    "history": {
+      "type": "array",
+      "items": {
+        "$ref": "#/properties/transaction"
       }
     },
-    "required": ["user", "status"]
+    "status": {
+      "type": "string",
+      "enum": [
+        "active",
+        "inactive",
+        "suspended"
+      ]
+    }
   }
-  
+}
