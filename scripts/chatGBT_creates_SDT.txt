@@ -5,3 +5,10 @@ create a jsonschema to hold standard KYC (know your customer) information, a jso
 create a jsonschema to hold standard AML (anti money laundering) information, a json test instance of that schema and a mock REST server in python and flask which receives the KYC message and returns a boolean value
 
 create a jsonschema to hold standard ACH (automatic clearing house) information, a json test instance of that schema and a mock REST server in python and flask which receives the ACH transaction and returns a boolean value
+
+Creating an API to manage the tracking of gold coin ownership, including transfers and fractional ownership, involves careful planning and adherence to precise data integrity and security measures. Here's how such an API could be structured.
+
+generate a react client which has a data entry screen for each of the KYC data, ACH data and AML data 
+
+generate a docker instance which imports four REST API servers written in python and starts them up automatically on non-competing ports
+
