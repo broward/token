@@ -1,14 +1,8 @@
 {
-  "address": {
-    "message_type": "address",
-    "version": "1.0",
-    "tracking_id": 71671344,
-    "create_date": 54221204,
-    "address1": "sint",
-    "address2": "nostrud",
-    "region": "aute",
-    "locality": "deserunt cillum velit dolor incididunt",
-    "postalCode": "quis aliqua voluptate do",
-    "country": "minim in laboris eiusmod"
+    "id": 1,
+    "user_id": 1,
+    "street": "123 Main St",
+    "city": "Anytown",
+    "state": "NY",
+    "zip_code": "12345"
   }
-}
