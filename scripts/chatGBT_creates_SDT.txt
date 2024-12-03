@@ -1,1 +1,7 @@
 generate a json schema using https://json-schema.org/draft/2020-12/schema rules which has user, address, account, transaction, history and status objects, generate a matching postgres DDL script, a python REST API using Flask and matching test json objects.
+
+create a jsonschema to hold standard KYC (know your customer) information, a json test instance of that schema and a mock REST server in python and flask which receives the KYC message and returns a boolean value
+
+create a jsonschema to hold standard AML (anti money laundering) information, a json test instance of that schema and a mock REST server in python and flask which receives the KYC message and returns a boolean value
+
+create a jsonschema to hold standard ACH (automatic clearing house) information, a json test instance of that schema and a mock REST server in python and flask which receives the ACH transaction and returns a boolean value
