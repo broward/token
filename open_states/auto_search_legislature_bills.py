@@ -74,7 +74,9 @@ def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
                 "updated": updated})
         
             if results:
-                with open(OUTPUT_FILE, "a") as f:
+                with open("pending_legislation.txt", "a") as f:
+            
+                    print(str(results))
                     f.write(f"Found {len(results)} bills:")
                     for result in results:
                         f.write(f"\n\nTitle: {result['title']}")
@@ -129,13 +131,58 @@ def main():
     session = "" # input("Enter legislative session (leave blank for all sessions): ").strip() or None
     
     size = 1
-    # while size > 0:
-    keyword = "stable token"
-    print(f"Searching for bills with keyword '{keyword}'...")
+    while size > 0:
+        keyword = "gold state depository"
+        print(f"Searching for bills with keyword '{keyword}'...")
 
-    bills = search_bills_by_keyword(size, keyword, jurisdiction, session)
-    size = len(bills)
-    print("return size = " + str(size))
+        bills = search_bills_by_keyword(size, keyword, jurisdiction, session)
+        size = len(bills)
+        print("return size = " + str(size))
+
+    size = 1
+    while size > 0:
+        keyword = "bullion depository"
+        print(f"Searching for bills with keyword '{keyword}'...")
+
+        bills = search_bills_by_keyword(size, keyword, jurisdiction, session)
+        size = len(bills)
+        print("return size = " + str(size))
+
+    size = 1
+    while size > 0:
+        keyword = "precious metals depository"
+        print(f"Searching for bills with keyword '{keyword}'...")
+
+        bills = search_bills_by_keyword(size, keyword, jurisdiction, session)
+        size = len(bills)
+        print("return size = " + str(size))
+
+    size = 1
+    while size > 0:
+        keyword = "precious metals digital currency"
+        print(f"Searching for bills with keyword '{keyword}'...")
+
+        bills = search_bills_by_keyword(size, keyword, jurisdiction, session)
+        size = len(bills)
+        print("return size = " + str(size))
+
+        size = 1
+    while size > 0:
+        keyword = "blockchain platform"
+        print(f"Searching for bills with keyword '{keyword}'...")
+
+        bills = search_bills_by_keyword(size, keyword, jurisdiction, session)
+        size = len(bills)
+        print("return size = " + str(size))
+
+    size = 1
+    while size > 0:
+        keyword = "digital currency platform"
+        print(f"Searching for bills with keyword '{keyword}'...")
+
+        bills = search_bills_by_keyword(size, keyword, jurisdiction, session)
+        size = len(bills)
+        print("return size = " + str(size))
 
 if __name__ == "__main__":
     main()
