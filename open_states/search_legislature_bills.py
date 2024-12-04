@@ -14,7 +14,7 @@ file.close()
 BASE_BILLS_URL = "https://v3.openstates.org/bills/"
 BASE_PEOPLE_URL = "https://v3.openstates.org/people/"
 
-def search_bills_by_keyword(keyword, jurisdiction="all", session=None):
+def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
     """
     Searches bills by title or subject for a specific keyword or phrase.
 
@@ -29,9 +29,10 @@ def search_bills_by_keyword(keyword, jurisdiction="all", session=None):
     params = {
         "sort": "updated_desc",
         "q": keyword,   # Search query
-        "page": 1,
+        "page": page,
         "per_page": 20,
         # "jurisdiction": jurisdiction,
+        "updated_at": "2024-06-04T02:43:14.396Z",
         "apikey": API_KEY,
         "session": session
     }
@@ -47,9 +48,11 @@ def search_bills_by_keyword(keyword, jurisdiction="all", session=None):
         for bill in bills:
             jurisdiction = bill.get("jurisdiction", [])
             title = bill.get("title", "No title available")
-            session = bill.get("session", "no session available")
+            identifier = bill.get("identifier", "no identifier available")
             subjects = bill.get("subject", [])
+            sponsor = bill.get("sponsor", "no sponsor listed")
             sponsors = bill.get("sponsorships", [])
+            updated = bill.get("updated_at", "no date available")
             
             # Collect sponsor names and IDs
             sponsor_details = [
@@ -60,11 +63,35 @@ def search_bills_by_keyword(keyword, jurisdiction="all", session=None):
             results.append({
                 "jurisdiction": jurisdiction,
                 "title": title,
-                "session": session,
+                "identifier": identifier,
                 "subjects": subjects,
-                "sponsors": sponsor_details
-            })
+                "sponsor": sponsor,
+                "sponsors": sponsor_details,
+                "updated": updated})
         
+            if results:
+                with open("legislation.txt", "a") as f:
+            
+                    print(str(results))
+                    f.write(f"Found {len(results)} bills:")
+                    for result in results:
+                        f.write(f"\n\nTitle: {result['title']}")
+                        f.write(f"\nJurisdiction: {result['jurisdiction']['name']}")
+                        f.write(f"\nIdentifier: {result['identifier']}")
+                        f.write(f"\nUpdated: {result['updated']}")
+                        f.write(f"\nSponsor: {result['sponsor']}")
+                        f.write(f"\nSubjects: {', '.join(result['subjects']) if result['subjects'] else 'None'}")
+                        if result["sponsors"]:
+                            f.write("\nSponsors:")
+                            for sponsor in result["sponsors"]:
+                                f.write(f"  - Name: {sponsor['name']} (ID: {sponsor['id']})")
+                        else:
+                            f.write("\nSponsors: None")
+            else:
+                print("Sponsors: None")
+        else:
+            print("No bills found.")
+
         return results
 
     except requests.exceptions.RequestException as e:
@@ -98,31 +125,13 @@ def main():
     jurisdiction = input("Enter jurisdiction (default is 'all'): ").strip() or "all"
     session = input("Enter legislative session (leave blank for all sessions): ").strip() or None
     
-    print(f"Searching for bills with keyword '{keyword}'...")
-    bills = search_bills_by_keyword(keyword, jurisdiction, session)
-    
-    if bills:
-        print(f"Found {len(bills)} bills:")
-        for bill in bills:
-            print(f"\nTitle: {bill['title']}")
-            print(f"Jurisdiction: {bill.get('jurisdiction', {}).get('name', 'Unknown')}")
-            print(f"Session: {bill['session']}")
-            print(f"Subjects: {', '.join(bill['subjects']) if bill['subjects'] else 'None'}")
-            if bill["sponsors"]:
-                print("Sponsors:")
-                for sponsor in bill["sponsors"]:
-                    print(f"  - Name: {sponsor['name']} (ID: {sponsor['id']})")
-            else:
-                print("Sponsors: None")
-    else:
-        print("No bills found.")
-    
-    # Optionally fetch sponsor details
-    sponsor_id = input("\nEnter a sponsor ID to fetch detailed information (or leave blank to exit): ").strip()
-    if sponsor_id:
-        sponsor_details = get_sponsor_details(sponsor_id)
-        print("\nSponsor Details:")
-        print(sponsor_details)
+    size = 1
+    while size > 0:
+        print(f"Searching for bills with keyword '{keyword}'...")
+
+        bills = search_bills_by_keyword(size, keyword, jurisdiction, session)
+        size = len(bills)
+        print("return size = " + str(size))
 
 if __name__ == "__main__":
     main()
