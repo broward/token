@@ -1,44 +1,66 @@
-from flask import Flask, jsonify, request
+from flask import Flask, request, jsonify
+import requests
 
 app = Flask(__name__)
 
-# Mock database (in-memory)
-db = {
-    "users": [],
-    "addresses": [],
-    "accounts": [],
-    "transactions": []
+# Dummy URL for external services (replace with real ones)
+KYB_API_URL = "http://example.com/kyc"
+AML_API_URL = "http://example.com/aml"
+ACH_API_URL = "http://example.com/ach"
+BLOCKCHAIN_API_URL = "http://example.com/quorum"
+
+# Dummy login check (replace with actual user validation)
+USERS = {
+    'user1': 'password123',
+    'user2': 'password456'
 }
 
-@app.route("/user", methods=["POST"])
-def create_user():
-    user = request.json
-    db["users"].append(user)
-    return jsonify({"message": "User created", "user": user}), 201
+# Function to handle external calls
+def send_to_external_api(url, data):
+    try:
+        response = requests.post(url, json=data)
+        if response.status_code == 200:
+            return response.json()
+        else:
+            return {"error": f"Failed to contact {url}"}
+    except Exception as e:
+        return {"error": str(e)}
 
-@app.route("/users", methods=["GET"])
-def get_users():
-    return jsonify(db["users"])
+# Login endpoint
+@app.route('/login', methods=['POST'])
+def login():
+    data = request.get_json()
+    username = data.get('username')
+    password = data.get('password')
 
-@app.route("/account", methods=["POST"])
-def create_account():
-    account = request.json
-    db["accounts"].append(account)
-    return jsonify({"message": "Account created", "account": account}), 201
+    if username in USERS and USERS[username] == password:
+        return jsonify({"message": "Login successful"}), 200
+    return jsonify({"message": "Invalid credentials"}), 401
 
-@app.route("/accounts", methods=["GET"])
-def get_accounts():
-    return jsonify(db["accounts"])
+# Transaction endpoint
+@app.route('/transaction', methods=['POST'])
+def transaction():
+    data = request.get_json()
 
-@app.route("/transaction", methods=["POST"])
-def create_transaction():
-    transaction = request.json
-    db["transactions"].append(transaction)
-    return jsonify({"message": "Transaction created", "transaction": transaction}), 201
+    # Assuming the transaction includes KYC, AML, ACH and Blockchain data
+    kyc_data = data.get('kyc_data')
+    aml_data = data.get('aml_data')
+    ach_data = data.get('ach_data')
+    blockchain_data = data.get('blockchain_data')
 
-@app.route("/transactions", methods=["GET"])
-def get_transactions():
-    return jsonify(db["transactions"])
+    # Sending data to external services
+    kyc_response = send_to_external_api(KYB_API_URL, kyc_data)
+    aml_response = send_to_external_api(AML_API_URL, aml_data)
+    ach_response = send_to_external_api(ACH_API_URL, ach_data)
+    blockchain_response = send_to_external_api(BLOCKCHAIN_API_URL, blockchain_data)
 
-if __name__ == "__main__":
+    # Returning responses from external services
+    return jsonify({
+        "kyc_response": kyc_response,
+        "aml_response": aml_response,
+        "ach_response": ach_response,
+        "blockchain_response": blockchain_response
+    })
+
+if __name__ == '__main__':
     app.run(debug=True)

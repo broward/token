@@ -12,3 +12,7 @@ generate a react client which has a data entry screen for each of the KYC data, 
 
 generate a docker instance which imports four REST API servers written in python and starts them up automatically on non-competing ports
 
+using the open states V3 api, create a python API script which searches the subject and title fields of all bills for a word or phrase and returns the title, subject and sponsor.  
+
+create a second python method which retrieves all sponsor info based on the sponsor id
+
