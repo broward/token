@@ -1,0 +1,53 @@
+version: '3.9'
+
+services:
+
+  aml_server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        API_DIR: test/mock_AML
+        PORT: 5001
+    ports:
+      - "5001:5001"
+
+  kyc_server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        API_DIR: test/mock_KYC
+        PORT: 5002
+    ports:
+      - "5002:5002"
+
+  ach_server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        API_DIR: test/mock_ACH
+        PORT: 5003
+    ports:
+      - "5003:5003"
+
+  gold_server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        API_DIR: test/gold_depository
+        PORT: 5004
+    ports:
+      - "5004:5004"
+      
+  sdt_server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        API_DIR: sdt
+        PORT: 5010
+    ports:
+      - "5010:5010"

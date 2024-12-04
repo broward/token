@@ -2,13 +2,11 @@ import requests
 import json
 import sys
 
+# Open States API Key
 file = open('/home/tyche/Downloads/api_key.json', "r")
 API_KEY = file.read().strip()
 print(API_KEY)
 file.close()
-
-# Open States API Key
-# API_KEY = "YOUR_API_KEY"
 
 # Base URLs for Open States API
 BASE_BILLS_URL = "https://v3.openstates.org/bills/"
@@ -53,6 +51,8 @@ def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
             sponsor = bill.get("sponsor", "no sponsor listed")
             sponsors = bill.get("sponsorships", [])
             updated = bill.get("updated_at", "no date available")
+
+            print(str(sponsors))
             
             # Collect sponsor names and IDs
             sponsor_details = [
@@ -70,7 +70,7 @@ def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
                 "updated": updated})
         
             if results:
-                with open("legislation.txt", "a") as f:
+                with open("pending_legislation.txt", "a") as f:
             
                     print(str(results))
                     f.write(f"Found {len(results)} bills:")
@@ -122,8 +122,8 @@ def get_sponsor_details(sponsor_id):
 def main():
     # Search for bills with a specific keyword
     keyword = input("Enter a keyword or phrase to search in bill titles and subjects: ").strip()
-    jurisdiction = input("Enter jurisdiction (default is 'all'): ").strip() or "all"
-    session = input("Enter legislative session (leave blank for all sessions): ").strip() or None
+    # jurisdiction = input("Enter jurisdiction (default is 'all'): ").strip() or "all"
+    # session = input("Enter legislative session (leave blank for all sessions): ").strip() or None
     
     size = 1
     while size > 0:
