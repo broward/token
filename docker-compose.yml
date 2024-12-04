@@ -2,6 +2,16 @@ version: '3.9'
 
 services:
 
+  db:
+    image: postgres
+    container_name: db
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=docker
+      - POSTGRES_DB=postgres
+    ports:
+      - "5432:5432"
+
   aml_server:
     build:
       context: .
@@ -48,6 +58,6 @@ services:
       dockerfile: Dockerfile
       args:
         API_DIR: sdt
-        PORT: 5010
+        PORT: 5005
     ports:
-      - "5010:5010"
+      - "5005:5005"

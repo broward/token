@@ -157,15 +157,6 @@ def main():
         size = len(bills)
         print("return size = " + str(size))
 
-    size = 1
-    while size > 0:
-        keyword = "precious metals digital currency"
-        print(f"Searching for bills with keyword '{keyword}'...")
-
-        bills = search_bills_by_keyword(size, keyword, jurisdiction, session)
-        size = len(bills)
-        print("return size = " + str(size))
-
         size = 1
     while size > 0:
         keyword = "blockchain platform"
