@@ -30,7 +30,7 @@ def search_bills_by_keyword(keyword, jurisdiction="all", session=None):
         "sort": "updated_desc",
         "q": keyword,   # Search query
         "page": 1,
-        "per_page": 10,
+        "per_page": 20,
         # "jurisdiction": jurisdiction,
         "apikey": API_KEY,
         "session": session
@@ -45,7 +45,9 @@ def search_bills_by_keyword(keyword, jurisdiction="all", session=None):
         results = []
         
         for bill in bills:
+            jurisdiction = bill.get("jurisdiction", [])
             title = bill.get("title", "No title available")
+            session = bill.get("session", "no session available")
             subjects = bill.get("subject", [])
             sponsors = bill.get("sponsorships", [])
             
@@ -56,7 +58,9 @@ def search_bills_by_keyword(keyword, jurisdiction="all", session=None):
             ]
             
             results.append({
+                "jurisdiction": jurisdiction,
                 "title": title,
+                "session": session,
                 "subjects": subjects,
                 "sponsors": sponsor_details
             })
@@ -101,6 +105,8 @@ def main():
         print(f"Found {len(bills)} bills:")
         for bill in bills:
             print(f"\nTitle: {bill['title']}")
+            print(f"Jurisdiction: {bill.get('jurisdiction', {}).get('name', 'Unknown')}")
+            print(f"Session: {bill['session']}")
             print(f"Subjects: {', '.join(bill['subjects']) if bill['subjects'] else 'None'}")
             if bill["sponsors"]:
                 print("Sponsors:")
