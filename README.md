@@ -42,6 +42,7 @@ Other Tools: [Misc](https://broward.ghost.io/2024/11/28/sdt-misc-tools/)
 9) Nitro Enclave returns result to API.
 10) API writes entry to Quorum blockchain.
 11) API returns result to client.
+12) API updates depositories.
 
 
 
