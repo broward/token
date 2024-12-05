@@ -34,7 +34,7 @@ def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
         "page": page,
         "per_page": 20,
         # "jurisdiction": jurisdiction,
-        "created_since": "2024-08-01",
+        "created_since": "2024-01-01",
         "include": ["sponsorships"],
         "apikey": API_KEY,
         "session": session
@@ -46,7 +46,6 @@ def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
         data = response.json()
         
         bills = data.get("results", [])
-        print(bills)
         results = []
         
         for bill in bills:
@@ -57,12 +56,10 @@ def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
             sponsor = bill.get("sponsor", "no sponsor listed")
             sponsors = bill.get("sponsorships", [])
             updated = bill.get("updated_at", "no date available")
-
-            print(str(sponsors))
             
             # Collect sponsor names and IDs
             sponsor_details = [
-                {"name": sponsor.get("name"), "id": sponsor.get("id")}
+                {"name": sponsor.get("name"), "id": sponsor.get("id"), "person": sponsor.get("person")}
                 for sponsor in sponsors
             ]
             
@@ -80,13 +77,23 @@ def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
                     # f.write(f"Found {len(results)} bills:")
                     for result in results:
                         f.write(f"\n\nTitle: {result['title']}")
-                        f.write(f"\nJurisdiction: {result['jurisdiction']['name']}")
-                        f.write(f"\nIdentifier: {result['identifier']}")
-                        f.write("\n")
+                        f.write(f"\nJurisdiction: {result['jurisdiction']['name']} - {result['identifier']}")
+                        
                         if result["sponsors"]:
-                            f.write("\nSponsors:")
                             for sponsor in result["sponsors"]:
-                               f.write(f"\n  - Name: {sponsor['name']}")
+                                f.write(f"\n{sponsor['name']}")
+
+                                person = sponsor["person"]
+                                if person:
+                                    id = person["id"]
+
+                                    #if id:
+                                    #    offices = get_sponsor_details(id)
+
+                                    #    if offices:
+                                    #        for office in offices:
+                                    #            print(office)
+                                                #f.write(f"\n{office['address']}")
                         else:
                             f.write("\nSponsors: None")
             else:
@@ -101,17 +108,13 @@ def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
         return []
 
 def get_sponsor_details(sponsor_id):
-    """
-    Retrieves detailed information about a sponsor by their ID.
+    
+    # Retrieves detailed information about a sponsor by their ID.
 
-    Args:
-        sponsor_id (str): The sponsor's unique ID.
-
-    Returns:
-        dict: Detailed information about the sponsor.
-    """
-    url = f"{BASE_PEOPLE_URL}{sponsor_id}/"
-    params = {"apikey": API_KEY}
+    url = f"{BASE_PEOPLE_URL}/"
+    params = {"id": sponsor_id,
+              "include": ["offices"],
+              "apikey": API_KEY}
     
     try:
         response = requests.get(url, params=params)
@@ -128,6 +131,10 @@ def main():
     session = "" # input("Enter legislative session (leave blank for all sessions): ").strip() or None
     
     size = 1
+    #keyword = "cryptocurrency"
+    #keyword = "blockchain"
+    #keyword = "bullion depository"
+    #keyword = "precious metals depository"
     keyword = "blockchain"
     jurisdiction = "Texas"
     # session = "2024"
@@ -136,6 +143,8 @@ def main():
     bills = search_bills_by_keyword(size, keyword, jurisdiction, session)
     size = len(bills)
     print("return size = " + str(size))
+
+
 
 if __name__ == "__main__":
     main()

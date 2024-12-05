@@ -1,128 +1,23 @@
 
 
-Title: Relating to a study by the General Land Office on the establishment and implementation by the General Land Office of a distributed ledger-based title registry pilot program.
-Jurisdiction: Texas
-Identifier: HB 1043
+Title: An Act providing for restriction on use and custody of digital assets prohibited and for use of nodes authorized.
+Jurisdiction: Pennsylvania - HB 2481
+Mike Cabell
+Aaron Kaufer
+Jamie Flick
+Alec Ryncavage
+Torren Ecker
+Thomas Kutz
 
-Sponsors:
-  - Name: Bhojani
+Title: An Act providing for restriction on use and custody of digital assets prohibited and for use of nodes authorized.
+Jurisdiction: Pennsylvania - HB 2481
+Mike Cabell
+Aaron Kaufer
+Jamie Flick
+Alec Ryncavage
+Torren Ecker
+Thomas Kutz
 
-Title: Relating to a study by the General Land Office on the establishment and implementation by the General Land Office of a distributed ledger-based title registry pilot program.
-Jurisdiction: Texas
-Identifier: HB 1043
-
-Sponsors:
-  - Name: Bhojani
-
-Title: Digital assets, prohibits the state from certain actions related to digital assets and exempts certain actions from classification as a security or money transfer.
-Jurisdiction: Alabama
-Identifier: SB 17
-
-Sponsors:
-  - Name: Merika Coleman
-
-Title: Relating to a study by the General Land Office on the establishment and implementation by the General Land Office of a distributed ledger-based title registry pilot program.
-Jurisdiction: Texas
-Identifier: HB 1043
-
-Sponsors:
-  - Name: Bhojani
-
-Title: Digital assets, prohibits the state from certain actions related to digital assets and exempts certain actions from classification as a security or money transfer.
-Jurisdiction: Alabama
-Identifier: SB 17
-
-Sponsors:
-  - Name: Merika Coleman
-
-Title: Businesses: other; regulations regarding cryptocurrency and digital asset mining; provide for. Creates new act.
-Jurisdiction: Michigan
-Identifier: HB 6147
-
-Sponsors:
-  - Name: Steve Carra
-  - Name: Matt Maddock
-  - Name: James DeSana
-  - Name: Josh Schriver
-  - Name: Jaime Greene
-  - Name: Joseph Fox
-  - Name: Neil Friske
-
-Title: Relating to a study by the General Land Office on the establishment and implementation by the General Land Office of a distributed ledger-based title registry pilot program.
-Jurisdiction: Texas
-Identifier: HB 1043
-
-Sponsors:
-  - Name: Bhojani
-
-Title: Digital assets, prohibits the state from certain actions related to digital assets and exempts certain actions from classification as a security or money transfer.
-Jurisdiction: Alabama
-Identifier: SB 17
-
-Sponsors:
-  - Name: Merika Coleman
-
-Title: Businesses: other; regulations regarding cryptocurrency and digital asset mining; provide for. Creates new act.
-Jurisdiction: Michigan
-Identifier: HB 6147
-
-Sponsors:
-  - Name: Steve Carra
-  - Name: Matt Maddock
-  - Name: James DeSana
-  - Name: Josh Schriver
-  - Name: Jaime Greene
-  - Name: Joseph Fox
-  - Name: Neil Friske
-
-Title: Permit fee payment by cryptocurrency; cryptocurrency investments
-Jurisdiction: Ohio
-Identifier: SB 317
-
-Sponsors:
-  - Name: Niraj Antani
-
-Title: Relating to a study by the General Land Office on the establishment and implementation by the General Land Office of a distributed ledger-based title registry pilot program.
-Jurisdiction: Texas
-Identifier: HB 1043
-
-Sponsors:
-  - Name: Bhojani
-
-Title: Digital assets, prohibits the state from certain actions related to digital assets and exempts certain actions from classification as a security or money transfer.
-Jurisdiction: Alabama
-Identifier: SB 17
-
-Sponsors:
-  - Name: Merika Coleman
-
-Title: Businesses: other; regulations regarding cryptocurrency and digital asset mining; provide for. Creates new act.
-Jurisdiction: Michigan
-Identifier: HB 6147
-
-Sponsors:
-  - Name: Steve Carra
-  - Name: Matt Maddock
-  - Name: James DeSana
-  - Name: Josh Schriver
-  - Name: Jaime Greene
-  - Name: Joseph Fox
-  - Name: Neil Friske
-
-Title: Permit fee payment by cryptocurrency; cryptocurrency investments
-Jurisdiction: Ohio
-Identifier: SB 317
-
-Sponsors:
-  - Name: Niraj Antani
-
-Title: Empowering Law Enforcement to Combat Financial Fraud Act
-Jurisdiction: United States
-Identifier: HR 9480
-
-Sponsors:
-  - Name: Josh Gottheimer
-  - Name: Scott Fitzgerald
-  - Name: Brittany Pettersen
-  - Name: Donald G. Davis
-  - Name: Zachary Nunn
+Title: Establishes the New York state cryptocurrency and blockchain study task force
+Jurisdiction: New York - S 8136
+James Sanders Jr.
