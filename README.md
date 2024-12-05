@@ -26,7 +26,7 @@ Vault: AWS Nitro Enclave\
 Schema: [OpenAPI](https://broward.ghost.io/2024/11/27/sdt-schema/) - [Editor](https://swagger.io/tools/swagger-editor/download/)\
 Stablecoin: [Custom work to extend Quorum](https://broward.ghost.io/2024/11/28/sdt-stablecoin/)\
 Depositories: Probably proprietary API work\
-Other Tools: [Misc](https://broward.ghost.io/2024/11/28/sdt-misc-tools/)\
+Other Tools: [Misc](https://broward.ghost.io/2024/11/28/sdt-misc-tools/)
 
 
 **PROCESS FLOW**
