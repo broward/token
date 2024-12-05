@@ -34,7 +34,8 @@ def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
         "page": page,
         "per_page": 20,
         # "jurisdiction": jurisdiction,
-        "updated_at": "2024-06-04T02:43:14.396Z",
+        "created_since": "2024-08-01",
+        "include": ["sponsorships"],
         "apikey": API_KEY,
         "session": session
     }
@@ -45,6 +46,7 @@ def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
         data = response.json()
         
         bills = data.get("results", [])
+        print(bills)
         results = []
         
         for bill in bills:
@@ -75,21 +77,18 @@ def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
         
             if results:
                 with open(OUTPUT_FILE, "a") as f:
-                    f.write(f"Found {len(results)} bills:")
+                    # f.write(f"Found {len(results)} bills:")
                     for result in results:
                         f.write(f"\n\nTitle: {result['title']}")
                         f.write(f"\nJurisdiction: {result['jurisdiction']['name']}")
                         f.write(f"\nIdentifier: {result['identifier']}")
                         f.write("\n")
-                        # f.write(f"\nUpdated: {result['updated']}")
-                        # f.write(f"\nSponsor: {result['sponsor']}")
-                        # f.write(f"\nSubjects: {', '.join(result['subjects']) if result['subjects'] else 'None'}")
-                        # if result["sponsors"]:
-                        #    f.write("\nSponsors:")
-                        #    for sponsor in result["sponsors"]:
-                        #        f.write(f"  - Name: {sponsor['name']} (ID: {sponsor['id']})")
-                        #else:
-                        #    f.write("\nSponsors: None")
+                        if result["sponsors"]:
+                            f.write("\nSponsors:")
+                            for sponsor in result["sponsors"]:
+                               f.write(f"\n  - Name: {sponsor['name']}")
+                        else:
+                            f.write("\nSponsors: None")
             else:
                 print(" Sponsors: None")
         else:
@@ -129,8 +128,9 @@ def main():
     session = "" # input("Enter legislative session (leave blank for all sessions): ").strip() or None
     
     size = 1
-    # while size > 0:
-    keyword = "stable token"
+    keyword = "blockchain"
+    jurisdiction = "Texas"
+    # session = "2024"
     print(f"Searching for bills with keyword '{keyword}'...")
 
     bills = search_bills_by_keyword(size, keyword, jurisdiction, session)
