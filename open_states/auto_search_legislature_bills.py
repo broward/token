@@ -1,3 +1,4 @@
+import time
 import requests
 import json
 import sys, os
@@ -17,6 +18,8 @@ if os.path.exists(OUTPUT_FILE):
     os.remove(OUTPUT_FILE)
 
 def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
+
+    time. sleep(5) 
     """
     Searches bills by title or subject for a specific keyword or phrase.
 
@@ -148,15 +151,6 @@ def main():
         size = len(bills)
         print("return size = " + str(size))
 
-    size = 1
-    while size > 0:
-        keyword = "precious metals depository"
-        print(f"Searching for bills with keyword '{keyword}'...")
-
-        bills = search_bills_by_keyword(size, keyword, jurisdiction, session)
-        size = len(bills)
-        print("return size = " + str(size))
-
         size = 1
     while size > 0:
         keyword = "blockchain platform"
@@ -169,6 +163,15 @@ def main():
     size = 1
     while size > 0:
         keyword = "digital currency platform"
+        print(f"Searching for bills with keyword '{keyword}'...")
+
+        bills = search_bills_by_keyword(size, keyword, jurisdiction, session)
+        size = len(bills)
+        print("return size = " + str(size))
+        
+    size = 1
+    while size > 0:
+        keyword = "precious metals depository"
         print(f"Searching for bills with keyword '{keyword}'...")
 
         bills = search_bills_by_keyword(size, keyword, jurisdiction, session)
