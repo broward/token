@@ -1,6 +1,15 @@
 
 sudo apt install python3.9-distutils
 
+# Install Python 3.9 and dependencies
+sudo apt update
+sudo apt install software-properties-common
+
+Add the deadsnakes PPA to your system’s sources list:
+sudo add-apt-repository ppa:deadsnakes/ppa
+sudo apt install python3.9
+python3.9 --version
+
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python3.9 get-pip.py
 python3.9 get-pip.py --user

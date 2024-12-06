@@ -1,4 +1,5 @@
- https://desktop.docker.com/linux/main/amd64/docker-desktop-amd64.deb
+ curl -O https://desktop.docker.com/linux/main/amd64/docker-desktop-amd64.deb
+ sudo dpkg -i ./docker-desktop-amd64.deb
  
  sudo apt install gnome-terminal
  sudo apt-get update

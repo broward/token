@@ -25,7 +25,9 @@ Queue: [AWS SQS](https://broward.ghost.io/2020/08/14/revision-2/)\
 Vault: AWS Nitro Enclave\
 Schema: [OpenAPI](https://broward.ghost.io/2024/11/27/sdt-schema/) - [Editor](https://swagger.io/tools/swagger-editor/download/)\
 Stablecoin: [Custom work to extend Quorum](https://broward.ghost.io/2024/11/28/sdt-stablecoin/)\
-Depositories: Probably proprietary API work\
+Config Managemeny: [Test out DynaConfig](https://www.dynaconf.com/)
+Integration Testing: [Test out Localsource](https://docs.localstack.cloud/user-guide/aws/feature-coverage/)
+Depositories: Some proprietary API work\
 Other Tools: [Misc](https://broward.ghost.io/2024/11/28/sdt-misc-tools/)
 
 
