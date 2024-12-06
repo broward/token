@@ -1,0 +1,7 @@
+{
+    "KYB_API_URL": "http://example.com/kyc",
+    "AML_API_URL": "http://example.com/aml",
+    "ACH_API_URL": "http://example.com/ach",
+    "BLOCKCHAIN_API_URL": "http://example.com/quorum"
+  }
+  

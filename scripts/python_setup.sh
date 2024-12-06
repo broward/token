@@ -1,33 +1,37 @@
-
-sudo apt install python3.9-distutils
-
 # Install Python 3.9 and dependencies
 sudo apt update
 sudo apt install software-properties-common
 
-Add the deadsnakes PPA to your system’s sources list:
+# Add the deadsnakes PPA to your system’s sources list:
+sudo apt install python3.9-distutils
 sudo add-apt-repository ppa:deadsnakes/ppa
 sudo apt install python3.9
+sudo apt install python3-pip
 python3.9 --version
+
+# create venv
+python3.9 -m venv ~/py_envs
+source ~/py_envs/bin/activate
 
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python3.9 get-pip.py
 python3.9 get-pip.py --user
 
 # server
-pip3.9 install requests
+pip install requests
+pip install dynaconf
 
 # database
-pip3.9 install flask
-pip3.9 install jsonify
-pip3.9 install peewee
-pip3.9 install psycopg2-binary
+pip install flask
+pip install jsonify
+pip install peewee
+pip install psycopg2-binary
 
 # https://python-jsonschema.readthedocs.io/en/stable/
-pip3.9 install --upgrade jsonschema
+pip install --upgrade jsonschema
 
 # alternate validator https://github.com/marksparkza/jschon
-pip3.9 install jschon
-pip3.9 install jschon[requests]
+# pip install jschon
+# pip install jschon[requests]
 
 
