@@ -10,7 +10,7 @@ My goal is to create this system via State funding‚ grants‚ consulting, etc.
 
 [Research & Design](https://broward.ghost.io/token/)
 
-![SDTOverview](https://github.com/broward/token/blob/main/docs/SDTOverview.jpg)
+![SDTOverview](https://github.com/broward/token/blob/main/docs/SDTAltOverview.jpg)
 
 Components defined and justified for State Depository Token Platform:
 
