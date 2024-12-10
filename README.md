@@ -33,18 +33,21 @@ Other Tools: [Misc](https://broward.ghost.io/2024/11/28/sdt-misc-tools/)
 
 **PROCESS FLOW**
 
-1) OpenAPI and ChatGBT create message schemas, REST server and database DDL.
-2) Python and ChatGBT generate the execution code.
-3) Client sends a transaction message plus a private key shard.
-4) REST API accepts the message and queues it to SQS.
-5) API retrieves 2nd key shard from RDS.
-6) API submits it all to Nitro Enclave.
-7) The embedded Fireblocks library retrieves 3rd key shard.
-8) Fireblocks executes MPC on assembled key to validate.
-9) Nitro Enclave returns result to API.
-10) API writes entry to Quorum blockchain.
-11) API returns result to client.
-12) API updates depositories.
+PROCESS OVERVIEW
+
+* OpenAPI and ChatGBT create schemas, SQL DDL and REST apis.
+* ChatGBT creates python API code.
+* Fireblocks generates/distributes key shards.
+* Client requests a transaction_id.
+* Client sends a signed EDDSA transaction.
+* REST API accepts the message and queues it to SQS
+* API submits transaction to Nitro Enclave.
+* Fireblocks retrieves shards and assembles key.
+* Fireblocks validates transaction.
+* Fireblocks writes a chain entry to Quorum.
+* Nitro Enclave returns result to API.
+* API returns result to client.
+* API updates depositories.
 
 
 
