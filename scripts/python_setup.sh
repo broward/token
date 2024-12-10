@@ -23,6 +23,7 @@ pip install dynaconf
 pip install fastapi
 pip install nacl.signing
 pip install boto3
+pip install pydantic
 
 # database
 pip install flask
