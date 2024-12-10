@@ -1,66 +1,102 @@
-from flask import Flask, request, jsonify
+import os
+import uuid
+import json
+from fastapi import FastAPI, HTTPException
+from dynaconf import Dynaconf
+from pydantic import BaseModel
+from nacl.signing import VerifyKey
+import boto3
 import requests
 
-app = Flask(__name__)
+# Load Dynaconf settings based on environment variable
+env = os.getenv("ENV_FOR_DYNACONF", "prod")
+settings = Dynaconf(
+    settings_files=["settings.json"],
+    environments=True,
+    env=env
+)
 
-# Dummy URL for external services (replace with real ones)
-KYB_API_URL = "http://example.com/kyc"
-AML_API_URL = "http://example.com/aml"
-ACH_API_URL = "http://example.com/ach"
-BLOCKCHAIN_API_URL = "http://example.com/quorum"
+# Initialize FastAPI
+app = FastAPI()
 
-# Dummy login check (replace with actual user validation)
-USERS = {
-    'user1': 'password123',
-    'user2': 'password456'
-}
+# AWS SQS client
+sqs_client = boto3.client("sqs", region_name="us-east-1")
 
-# Function to handle external calls
-def send_to_external_api(url, data):
+# Base model for signed messages
+class SignedMessage(BaseModel):
+    message: str
+    signature: str
+    public_key: str
+
+
+@app.get("/get_tracking_id")
+def get_tracking_id():
+    """
+    Generates and returns a unique GUID value.
+    """
+    return {"tracking_id": str(uuid.uuid4())}
+
+
+@app.post("/run_transaction")
+def run_transaction(data: SignedMessage):
+    """
+    Accepts a signed EDDSA JSON message, unsigns it, and returns a result boolean.
+    """
     try:
-        response = requests.post(url, json=data)
-        if response.status_code == 200:
-            return response.json()
-        else:
-            return {"error": f"Failed to contact {url}"}
+        public_key = VerifyKey(bytes.fromhex(data.public_key))
+        message_bytes = data.message.encode()
+        signature_bytes = bytes.fromhex(data.signature)
+        public_key.verify(message_bytes, signature_bytes)
+
+        message_json = json.loads(data.message)
+        return {"result": True, "message": message_json}
     except Exception as e:
-        return {"error": str(e)}
+        raise HTTPException(status_code=400, detail=f"Invalid signature or message: {str(e)}")
 
-# Login endpoint
-@app.route('/login', methods=['POST'])
-def login():
-    data = request.get_json()
-    username = data.get('username')
-    password = data.get('password')
 
-    if username in USERS and USERS[username] == password:
-        return jsonify({"message": "Login successful"}), 200
-    return jsonify({"message": "Invalid credentials"}), 401
+def _read_from_sqs():
+    """
+    Private method to read a JSON message from SQS.
+    """
+    try:
+        response = sqs_client.receive_message(
+            QueueUrl=settings.sqs_queue,
+            MaxNumberOfMessages=1,
+            WaitTimeSeconds=5,
+        )
+        messages = response.get("Messages", [])
+        if not messages:
+            return None
+        message = messages[0]
+        receipt_handle = message["ReceiptHandle"]
+        sqs_client.delete_message(QueueUrl=settings.sqs_queue, ReceiptHandle=receipt_handle)
+        return json.loads(message["Body"])
+    except Exception as e:
+        raise RuntimeError(f"Failed to read from SQS: {str(e)}")
 
-# Transaction endpoint
-@app.route('/transaction', methods=['POST'])
-def transaction():
-    data = request.get_json()
 
-    # Assuming the transaction includes KYC, AML, ACH and Blockchain data
-    kyc_data = data.get('kyc_data')
-    aml_data = data.get('aml_data')
-    ach_data = data.get('ach_data')
-    blockchain_data = data.get('blockchain_data')
+def _write_to_sqs(message):
+    """
+    Private method to write a JSON message to SQS.
+    """
+    try:
+        sqs_client.send_message(
+            QueueUrl=settings.sqs_queue,
+            MessageBody=json.dumps(message),
+        )
+    except Exception as e:
+        raise RuntimeError(f"Failed to write to SQS: {str(e)}")
 
-    # Sending data to external services
-    kyc_response = send_to_external_api(KYB_API_URL, kyc_data)
-    aml_response = send_to_external_api(AML_API_URL, aml_data)
-    ach_response = send_to_external_api(ACH_API_URL, ach_data)
-    blockchain_response = send_to_external_api(BLOCKCHAIN_API_URL, blockchain_data)
 
-    # Returning responses from external services
-    return jsonify({
-        "kyc_response": kyc_response,
-        "aml_response": aml_response,
-        "ach_response": ach_response,
-        "blockchain_response": blockchain_response
-    })
+@app.post("/send_to_fireblocks")
+def send_to_fireblocks(message: dict):
+    """
+    Sends a JSON message to Fireblocks.
+    """
+    try:
+        fireblocks_url = settings.external_auth + "/fireblocks"
+        response = requests.post(fireblocks_url, json=message)
+        return response.json()
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Failed to send to Fireblocks: {str(e)}")
 
-if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5005)

@@ -1,7 +1,28 @@
 {
-    "KYB_API_URL": "http://example.com/kyc",
-    "AML_API_URL": "http://example.com/aml",
-    "ACH_API_URL": "http://example.com/ach",
-    "BLOCKCHAIN_API_URL": "http://example.com/quorum"
+  "default": {
+    "env": "prod"
+  },
+  "prod": {
+    "client_url": "localhost:500",
+    "ach_server": "localhost:500",
+    "aml_server": "localhost:500",
+    "kyc_server": "localhost:500",
+    "quorum_chain": "localhost:500",
+    "state_treasury": "localhost:500",
+    "gold_depository": "localhost:500",
+    "external_auth": "localhost:500",
+    "sqs_queue": "localhost:500"
+  },
+  "test": {
+    "client_url": "localhost:500",
+    "ach_server": "localhost:500",
+    "aml_server": "localhost:500",
+    "kyc_server": "localhost:500",
+    "quorum_chain": "localhost:500",
+    "state_treasury": "localhost:500",
+    "gold_depository": "localhost:500",
+    "external_auth": "localhost:500",
+    "sqs_queue": "localhost:500"
   }
-  
+}
+
