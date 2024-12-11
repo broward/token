@@ -53,3 +53,10 @@ Other Tools: [Misc](https://broward.ghost.io/2024/11/28/sdt-misc-tools/)
 * MPC Library validates transaction.
 * MPC Library writes a chain entry to Quorum.
 * Block Composite returns result to API.
+
+**Three Separate security systems:**
+
+* Transport layer uses EDSSA signed messages with client public keys stored in RDS, referenced by user_id.
+* Secrets Store holds login data for internal AWS use such as RDS.
+* MPC Library uses a third security scheme for key sharding and transaction validation.
+
