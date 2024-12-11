@@ -36,9 +36,9 @@ def execute_transaction(key, transaction_data):
         return {"result": False, "error": str(e)}
 
 
-def fireblocks_transaction(transaction_data):
+def mcp_transaction(transaction_data):
     """
-    Main Fireblocks transaction process.
+    Main MCP transaction process.
     """
     key = retrieve_key_shards()
     result = execute_transaction(key, transaction_data)

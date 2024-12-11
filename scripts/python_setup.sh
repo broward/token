@@ -21,7 +21,7 @@ python3.9 get-pip.py --user
 pip install requests
 pip install dynaconf
 pip install fastapi
-pip install nacl.signing
+pip install pynacl
 pip install boto3
 pip install pydantic
 

@@ -88,15 +88,15 @@ def _write_to_sqs(message):
         raise RuntimeError(f"Failed to write to SQS: {str(e)}")
 
 
-@app.post("/send_to_fireblocks")
-def send_to_fireblocks(message: dict):
+@app.post("/send_to_mcp")
+def send_to_mcp(message: dict):
     """
-    Sends a JSON message to Fireblocks.
+    Sends a JSON message to MCP library.
     """
     try:
-        fireblocks_url = settings.external_auth + "/fireblocks"
+        mcp_url = settings.external_auth + "/mcp"
         response = requests.post(fireblocks_url, json=message)
         return response.json()
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Failed to send to Fireblocks: {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Failed to send to MCP: {str(e)}")
 
