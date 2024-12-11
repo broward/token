@@ -10,8 +10,6 @@ My goal is to create this system via State funding‚ grants‚ consulting, etc.
 
 [Research & Design](https://broward.ghost.io/token/)
 
-![SDTOverview](https://github.com/broward/token/blob/main/docs/APIOverview.jpg)
-
 Components defined and justified for State Depository Token Platform:
 
 ACH, KYC & AML: [3rd-party API development](https://broward.ghost.io/2024/11/28/sdt-kyc-and-aml/)\
@@ -31,6 +29,8 @@ Depositories: Some proprietary API work\
 Other Tools: [Misc](https://broward.ghost.io/2024/11/28/sdt-misc-tools/)
 
 
+![SDTOverview](https://github.com/broward/token/blob/main/docs/APIOverview.jpg)
+
 **API PROCESS FLOW**
 
 * ChatGBT create schemas, SQL DDL, REST apis and python API code.
@@ -42,8 +42,8 @@ Other Tools: [Misc](https://broward.ghost.io/2024/11/28/sdt-misc-tools/)
 * API returns result to client.
 * API updates depositories.
 
-![BlockOverview](https://github.com/broward/token/blob/main/docs/BlockOverview.jpg)
 
+![BlockOverview](https://github.com/broward/token/blob/main/docs/BlockOverview.jpg)
 
 **BLOCK COMPOSITE PROCESS FLOW**
 
