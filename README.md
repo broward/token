@@ -20,7 +20,7 @@ Blockchain: [Quorum](https://broward.ghost.io/2024/11/26/sdt-blockchain-3/) - [Q
 Database: AWS RDS\
 ORM: Prototype with [Peewee](https://broward.ghost.io/2024/11/28/sdt-orm/) - [https://github.com/coleifer/peewee](https://github.com/coleifer/peewee)\
 Transport: [AWS Lambda](https://broward.ghost.io/2020/08/14/revision-2/)\
-Security: [Fireblocks MPC](https://broward.ghost.io/2024/11/26/sdt-security/) - [Github](https://github.com/fireblocks/mpc-lib)\
+Security: [Indeterminate MPC Library](https://broward.ghost.io/2024/11/26/sdt-security/)
 Queue: [AWS SQS](https://broward.ghost.io/2020/08/14/revision-2/)\
 Vault: AWS Nitro Enclave\
 Schema: [OpenAPI](https://broward.ghost.io/2024/11/27/sdt-schema/) - [Editor](https://swagger.io/tools/swagger-editor/download/)\
@@ -31,7 +31,7 @@ Depositories: Some proprietary API work\
 Other Tools: [Misc](https://broward.ghost.io/2024/11/28/sdt-misc-tools/)
 
 
-**PROCESS FLOW**
+**API PROCESS FLOW**
 
 * ChatGBT create schemas, SQL DDL, REST apis and python API code.
 * Client requests a transaction_id.
@@ -45,7 +45,7 @@ Other Tools: [Misc](https://broward.ghost.io/2024/11/28/sdt-misc-tools/)
 ![BlockOverview](https://github.com/broward/token/blob/main/docs/BlockOverview.jpg)
 
 
-**PROCESS FLOW**
+**BLOCK COMPOSITE PROCESS FLOW**
 
 * MPC Library generates/distributes key shards to three locations.
 * API submits transaction to Blockchain Composite.
