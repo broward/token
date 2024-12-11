@@ -3,7 +3,7 @@ import json
 import sys, os
 
 # Open States API Key
-file = open('/home/tyche/Downloads/api_key.json', "r")
+file = open('../keys/open_spaces_api_key.json', "r")
 API_KEY = file.read().strip()
 print(API_KEY)
 file.close()
@@ -132,10 +132,10 @@ def main():
     
     size = 1
     #keyword = "cryptocurrency"
-    #keyword = "blockchain"
-    #keyword = "bullion depository"
+    keyword = "blockchain basics"
+    #keyword = "financial innovation"
     #keyword = "precious metals depository"
-    keyword = "blockchain"
+    #keyword = "blockchain cryptocurrency"
     jurisdiction = "Texas"
     # session = "2024"
     print(f"Searching for bills with keyword '{keyword}'...")
