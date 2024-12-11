@@ -37,7 +37,7 @@ Other Tools: [Misc](https://broward.ghost.io/2024/11/28/sdt-misc-tools/)
 * Client requests a transaction_id.
 * Client sends a signed EDDSA transaction.
 * REST API accepts the message and queues it to SQS
-* API submits transaction to Blockchain Composite.
+* API submits transaction to Blockchain Module.
 * Blockchain Module returns result to API.
 * API returns result to client.
 * API updates depositories.
@@ -48,11 +48,11 @@ Other Tools: [Misc](https://broward.ghost.io/2024/11/28/sdt-misc-tools/)
 **BLOCK MODULE PROCESS FLOW**
 
 * MPC Library generates/distributes key shards to three locations.
-* API submits transaction to Blockchain Composite.
+* API submits transaction to Blockchain Module.
 * MPC Library retrieves shards and assembles key.
 * MPC Library validates transaction.
 * MPC Library writes a chain entry to Quorum.
-* Block Composite returns result to API.
+* Block Module returns result to API.
 
 **Three Separate security systems:**
 
