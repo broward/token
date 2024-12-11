@@ -10,7 +10,7 @@ My goal is to create this system via State funding‚ grants‚ consulting, etc.
 
 [Research & Design](https://broward.ghost.io/token/)
 
-![SDTOverview](https://github.com/broward/token/blob/main/docs/SDTAltOverview.jpg)
+![SDTOverview](https://github.com/broward/token/blob/main/docs/APIOverview.jpg)
 
 Components defined and justified for State Depository Token Platform:
 
@@ -33,21 +33,23 @@ Other Tools: [Misc](https://broward.ghost.io/2024/11/28/sdt-misc-tools/)
 
 **PROCESS FLOW**
 
-PROCESS OVERVIEW
-
-* OpenAPI and ChatGBT create schemas, SQL DDL and REST apis.
-* ChatGBT creates python API code.
-* Fireblocks generates/distributes key shards.
+* ChatGBT create schemas, SQL DDL, REST apis and python API code.
 * Client requests a transaction_id.
 * Client sends a signed EDDSA transaction.
 * REST API accepts the message and queues it to SQS
-* API submits transaction to Nitro Enclave.
-* Fireblocks retrieves shards and assembles key.
-* Fireblocks validates transaction.
-* Fireblocks writes a chain entry to Quorum.
-* Nitro Enclave returns result to API.
+* API submits transaction to Blockchain Composite.
+* Blockchain Composite returns result to API.
 * API returns result to client.
 * API updates depositories.
 
+![BlockOverview](https://github.com/broward/token/blob/main/docs/BlockOverview.jpg)
 
 
+**PROCESS FLOW**
+
+* MPC Library generates/distributes key shards to three locations.
+* API submits transaction to Blockchain Composite.
+* MPC Library retrieves shards and assembles key.
+* MPC Library validates transaction.
+* MPC Library writes a chain entry to Quorum.
+* Block Composite returns result to API.
