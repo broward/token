@@ -5,7 +5,7 @@ South Ozone Park,  NY 11436
 
 Senator Lea Webb
 44 Hawley Street,
-1607 State Office Bldg.,
+1607 State Office Bldg.
 Binghamton,  NY 13901
 
 New York - A 9507
@@ -114,6 +114,15 @@ Committee on Federal and State Affairs
 Sen. Rick Kloos
 4728 SE Berryton Road
 Berryton, KS 66409
+
+Senator Chase Blasi
+1746 N. Blackstone Ct.
+Wichita, KS 67235
+
+Senator Jeff Longbine
+2801 Lakeridge Road
+Emporia, KS 66801
+
 
 Virginia - SB 339/439
 Senator Saddam Azlan Salim
