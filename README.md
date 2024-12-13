@@ -18,7 +18,7 @@ Blockchain: [Quorum](https://broward.ghost.io/2024/11/26/sdt-blockchain-3/) - [Q
 Database: AWS RDS\
 ORM: Prototype with [Peewee](https://broward.ghost.io/2024/11/28/sdt-orm/) - [https://github.com/coleifer/peewee](https://github.com/coleifer/peewee)\
 Transport: [AWS Lambda](https://broward.ghost.io/2020/08/14/revision-2/)\
-Security: [mpyc MPC Library](mpyc)
+Security: [mpyc MPC Library](mpyc)\
 Queue: [AWS SQS](https://broward.ghost.io/2020/08/14/revision-2/)\
 Vault: AWS Nitro Enclave\
 Schema: [OpenAPI](https://broward.ghost.io/2024/11/27/sdt-schema/) - [Editor](https://swagger.io/tools/swagger-editor/download/)\
