@@ -34,7 +34,7 @@ def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
         "page": page,
         "per_page": 20,
         # "jurisdiction": jurisdiction,
-        "created_since": "2024-01-01",
+        "created_since": "2024-11-01",
         "include": ["sponsorships"],
         "apikey": API_KEY,
         "session": session
@@ -132,10 +132,12 @@ def main():
     
     size = 1
     #keyword = "cryptocurrency"
-    keyword = "blockchain basics"
+    #keyword = "blockchain basics"
     #keyword = "financial innovation"
-    #keyword = "precious metals depository"
-    #keyword = "blockchain cryptocurrency"
+    #keyword = "depository"
+    #keyword = "blockchain"
+    #keyword = "digital payment platform"
+    keyword = "LC 2665"
     jurisdiction = "Texas"
     # session = "2024"
     print(f"Searching for bills with keyword '{keyword}'...")
