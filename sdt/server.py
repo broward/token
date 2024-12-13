@@ -1,102 +1,102 @@
-import os
-import uuid
-import json
-from fastapi import FastAPI, HTTPException
+from flask import Flask, request, jsonify
 from dynaconf import Dynaconf
-from pydantic import BaseModel
-from nacl.signing import VerifyKey
+from jsonschema import validate, ValidationError
 import boto3
-import requests
+import json
 
-# Load Dynaconf settings based on environment variable
-env = os.getenv("ENV_FOR_DYNACONF", "prod")
-settings = Dynaconf(
-    settings_files=["settings.json"],
-    environments=True,
-    env=env
+# Load configurations from env.json and sdt.json
+settings = Dynaconf(settings_files=["env.json", "sdt.json"])
+
+# Load the JSON schemas
+with open("sdt.json") as f:
+    sdt_schema = json.load(f)
+
+# Flask application
+app = Flask(__name__)
+
+# AWS SQS Client
+sqs_client = boto3.client(
+    "sqs",
+    aws_access_key_id=settings.prod.secrets_store.access_key,
+    aws_secret_access_key="YOUR_SECRET_KEY",  # Replace with actual secret key
+    region_name="YOUR_REGION"  # Replace with the appropriate AWS region
 )
 
-# Initialize FastAPI
-app = FastAPI()
-
-# AWS SQS client
-sqs_client = boto3.client("sqs", region_name="us-east-1")
-
-# Base model for signed messages
-class SignedMessage(BaseModel):
-    message: str
-    signature: str
-    public_key: str
-
-
-@app.get("/get_tracking_id")
-def get_tracking_id():
-    """
-    Generates and returns a unique GUID value.
-    """
-    return {"tracking_id": str(uuid.uuid4())}
-
-
-@app.post("/run_transaction")
-def run_transaction(data: SignedMessage):
-    """
-    Accepts a signed EDDSA JSON message, unsigns it, and returns a result boolean.
-    """
+# Helper method to validate JSON with schema
+def validate_message(message, schema):
     try:
-        public_key = VerifyKey(bytes.fromhex(data.public_key))
-        message_bytes = data.message.encode()
-        signature_bytes = bytes.fromhex(data.signature)
-        public_key.verify(message_bytes, signature_bytes)
+        validate(instance=message, schema=schema)
+        return True, None
+    except ValidationError as e:
+        return False, str(e)
 
-        message_json = json.loads(data.message)
-        return {"result": True, "message": message_json}
+# Method: send_to_mcp
+def send_to_mcp(transaction_message):
+    # Simulate sending the transaction to an MCP object
+    print(f"Sending to MCP: {transaction_message}")
+    return {"status": "sent", "target": "MCP"}
+
+# Method: write_to_sqs
+def write_to_sqs(transaction_message):
+    try:
+        queue_url = settings.prod.sqs_queue_url  # Get queue URL from the configuration
+        response = sqs_client.send_message(
+            QueueUrl=queue_url,
+            MessageBody=json.dumps(transaction_message)
+        )
+        return {"status": "success", "message_id": response["MessageId"]}
     except Exception as e:
-        raise HTTPException(status_code=400, detail=f"Invalid signature or message: {str(e)}")
+        return {"status": "error", "error": str(e)}
 
-
-def _read_from_sqs():
-    """
-    Private method to read a JSON message from SQS.
-    """
+# Method: read_from_sqs
+def read_from_sqs(transaction_id):
     try:
+        queue_url = settings.prod.sqs_queue_url  # Get queue URL from the configuration
         response = sqs_client.receive_message(
-            QueueUrl=settings.sqs_queue,
-            MaxNumberOfMessages=1,
-            WaitTimeSeconds=5,
+            QueueUrl=queue_url,
+            MaxNumberOfMessages=1
         )
-        messages = response.get("Messages", [])
-        if not messages:
-            return None
-        message = messages[0]
-        receipt_handle = message["ReceiptHandle"]
-        sqs_client.delete_message(QueueUrl=settings.sqs_queue, ReceiptHandle=receipt_handle)
-        return json.loads(message["Body"])
+        if "Messages" in response:
+            for message in response["Messages"]:
+                body = json.loads(message["Body"])
+                if body.get("transaction_id") == transaction_id:
+                    return {"status": "found", "message": body}
+        return {"status": "not_found"}
     except Exception as e:
-        raise RuntimeError(f"Failed to read from SQS: {str(e)}")
+        return {"status": "error", "error": str(e)}
 
+# REST API: Send user JSON to a variable URL
+@app.route("/send_user", methods=["POST"])
+def send_user():
+    data = request.json
+    url = request.args.get("url")  # Accept variable URL from query parameters
+    # Here, we could send the data to the specified URL (e.g., using requests library)
+    print(f"Sending user JSON to {url}: {data}")
+    return jsonify({"status": "sent", "url": url, "data": data})
 
-def _write_to_sqs(message):
-    """
-    Private method to write a JSON message to SQS.
-    """
-    try:
-        sqs_client.send_message(
-            QueueUrl=settings.sqs_queue,
-            MessageBody=json.dumps(message),
-        )
-    except Exception as e:
-        raise RuntimeError(f"Failed to write to SQS: {str(e)}")
+# REST API: Get tracking ID
+@app.route("/get_tracking_id", methods=["GET"])
+def get_tracking_id():
+    tracking_id_json = {
+        "message_type": "tracking_id",
+        "tracking_id": 123456  # Example tracking ID
+    }
+    return jsonify(tracking_id_json)
 
+# REST API: Run transaction
+@app.route("/run_transaction", methods=["POST"])
+def run_transaction():
+    transaction_message = request.json
+    is_valid, error = validate_message(transaction_message, sdt_schema)
+    if not is_valid:
+        return jsonify({"error": error}), 400
 
-@app.post("/send_to_mcp")
-def send_to_mcp(message: dict):
-    """
-    Sends a JSON message to MCP library.
-    """
-    try:
-        mcp_url = settings.external_auth + "/mcp"
-        response = requests.post(fireblocks_url, json=message)
-        return response.json()
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Failed to send to MCP: {str(e)}")
+    # Example: Send the transaction to MCP and SQS
+    mcp_response = send_to_mcp(transaction_message)
+    sqs_response = write_to_sqs(transaction_message)
+    return jsonify({"mcp_response": mcp_response, "sqs_response": sqs_response})
+
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=5000)
+
 

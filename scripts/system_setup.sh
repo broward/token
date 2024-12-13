@@ -44,8 +44,17 @@ sudo apt install gcc git pkg-config meson ninja-build libsdl2-dev \
 sudo apt update
 sudo snap install scrcpy
 
+sudo apt update
+sudo apt install pulseaudio pulseaudio-module-bluetooth pulseaudio-utils
+sudo apt install pavucontrol
+systemctl --user mask pipewire.service pipewire.socket wireplumber.service wireplumber@.service pipewire-pulse.service pipewire-pulse.socket
 
-# docker and docker desktop
+
+sudo apt install flatpak
+sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+
+flatpak install flathub com.github.taiko2k.tauonmbflatpak run org.kde.elisa
+flatpak run com.github.taiko2k.tauonmb
 
 
 
