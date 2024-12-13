@@ -43,9 +43,9 @@ Other Tools: [Misc](https://broward.ghost.io/2024/11/28/sdt-misc-tools/)
 * API updates depositories.
 
 
-![BlockOverview](https://github.com/broward/token/blob/main/docs/BlockOverview.jpg)
+![BlockChainModule](https://github.com/broward/token/blob/main/docs/BlockChainModule.jpg)
 
-**BLOCK MODULE PROCESS FLOW**
+**BLOCKCHAIN MODULE PROCESS FLOW**
 
 * MPC Library generates/distributes key shards to three locations.
 * API submits transaction to Blockchain Module.
