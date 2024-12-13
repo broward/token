@@ -31,6 +31,7 @@ pip install jsonify
 pip install peewee
 pip install psycopg2-binary
 
+pip install mcp web3
 
 
 # https://python-jsonschema.readthedocs.io/en/stable/
