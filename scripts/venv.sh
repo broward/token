@@ -1,4 +1,6 @@
 #!/bin/bash
+# remove existing environment
+rm -r -f sdt_venv
 
 # Script to create a Python virtual environment
 sudo apt install python3.9-venv

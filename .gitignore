@@ -6,6 +6,9 @@ __pycache__/
 # key files
 keys/
 
+mpyc/
+std_venv/
+
 # C extensions
 *.so
 

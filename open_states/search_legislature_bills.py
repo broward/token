@@ -137,7 +137,7 @@ def main():
     #keyword = "depository"
     #keyword = "blockchain"
     #keyword = "digital payment platform"
-    keyword = "LC 2665"
+    keyword = "LC 2211"
     jurisdiction = "Texas"
     # session = "2024"
     print(f"Searching for bills with keyword '{keyword}'...")
