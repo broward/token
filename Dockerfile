@@ -8,10 +8,14 @@ WORKDIR /app
 
 # Copy only the necessary API files
 COPY ${API_DIR}/server.py /app/server.py
-COPY ${API_DIR}/schema.json /config/schema.json
+COPY ${API_DIR}/schema.json /app/schema.json
+# COPY schema/env.json /app/env.json
+# COPY schema/sdt.json /app/sdt.json
 
 # server
 RUN pip3.9 install requests
+RUN pip3.9 install DynaConf
+RUN pip3.9 install boto3
 
 # database
 RUN pip3.9 install flask
