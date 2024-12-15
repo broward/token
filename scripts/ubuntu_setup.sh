@@ -31,6 +31,23 @@ sudo apt install opera
 
 sudo apt install keepassxc
 
+sudo apt update
+sudo apt install software-properties-common curl apt-transport-https ca-certificates -y
+sudo apt remove docker-desktop
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/trusted.gpg.d/docker-archive-keyring.gpg
+sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+sudo apt install docker-ce docker-ce-cli containerd.io uidmap -y
+sudo systemctl status docker
+
+# docker desktop
+wget https://desktop.docker.com/linux/main/amd64/docker-desktop-4.19.0-amd64.deb
+sudo apt install ./docker-desktop-*-amd64.deb
+
+# docker desktop crashes
+# sudo nano /etc/sysctl.conf
+# add kernel.apparmor_restrict_unprivileged_userns=0
+# sudo sysctl -p
+
 # scrcpy
 # runtime dependencies
 sudo apt install ffmpeg libsdl2-2.0-0 adb libusb-1.0-0
