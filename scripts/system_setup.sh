@@ -45,16 +45,14 @@ sudo apt update
 sudo snap install scrcpy
 
 sudo apt update
-sudo apt install pulseaudio pulseaudio-module-bluetooth pulseaudio-utils
+sudo apt install pulseaudio pulseaudio-module-bluetooth gstreamer1.0-pulseaudio pulseaudio-utils
 sudo apt install pavucontrol
-systemctl --user mask pipewire.service pipewire.socket wireplumber.service wireplumber@.service pipewire-pulse.service pipewire-pulse.socket
 
-
-sudo apt install flatpak
-sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
-
-flatpak install flathub com.github.taiko2k.tauonmbflatpak run org.kde.elisa
-flatpak run com.github.taiko2k.tauonmb
+systemctl --user stop pipewire.socket pipewire-pulse.socket
+systemctl --user disable pipewire.socket pipewire-pulse.socket
+systemctl --user mask pipewire.socket pipewire-pulse.socket
+systemctl --user enable pulseaudio.service pulseaudio.socket
+systemctl --user start pulseaudio.service pulseaudio.socket
 
 
 
