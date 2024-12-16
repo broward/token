@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=DbVisualizer
+Comment=DbVisualizer Database Management Tool
+Exec=/home/gypsy/DbVisualizer/dbvis
+Icon=/home/gypsy/DbVisualizer/resources/images/tool/dbvis-icon.icns
+Terminal=false
+Categories=Development;Database;IDE;
+StartupWMClass=dbvis
+
