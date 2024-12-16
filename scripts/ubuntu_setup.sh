@@ -10,6 +10,10 @@ sudo apt update
 sudo apt update && sudo apt upgrade -y
 sudo snap install libreoffice
 
+# install nodejs to support Quorum quickstart
+sudo apt update
+sudo apt install nodejs
+
 # java
 
 # DBVisualizer
