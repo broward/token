@@ -52,6 +52,10 @@ pip install --upgrade jsonschema
 git clone https://github.com/lschoe/mpyc.git
 pip install ./mpyc --ignore-requires-python --target .
 
+# integration testing, fix pip first
+pip install setuptools --upgrade
+pip install localstack
+
 # alternate validator https://github.com/marksparkza/jschon
 # pip install jschon
 # pip install jschon[requests]
