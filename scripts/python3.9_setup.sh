@@ -54,7 +54,7 @@ pip install ./mpyc --ignore-requires-python --target .
 
 # integration testing, fix pip first
 pip install setuptools --upgrade
-pip install localstack
+# pip install localstack - now in docker-compose.
 pip install awscli
 #aws --endpoint-url=http://localhost:4566
 
