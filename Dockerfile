@@ -3,14 +3,15 @@ FROM python:3.9-slim
 
 # Set the working directory variable
 ARG API_DIR
+ARG CONFIG_DIR
 
 WORKDIR /app
 
 # Copy only the necessary API files
 COPY ${API_DIR}/server.py /app/server.py
 COPY ${API_DIR}/schema.json /app/schema.json
-# COPY schema/env.json /app/env.json
-# COPY schema/sdt.json /app/sdt.json
+COPY ${CONFIG_DIR}/env.json /app/env.json
+
 
 # server
 RUN pip3.9 install requests

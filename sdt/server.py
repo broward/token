@@ -4,11 +4,14 @@ from jsonschema import validate, ValidationError
 import boto3
 import json
 
+SCHEMA="schema.json"
+AWS_DEFAULT_REGION="us-west-2"
+
 # Load configurations from env.json and sdt.json
-settings = Dynaconf(settings_files=["env.json", "sdt.json"])
+settings = Dynaconf(settings_files=["env.json", SCHEMA])
 
 # Load the JSON schemas
-with open("sdt.json") as f:
+with open(SCHEMA) as f:
     sdt_schema = json.load(f)
 
 # Flask application
@@ -19,7 +22,7 @@ sqs_client = boto3.client(
     "sqs",
     aws_access_key_id=settings.prod.secrets_store.access_key,
     aws_secret_access_key="YOUR_SECRET_KEY",  # Replace with actual secret key
-    region_name="YOUR_REGION"  # Replace with the appropriate AWS region
+    region_name=AWS_DEFAULT_REGION  # Replace with the appropriate AWS region
 )
 
 # Helper method to validate JSON with schema

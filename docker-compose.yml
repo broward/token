@@ -17,6 +17,7 @@ services:
       context: .
       dockerfile: Dockerfile
       args:
+        CONFIG_DIR: config
         API_DIR: test/mock_AML
         PORT: 5001
     ports:
@@ -27,6 +28,7 @@ services:
       context: .
       dockerfile: Dockerfile
       args:
+        CONFIG_DIR: config
         API_DIR: test/mock_KYC
         PORT: 5002
     ports:
@@ -37,6 +39,7 @@ services:
       context: .
       dockerfile: Dockerfile
       args:
+        CONFIG_DIR: config
         API_DIR: test/mock_ACH
         PORT: 5003
     ports:
@@ -47,6 +50,7 @@ services:
       context: .
       dockerfile: Dockerfile
       args:
+        CONFIG_DIR: config
         API_DIR: test/gold_depository
         PORT: 5004
     ports:
@@ -57,6 +61,7 @@ services:
       context: .
       dockerfile: Dockerfile
       args:
+        CONFIG_DIR: config
         API_DIR: sdt
         PORT: 5005
     ports:
