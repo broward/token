@@ -56,7 +56,7 @@ Other Tools: [Misc](https://broward.ghost.io/2024/11/28/sdt-misc-tools/)
 
 **Three Separate security systems:**
 
-* API/Transport layer uses EDSSA signed messages with client public keys stored in RDS, referenced by user_id.
-* Secrets Store holds logins data for internal AWS use such as RDS.
-* MPC Library uses a third security scheme for key sharding and transaction validation.
+* API/Transport layer uses EDSSA signed messages with client public keys referenced by user_id.
+* Secrets Store holds access data for internal systems such as RDS.
+* MPC Library uses Shamir’s Secret Sharing for key sharding and transaction validation.
 
