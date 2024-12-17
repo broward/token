@@ -1,10 +1,6 @@
 # client.py
-import requests
 import json
-from dynaconf import Dynaconf
-
-# Load configuration
-settings = Dynaconf(settings_files=["env.json"])
+from std_config import SDTConfig
 
 # Create a transaction JSON
 transaction = {
@@ -24,7 +20,10 @@ transaction = {
     }
 }
 
-# REST API to send JSON
-response = requests.post("http://localhost:5000/api/validate", json=transaction)
-print("Response:", response.json())
+def __init__(self):
+    env = SDTConfig()
+    #self.config = STDConfig("env.json")
+    #self.base_url = self.config.get_value("api_base_url")
+
+
 

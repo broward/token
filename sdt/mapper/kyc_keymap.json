@@ -1,0 +1,13 @@
+{
+  "payload.first_name": "first_name",
+  "payload.last_name": "last_name",
+  "payload.address.address_1": "address.street",
+  "payload.address.city": "address.city",
+  "payload.address.state": "address.state",
+  "payload.address.zipcode": "address.zip_code",
+  "payload.email": "email",
+  "payload.phone": "phone",
+  "payload.update_date": "kyc_date",
+  "payload.header.create_date": "date_of_birth"
+}
+

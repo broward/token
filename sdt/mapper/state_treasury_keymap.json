@@ -1,0 +1,11 @@
+{
+  "payload.transaction.transaction_id": "payload.treasury_id",
+  "payload.transaction.header.message_type": "message_type",
+  "payload.transaction.header.create_date": "payload.transaction_date",
+  "payload.transaction.amount": "payload.amount",
+  "payload.transaction.depo_type": "payload.funds_type",
+  "payload.transaction.header.version": "payload.currency",
+  "payload.user.first_name": "payload.state_name",
+  "payload.transaction.header.tracking_id": "payload.description"
+}
+

@@ -1,0 +1,10 @@
+{
+  "payload.transaction.transaction_id": "transaction_id",
+  "payload.transaction.amount": "amount",
+  "payload.transaction.depo_type": "currency",
+  "payload.transaction.header.create_date": "transaction_date",
+  "payload.transaction.payer": "source_of_funds",
+  "payload.transaction.payee": "destination_of_funds",
+  "payload.user.user_id": "customer_id",
+  "payload.transaction.header.version": "compliance_check"
+}
