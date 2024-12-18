@@ -1,6 +1,7 @@
 # client.py
 import json
-from sdt_config import *
+import pprint
+from config_loader import ConfigLoader
 
 # Create a transaction JSON
 transaction = {
@@ -20,15 +21,13 @@ transaction = {
     }
 }
 
-def main():
-    print("hello world")
-    env = SDTConfig()
-    host = env.get_value(env.AML_SERVER)
-    print("my key value is " + host)
-    #self.config = STDConfig("env.json")
-    #self.base_url = self.config.get_value("api_base_url")
+# if __name__ == "__main__":
+    # Load 'test' environment
+config = ConfigLoader(environment=None)
+print("DEBUG:", config.get("DEBUG"))
+print("DATABASE_URL:", config.get("DATABASE_URL"))
+print("API_KEY:", config.get("API_KEY"))
 
-if __name__ == "__main__":
-    main()
+
 
 
