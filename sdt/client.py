@@ -23,7 +23,7 @@ transaction = {
 
 # if __name__ == "__main__":
     # Load 'test' environment
-config = ConfigLoader(environment=None)
+config = ConfigLoader()
 print("DEBUG:", config.get("DEBUG"))
 print("DATABASE_URL:", config.get("DATABASE_URL"))
 print("API_KEY:", config.get("API_KEY"))

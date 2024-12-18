@@ -1,5 +1,5 @@
+from config_loader import ConfigLoader
 from flask import Flask, request, jsonify
-from dynaconf import Dynaconf
 from jsonschema import validate, ValidationError
 import boto3
 import json
@@ -8,7 +8,7 @@ SCHEMA="schema.json"
 AWS_DEFAULT_REGION="us-west-2"
 
 # Load configurations from env.json and sdt.json
-settings = Dynaconf(settings_files=["env.json", SCHEMA])
+settings = ConfigLoader()
 
 # Load the JSON schemas
 with open(SCHEMA) as f:
