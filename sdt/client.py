@@ -1,6 +1,6 @@
 # client.py
 import json
-from std_config import SDTConfig
+from sdt_config import *
 
 # Create a transaction JSON
 transaction = {
@@ -20,10 +20,15 @@ transaction = {
     }
 }
 
-def __init__(self):
+def main():
+    print("hello world")
     env = SDTConfig()
+    host = env.get_value(env.AML_SERVER)
+    print("my key value is " + host)
     #self.config = STDConfig("env.json")
     #self.base_url = self.config.get_value("api_base_url")
 
+if __name__ == "__main__":
+    main()
 
 
