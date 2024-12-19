@@ -1,8 +1,13 @@
-from sdt.config_loader import ConfigLoader
+from config_loader import ConfigLoader
 from flask import Flask, request, jsonify
 from jsonschema import validate, ValidationError
 import boto3
 import json
+
+# Load configurations from env.json and sdt.json
+settings = ConfigLoader()
+print("aml:", settings.get("aml_server"))
+print("secrets:", settings.get("secrets_store").get("access_key"))
 
 SCHEMA="schema.json"
 AWS_DEFAULT_REGION="us-west-2"
@@ -20,7 +25,7 @@ app = Flask(__name__)
 # AWS SQS Client
 sqs_client = boto3.client(
     "sqs",
-    aws_access_key_id=settings.prod.secrets_store.access_key,
+    aws_access_key_id=settings.get("secrets_store").get("access_key"),
     aws_secret_access_key="YOUR_SECRET_KEY",  # Replace with actual secret key
     region_name=AWS_DEFAULT_REGION  # Replace with the appropriate AWS region
 )
@@ -42,7 +47,7 @@ def send_to_mcp(transaction_message):
 # Method: write_to_sqs
 def write_to_sqs(transaction_message):
     try:
-        queue_url = settings.prod.sqs_queue_url  # Get queue URL from the configuration
+        queue_url = settings.sqs_queue_url  # Get queue URL from the configuration
         response = sqs_client.send_message(
             QueueUrl=queue_url,
             MessageBody=json.dumps(transaction_message)
@@ -54,7 +59,7 @@ def write_to_sqs(transaction_message):
 # Method: read_from_sqs
 def read_from_sqs(transaction_id):
     try:
-        queue_url = settings.prod.sqs_queue_url  # Get queue URL from the configuration
+        queue_url = settings.sqs_queue_url  # Get queue URL from the configuration
         response = sqs_client.receive_message(
             QueueUrl=queue_url,
             MaxNumberOfMessages=1
