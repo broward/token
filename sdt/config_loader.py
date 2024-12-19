@@ -25,7 +25,7 @@ class ConfigLoader:
         """
         Load the configuration from a JSON file based on the SDT_ENV environment variable.
         """
-        env = os.getenv("SDT_ENV", "test")  # Default to "test" if SDT_ENV is not set
+        env = os.getenv("env.json", "test")  # Default to "test" if SDT_ENV is not set
         if env not in ["test", "prod"]:
             raise ValueError(f"Invalid SDT_ENV value: {env}. Must be 'test' or 'prod'.")
 

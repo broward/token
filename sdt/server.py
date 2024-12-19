@@ -1,4 +1,4 @@
-from config_loader import ConfigLoader
+from sdt.config_loader import ConfigLoader
 from flask import Flask, request, jsonify
 from jsonschema import validate, ValidationError
 import boto3
