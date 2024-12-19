@@ -64,6 +64,7 @@ sudo apt install gcc git pkg-config meson ninja-build libsdl2-dev \
 
 sudo apt update
 sudo snap install scrcpy
+sudo apt-get install gnome-search-tool
 
 sudo apt update
 sudo apt install pulseaudio pulseaudio-module-bluetooth gstreamer1.0-pulseaudio pulseaudio-utils

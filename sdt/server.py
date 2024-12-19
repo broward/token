@@ -47,7 +47,7 @@ def send_to_mcp(transaction_message):
 # Method: write_to_sqs
 def write_to_sqs(transaction_message):
     try:
-        queue_url = settings.sqs_queue_url  # Get queue URL from the configuration
+        queue_url = settings.sqs_queue  # Get queue URL from the configuration
         response = sqs_client.send_message(
             QueueUrl=queue_url,
             MessageBody=json.dumps(transaction_message)
@@ -59,7 +59,7 @@ def write_to_sqs(transaction_message):
 # Method: read_from_sqs
 def read_from_sqs(transaction_id):
     try:
-        queue_url = settings.sqs_queue_url  # Get queue URL from the configuration
+        queue_url = settings.sqs_queue  # Get queue URL from the configuration
         response = sqs_client.receive_message(
             QueueUrl=queue_url,
             MaxNumberOfMessages=1

@@ -5,12 +5,21 @@ import os
 from threading import Lock
 
 class ConfigLoader:
-    """
-    Singleton class to load environment-specific configuration from a JSON file.
-    """
+    AML_SERVER="aml_server"
+    KYC_SERVER="kyc_server"
+    ACH_SERVER="ach_server"
+    GOLD_DEPOSITORY="gold_depository"
+    SDT_SERVER="sdt_server"
+    STATE_TREASURY="state_treasury"
+    DOLLAR_CLIENT="dollar_client"
+    CASH_CLIENT="cash_client"
+    QUORUM_ADDRESS="quorum_address"
+    SECRETS_STORE="secrets_store"
+    SQS_QUEUE="sqs_queue"
+    
     _instance = None
     _lock = Lock()
-
+    
     def __new__(cls):
         """
         Create a single instance of ConfigLoader.
