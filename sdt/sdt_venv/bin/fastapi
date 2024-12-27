@@ -1,4 +1,4 @@
-#!/home/gypsy/Project/token/token/sdt_venv/bin/python3.9
+#!/home/gypsy/Project/token/sdt/sdt_venv/bin/python3.9
 # -*- coding: utf-8 -*-
 import re
 import sys

@@ -1,79 +1,86 @@
-{
-  "name": "name",
-  "age": "age",
-  "address": "address",
-  "address.street": "address.street",
-  "address.city": "address.city",
-  "address.postalCode": "address.postalcode"
-}
-
 import json
+import os
 
-def read_json_config(file_path):
+class SingletonJSONLoader:
     """
-    Reads a JSON configuration file and processes keys with dot-notation into a nested dictionary.
-    :param file_path: Path to the JSON configuration file.
-    :return: Processed nested dictionary.
+    A singleton class to load and hold multiple JSON files in memory from the current directory.
     """
-    def set_nested_value(data, key, value):
-        """ Helper function to set a nested value using dot-notation keys. """
-        keys = key.split(".")
-        d = data
-        for k in keys[:-1]:
-            d = d.setdefault(k, {})
-        d[keys[-1]] = value
+    _instance = None
 
-    # Load the JSON file
-    with open(file_path, 'r') as file:
-        config = json.load(file)
+    def __new__(cls):
+        if cls._instance is None:
+            cls._instance = super(SingletonJSONLoader, cls).__new__(cls)
+            cls._instance._initialized = False
+        return cls._instance
 
-    nested_config = {}
-    for key, value in config.items():
-        set_nested_value(nested_config, key, value)
+    def __init__(self):
+        if not self._initialized:
+            self._loaded_data = {}
+            self._initialized = True
+            self._load_files_from_current_directory()
 
-    return nested_config
+    def _load_files_from_current_directory(self):
+        """
+        Loads all JSON files in the directory where this script resides.
+        """
+        current_dir = os.path.dirname(os.path.abspath(__file__)) + '/data'
+        print('current_dir = ' + current_dir)
+        for file_name in os.listdir(current_dir):
+            if file_name.endswith(".json"):
+                print('loading ' + file_name)
+                file_path = os.path.join(current_dir, file_name)
+                self.load_json(file_path)
 
-def flatten_and_replace_keys(json_obj, replacements):
-    """
-    Flattens a JSON object and replaces keys based on a replacements mapping.
-    :param json_obj: The input JSON object.
-    :param replacements: A dictionary with key-value pairs for replacements.
-    :return: Flattened JSON object with keys replaced.
-    """
-    def flatten(obj, parent_key='', sep='.'):
-        """ Helper function to flatten a nested JSON object. """
-        items = []
-        for k, v in obj.items():
-            new_key = f"{parent_key}{sep}{k}" if parent_key else k
-            if isinstance(v, dict):
-                items.extend(flatten(v, new_key, sep=sep).items())
-            else:
-                items.append((new_key, v))
-        return dict(items)
+    def load_json(self, file_path):
+        """
+        Loads a JSON file into memory if it hasn't been loaded already.
 
-    def replace_keys(flat_obj, replacements):
-        """ Replace keys in a flattened object based on replacements mapping. """
-        return {replacements.get(k, k): v for k, v in flat_obj.items()}
+        Args:
+            file_path (str): The path to the JSON file.
 
-    # Flatten the JSON object
-    flat_obj = flatten(json_obj)
-    # Replace keys
-    replaced_obj = replace_keys(flat_obj, replacements)
+        Returns:
+            dict: The content of the JSON file.
+        """
+        if file_path not in self._loaded_data:
+            try:
+                with open(file_path, 'r', encoding='utf-8') as file:
+                    self._loaded_data[file_path] = json.load(file)
+            except (FileNotFoundError, json.JSONDecodeError) as e:
+                print(f"Error reading JSON file '{file_path}': {e}")
+                self._loaded_data[file_path] = {}
 
-    return replaced_obj
+        return self._loaded_data[file_path]
 
+    def get_loaded_files(self):
+        """
+        Returns a list of all loaded file paths.
+
+        Returns:
+            list: A list of file paths for all loaded JSON files.
+        """
+        return list(self._loaded_data.keys())
+
+    def get_data(self, file_path):
+        """
+        Retrieves the data of a previously loaded JSON file.
+
+        Args:
+            file_path (str): The path to the JSON file.
+
+        Returns:
+            dict: The content of the JSON file if loaded, otherwise None.
+        """
+        return self._loaded_data.get(file_path, None)
+
+# Usage example
 if __name__ == "__main__":
-    config_file = "config.json"  # Path to your JSON configuration file
-    nested_config = read_json_config(config_file)
+    loader = SingletonJSONLoader()
 
-    replacements = {
-        "name": "fullName",
-        "address.street": "streetName",
-        "address.city": "cityName"
-    }  # Example replacements mapping
+    # Access loaded data
+    for file_path in loader.get_loaded_files():
+        data = loader.get_data(file_path)
+        print(f"Data from {file_path}: {data}")
 
-    updated_json = flatten_and_replace_keys(nested_config, replacements)
-
-    print("Updated JSON with Replaced Keys:")
-    print(json.dumps(updated_json, indent=4))
+    # List loaded files
+    print("Loaded files:", loader.get_loaded_files())
 

@@ -1,4 +1,4 @@
-#!/home/gypsy/Project/token/token/sdt_venv/bin/python3.9
+#!/home/gypsy/Project/token/sdt/sdt_venv/bin/python3.9
 
 import datetime
 import os
