@@ -1,7 +1,18 @@
+import os
+from sdt.config_loader import ConfigLoader
 from sdt.mapper.mapper import SingletonJSONLoader
+
+# Ensure SDT_ENV is set in the environment
+os.environ["SDT_ENV"] = "test"  # Set this for testing purposes
 
 # Usage example
 if __name__ == "__main__":
+    
+    env = ConfigLoader()
+    print("aml:", env.get("aml_server"))
+    print("kyc:", env.get("kyc_server"))
+    print("API_KEY:", env.get("secrets_store").get("access_key"))
+    
     loader = SingletonJSONLoader()
     print("loader done")
 

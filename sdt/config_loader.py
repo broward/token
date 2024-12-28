@@ -40,7 +40,9 @@ class ConfigLoader:
 
         # Load the JSON configuration file
         try:
-            with open("env.json", "r") as file:
+            current_dir = os.path.dirname(os.path.abspath(__file__))
+
+            with open(current_dir + "/env.json", "r") as file:
                 all_config = json.load(file)
                 self.config = all_config.get(env, {})
                 if not self.config:
