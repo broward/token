@@ -9,9 +9,9 @@ os.environ["SDT_ENV"] = "test"  # Set this for testing purposes
 if __name__ == "__main__":
     
     env = ConfigLoader()
-    print("aml:", env.get("aml_server"))
-    print("kyc:", env.get("kyc_server"))
-    print("API_KEY:", env.get("secrets_store").get("access_key"))
+    print("aml:", env.get(env.AML_SERVER))
+    print("kyc:", env.get(env.KYC_SERVER))
+    print("API_KEY:", env.get(env.SECRETS_STORE).get(env.SS_ACCESS_KEY))
     
     loader = SingletonJSONLoader()
     print("loader done")

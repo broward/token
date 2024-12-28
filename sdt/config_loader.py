@@ -15,6 +15,7 @@ class ConfigLoader:
     CASH_CLIENT="cash_client"
     QUORUM_ADDRESS="quorum_address"
     SECRETS_STORE="secrets_store"
+    SS_ACCESS_KEY="access_key"
     SQS_QUEUE="sqs_queue"
     
     _instance = None
