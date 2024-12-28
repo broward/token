@@ -8,6 +8,7 @@ keys/
 
 mpyc/
 std_venv/
+/home/gypsy/Project/token/std/std_venv/
 
 # C extensions
 *.so

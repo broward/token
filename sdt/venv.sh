@@ -15,8 +15,6 @@ if [ -d "$VENV_NAME" ]; then
 fi
 
 # Create the virtual environment
-pip install --upgrade pip
-
 python3.9 -m venv "$VENV_NAME"
 
 # Check if the creation was successful

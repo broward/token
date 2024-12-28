@@ -28,10 +28,9 @@ class SingletonJSONLoader:
         for file_name in os.listdir(current_dir):
             if file_name.endswith(".json"):
                 print('loading ' + file_name)
-                file_path = os.path.join(current_dir, file_name)
-                self.load_json(file_path)
+                self.load_json(current_dir, file_name)
 
-    def load_json(self, file_path):
+    def load_json(self, file_path, file_name):
         """
         Loads a JSON file into memory if it hasn't been loaded already.
 
@@ -41,15 +40,17 @@ class SingletonJSONLoader:
         Returns:
             dict: The content of the JSON file.
         """
+        file_path = os.path.join(file_path, file_name)
         if file_path not in self._loaded_data:
             try:
                 with open(file_path, 'r', encoding='utf-8') as file:
-                    self._loaded_data[file_path] = json.load(file)
+                    self._loaded_data[file_name] = json.load(file)
+                    print(file_name + ' loaded')
             except (FileNotFoundError, json.JSONDecodeError) as e:
                 print(f"Error reading JSON file '{file_path}': {e}")
-                self._loaded_data[file_path] = {}
+                self._loaded_data[file_name] = {}
 
-        return self._loaded_data[file_path]
+        return self._loaded_data[file_name]
 
     def get_loaded_files(self):
         """
@@ -78,8 +79,9 @@ if __name__ == "__main__":
 
     # Access loaded data
     for file_path in loader.get_loaded_files():
-        data = loader.get_data(file_path)
-        print(f"Data from {file_path}: {data}")
+        print('get filepath=' + file_path)
+        #data = loader.get_data()
+        #print(f"Data from {file_path}: {data}")
 
     # List loaded files
     print("Loaded files:", loader.get_loaded_files())

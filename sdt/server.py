@@ -10,7 +10,7 @@ print("aml:", settings.get("aml_server"))
 print("secrets:", settings.get("secrets_store").get("access_key"))
 
 SCHEMA="schema.json"
-AWS_DEFAULT_REGION="us-west-2"
+AWS_DEFAULT_REGION="us-east-1"
 
 # Load configurations from env.json and sdt.json
 settings = ConfigLoader()
