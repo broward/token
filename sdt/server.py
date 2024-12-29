@@ -74,12 +74,12 @@ def read_from_sqs(transaction_id):
         return {"status": "error", "error": str(e)}
 
 # REST API: Send user JSON to a variable URL
-@app.route("/send_user", methods=["POST"])
-def send_user():
+@app.route("/register_user", methods=["POST"])
+def register_user():
     data = request.json
     url = request.args.get("url")  # Accept variable URL from query parameters
     # Here, we could send the data to the specified URL (e.g., using requests library)
-    print(f"Sending user JSON to {url}: {data}")
+    print(f"Registering user JSON to {url}: {data}")
     return jsonify({"status": "sent", "url": url, "data": data})
 
 # REST API: Get tracking ID
@@ -111,7 +111,6 @@ def run_transaction():
     mcp_response = send_to_mcp(queue_entry)
     print("mcp_response:" + str(mcp_response))
     
-   
     return jsonify({"mcp_response": mcp_response, "sqs_response": sqs_response})
 
 if __name__ == "__main__":

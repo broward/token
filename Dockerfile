@@ -1,6 +1,14 @@
 # Use Python base image
 FROM python:3.9-slim
 
+RUN apt-get update && apt-get install -y awscli
+RUN chmod -R 755 /usr/local/aws-cli/
+RUN export PATH=/usr/local/bin:$PATH
+RUN source ~/.bash_profile
+
+RUN pip3.9 install --upgrade pip && \
+    pip3.9 install --upgrade setuptools
+
 # Set the working directory variable
 ARG API_DIR
 ARG CONFIG_DIR
@@ -15,7 +23,6 @@ COPY ${CONFIG_DIR}/env.json /app/env.json
 
 # server
 RUN pip3.9 install requests
-RUN pip3.9 install DynaConf
 RUN pip3.9 install boto3
 
 # database
@@ -30,6 +37,8 @@ RUN pip3.9 install --upgrade jsonschema
 # Expose the appropriate port dynamically
 ARG PORT
 EXPOSE ${PORT}
+
+RUN pip3.9 install .
 
 # Command to start the server
 CMD ["python", "server.py"]

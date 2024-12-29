@@ -7,9 +7,12 @@ services:
     ports:
       - "127.0.0.1:4566:4566"            # LocalStack Gateway
       - "127.0.0.1:4510-4559:4510-4559"  # external services port range
+      - "4576:4576"  # SQS
     environment:
       # LocalStack configuration: https://docs.localstack.cloud/references/configuration/
       - DEBUG=${DEBUG:-0}
+      - SERVICES=sqs
+      - PERSISTENCE=1
     volumes:
       - "${LOCALSTACK_VOLUME_DIR:-./volume}:/var/lib/localstack"
       - "/var/run/docker.sock:/var/run/docker.sock"
@@ -76,4 +79,16 @@ services:
         API_DIR: sdt
         PORT: 5005
     ports:
-      - "5005:5005"
+      - "5000:5000"
+      
+  sqs_initializer:
+    image: python:3.9-slim
+    container_name: sqs_initializer
+    depends_on:
+      localstack:
+        condition: service_healthy
+    entrypoint: >
+      /bin/sh -c "
+      pip install awscli-local &&
+      awslocal sqs create-queue --queue-name my-queue;
+      "
