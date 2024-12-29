@@ -69,7 +69,7 @@ if __name__ == "__main__":
     config = ConfigLoader()
 
     # Access configuration values
-    print("DEBUG:", config.get("DEBUG"))
+    print("aml:", config.get("aml_server"))
     print("DATABASE_URL:", config.get("DATABASE_URL"))
-    print("API_KEY:", config.get("API_KEY"))
+    print("sqs:", config.get("sqs_queue"))
 

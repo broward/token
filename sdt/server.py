@@ -99,9 +99,19 @@ def run_transaction():
     if not is_valid:
         return jsonify({"error": error}), 400
 
-    # Example: Send the transaction to MCP and SQS
-    mcp_response = send_to_mcp(transaction_message)
+    transaction_id = transaction_message["payload"]["transaction_id"]
+    print("transaction id validated:" + str(transaction_id))
+    print("queuing transaction to sqs")
     sqs_response = write_to_sqs(transaction_message)
+    
+    print("reading from sqs")
+    queue_entry = read_from_sqs(transaction_id)
+    
+    # Example: Send the transaction to MCP and SQS
+    mcp_response = send_to_mcp(queue_entry)
+    print("mcp_response:" + str(mcp_response))
+    
+   
     return jsonify({"mcp_response": mcp_response, "sqs_response": sqs_response})
 
 if __name__ == "__main__":

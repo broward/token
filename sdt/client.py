@@ -11,7 +11,7 @@ transaction = {
         "header": {
             "message_type": "transaction",
             "version": 1.0,
-            "tracking_id": 12345,
+            "tracking_id": 0,
             "create_date": "2024-12-13"
         },
         "depo_type": "gold",
@@ -57,11 +57,13 @@ def run_transaction(base_url="http://localhost:5000", endpoint="/run_transaction
 
 
 if __name__ == "__main__":
-    # Example usage
+    # Get tracking id
     tracking_id_response = get_tracking_id()
 
     if tracking_id_response:
         print("Tracking ID Response:", tracking_id_response)
+        transaction["payload"]["header"]["tracking_id"] = tracking_id_response["tracking_id"]
+        print("Transaction:", transaction)
     else:
         print("Failed to retrieve tracking ID.")
 
