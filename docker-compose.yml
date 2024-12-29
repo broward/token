@@ -16,6 +16,10 @@ services:
     volumes:
       - "${LOCALSTACK_VOLUME_DIR:-./volume}:/var/lib/localstack"
       - "/var/run/docker.sock:/var/run/docker.sock"
+    entrypoint: >
+      /bin/sh -c "
+      awslocal sqs create-queue --queue-name my-queue;
+      "
   db:
     image: postgres
     container_name: db
@@ -81,14 +85,3 @@ services:
     ports:
       - "5000:5000"
       
-  sqs_initializer:
-    image: python:3.9-slim
-    container_name: sqs_initializer
-    depends_on:
-      localstack:
-        condition: service_healthy
-    entrypoint: >
-      /bin/sh -c "
-      pip install awscli-local &&
-      awslocal sqs create-queue --queue-name my-queue;
-      "

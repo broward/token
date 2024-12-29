@@ -2,12 +2,11 @@
 FROM python:3.9-slim
 
 RUN apt-get update && apt-get install -y awscli
-RUN chmod -R 755 /usr/local/aws-cli/
-RUN export PATH=/usr/local/bin:$PATH
-RUN source ~/.bash_profile
 
-RUN pip3.9 install --upgrade pip && \
-    pip3.9 install --upgrade setuptools
+RUN pip install --upgrade pip
+RUN pip install awscli-local
+
+RUN pip install --upgrade setuptools
 
 # Set the working directory variable
 ARG API_DIR
@@ -16,7 +15,8 @@ ARG CONFIG_DIR
 WORKDIR /app
 
 # Copy only the necessary API files
-COPY ${API_DIR}/server.py /app/server.py
+COPY ${API_DIR}/*.*  /app
+# COPY ${API_DIR}/server.py /app/server.py
 COPY ${API_DIR}/schema.json /app/schema.json
 COPY ${CONFIG_DIR}/env.json /app/env.json
 
@@ -38,7 +38,9 @@ RUN pip3.9 install --upgrade jsonschema
 ARG PORT
 EXPOSE ${PORT}
 
-RUN pip3.9 install .
+#RUN chmod -R 755 /usr/local/aws-cli/
+RUN export PATH=/usr/local/bin:$PATH
+# RUN source ~/.bash_profile
 
 # Command to start the server
 CMD ["python", "server.py"]
