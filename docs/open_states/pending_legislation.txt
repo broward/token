@@ -1,66 +1,70 @@
 
 
-Title: A BILL for an Act to create and enact a new section to chapter 15-01, a new section to chapter 21-10, and a new section to chapter 54-11 of the North Dakota Century Code, relating to digital asset and precious metal investments.
-Jurisdiction: North Dakota - HB 1184
-Nathan Toman
-Jeff Barta
-Josh Christy
-Claire Cory
-Matthew Heilman
-Jared Hendrix
-Daniel Johnston
-Scott Meyer
-SuAnn Olson
-Bob Paulson
-Todd Porter
+Title: Relating to blockchains.
+Jurisdiction: Oregon - HB 2071
+Rob Nosse
 
-Title: A BILL for an Act to create and enact a new section to chapter 15-01, a new section to chapter 21-10, and a new section to chapter 54-11 of the North Dakota Century Code, relating to digital asset and precious metal investments.
-Jurisdiction: North Dakota - HB 1184
-Nathan Toman
-Jeff Barta
-Josh Christy
-Claire Cory
-Matthew Heilman
-Jared Hendrix
-Daniel Johnston
-Scott Meyer
-SuAnn Olson
-Bob Paulson
-Todd Porter
-
-Title: establishing a commission to study the creation of a regulatory framework for stable tokens and tokenized real-world assets in New Hampshire.
-Jurisdiction: New Hampshire - HB 310
-Mark Warden
-Keith Michael Ammon
-Calvin Beaulier
-Joe H. Alexander
-Daryl Abbas
-
-Title: A BILL for an Act to create and enact a new section to chapter 15-01, a new section to chapter 21-10, and a new section to chapter 54-11 of the North Dakota Century Code, relating to digital asset and precious metal investments.
-Jurisdiction: North Dakota - HB 1184
-Nathan Toman
-Jeff Barta
-Josh Christy
-Claire Cory
-Matthew Heilman
-Jared Hendrix
-Daniel Johnston
-Scott Meyer
-SuAnn Olson
-Bob Paulson
-Todd Porter
-
-Title: establishing a commission to study the creation of a regulatory framework for stable tokens and tokenized real-world assets in New Hampshire.
-Jurisdiction: New Hampshire - HB 310
-Mark Warden
-Keith Michael Ammon
-Calvin Beaulier
-Joe H. Alexander
-Daryl Abbas
+Title: Relating to blockchains.
+Jurisdiction: Oregon - HB 2071
+Rob Nosse
 
 Title: Prohibiting the knowing distribution of a forged digital likeness.
 Jurisdiction: Washington - HB 1205
 Ryu
+Obras
+
+Title: Relating to blockchains.
+Jurisdiction: Oregon - HB 2071
+Rob Nosse
+
+Title: Prohibiting the knowing distribution of a forged digital likeness.
+Jurisdiction: Washington - HB 1205
+Ryu
+Obras
+
+Title: Budget Act of 2025.
+Jurisdiction: California - AB 227
+Gabriel
+
+Title: Relating to blockchains.
+Jurisdiction: Oregon - HB 2071
+Rob Nosse
+
+Title: Prohibiting the knowing distribution of a forged digital likeness.
+Jurisdiction: Washington - HB 1205
+Ryu
+Obras
+
+Title: Budget Act of 2025.
+Jurisdiction: California - AB 227
+Gabriel
+
+Title: A BILL for an Act to create and enact a new section to chapter 15-01, a new section to chapter 21-10, and a new section to chapter 54-11 of the North Dakota Century Code, relating to digital asset and precious metal investments.
+Jurisdiction: North Dakota - HB 1184
+Nathan Toman
+Jeff Barta
+Josh Christy
+Claire Cory
+Matthew Heilman
+Jared Hendrix
+Daniel Johnston
+Scott Meyer
+SuAnn Olson
+Bob Paulson
+Todd Porter
+
+Title: Relating to blockchains.
+Jurisdiction: Oregon - HB 2071
+Rob Nosse
+
+Title: Prohibiting the knowing distribution of a forged digital likeness.
+Jurisdiction: Washington - HB 1205
+Ryu
+Obras
+
+Title: Budget Act of 2025.
+Jurisdiction: California - AB 227
+Gabriel
 
 Title: A BILL for an Act to create and enact a new section to chapter 15-01, a new section to chapter 21-10, and a new section to chapter 54-11 of the North Dakota Century Code, relating to digital asset and precious metal investments.
 Jurisdiction: North Dakota - HB 1184
@@ -84,48 +88,57 @@ Calvin Beaulier
 Joe H. Alexander
 Daryl Abbas
 
+Title: Relating to blockchains.
+Jurisdiction: Oregon - HB 2071
+Rob Nosse
+
 Title: Prohibiting the knowing distribution of a forged digital likeness.
 Jurisdiction: Washington - HB 1205
 Ryu
+Obras
+
+Title: Budget Act of 2025.
+Jurisdiction: California - AB 227
+Gabriel
+
+Title: A BILL for an Act to create and enact a new section to chapter 15-01, a new section to chapter 21-10, and a new section to chapter 54-11 of the North Dakota Century Code, relating to digital asset and precious metal investments.
+Jurisdiction: North Dakota - HB 1184
+Nathan Toman
+Jeff Barta
+Josh Christy
+Claire Cory
+Matthew Heilman
+Jared Hendrix
+Daniel Johnston
+Scott Meyer
+SuAnn Olson
+Bob Paulson
+Todd Porter
+
+Title: establishing a commission to study the creation of a regulatory framework for stable tokens and tokenized real-world assets in New Hampshire.
+Jurisdiction: New Hampshire - HB 310
+Mark Warden
+Keith Michael Ammon
+Calvin Beaulier
+Joe H. Alexander
+Daryl Abbas
 
 Title: AN ACT relating to gaming activities.
 Jurisdiction: Kentucky - HB 33
 T. Huff
 
-Title: A BILL for an Act to create and enact a new section to chapter 15-01, a new section to chapter 21-10, and a new section to chapter 54-11 of the North Dakota Century Code, relating to digital asset and precious metal investments.
-Jurisdiction: North Dakota - HB 1184
-Nathan Toman
-Jeff Barta
-Josh Christy
-Claire Cory
-Matthew Heilman
-Jared Hendrix
-Daniel Johnston
-Scott Meyer
-SuAnn Olson
-Bob Paulson
-Todd Porter
-
-Title: establishing a commission to study the creation of a regulatory framework for stable tokens and tokenized real-world assets in New Hampshire.
-Jurisdiction: New Hampshire - HB 310
-Mark Warden
-Keith Michael Ammon
-Calvin Beaulier
-Joe H. Alexander
-Daryl Abbas
+Title: Relating to blockchains.
+Jurisdiction: Oregon - HB 2071
+Rob Nosse
 
 Title: Prohibiting the knowing distribution of a forged digital likeness.
 Jurisdiction: Washington - HB 1205
 Ryu
+Obras
 
-Title: AN ACT relating to gaming activities.
-Jurisdiction: Kentucky - HB 33
-T. Huff
-
-Title: Concerning the ethics in public service act.
-Jurisdiction: Washington - SB 5143
-Gildon
-Pedersen
+Title: Budget Act of 2025.
+Jurisdiction: California - AB 227
+Gabriel
 
 Title: A BILL for an Act to create and enact a new section to chapter 15-01, a new section to chapter 21-10, and a new section to chapter 54-11 of the North Dakota Century Code, relating to digital asset and precious metal investments.
 Jurisdiction: North Dakota - HB 1184
@@ -148,49 +161,6 @@ Keith Michael Ammon
 Calvin Beaulier
 Joe H. Alexander
 Daryl Abbas
-
-Title: Prohibiting the knowing distribution of a forged digital likeness.
-Jurisdiction: Washington - HB 1205
-Ryu
-
-Title: AN ACT relating to gaming activities.
-Jurisdiction: Kentucky - HB 33
-T. Huff
-
-Title: Concerning the ethics in public service act.
-Jurisdiction: Washington - SB 5143
-Gildon
-Pedersen
-
-Title: Requires certain disclosures in advertisements involving virtual tokens
-Jurisdiction: New York - A 391
-Clyde Vanel
-
-Title: A BILL for an Act to create and enact a new section to chapter 15-01, a new section to chapter 21-10, and a new section to chapter 54-11 of the North Dakota Century Code, relating to digital asset and precious metal investments.
-Jurisdiction: North Dakota - HB 1184
-Nathan Toman
-Jeff Barta
-Josh Christy
-Claire Cory
-Matthew Heilman
-Jared Hendrix
-Daniel Johnston
-Scott Meyer
-SuAnn Olson
-Bob Paulson
-Todd Porter
-
-Title: establishing a commission to study the creation of a regulatory framework for stable tokens and tokenized real-world assets in New Hampshire.
-Jurisdiction: New Hampshire - HB 310
-Mark Warden
-Keith Michael Ammon
-Calvin Beaulier
-Joe H. Alexander
-Daryl Abbas
-
-Title: Prohibiting the knowing distribution of a forged digital likeness.
-Jurisdiction: Washington - HB 1205
-Ryu
 
 Title: AN ACT relating to gaming activities.
 Jurisdiction: Kentucky - HB 33
@@ -200,11 +170,3 @@ Title: Concerning the ethics in public service act.
 Jurisdiction: Washington - SB 5143
 Gildon
 Pedersen
-
-Title: Requires certain disclosures in advertisements involving virtual tokens
-Jurisdiction: New York - A 391
-Clyde Vanel
-
-Title: Bitcoin; authorizing employee compensation to be made in Bitcoin; authorizing vendor payments to be made in Bitcoin; prescribing procedures. Effective date.
-Jurisdiction: Oklahoma - SB 325
-Deevers
