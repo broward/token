@@ -31,6 +31,8 @@ python3.9 --version
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python3.9 get-pip.py
 
+pip install --upgrade pip
+
 # server
 pip install requests
 pip install dynaconf
@@ -63,6 +65,7 @@ aws configure
 # export AWS_SECRET_ACCESS_KEY="test"
 # export AWS_DEFAULT_REGION="us-east-1"
 
+pip install openai
 
 # alternate validator https://github.com/marksparkza/jschon
 # pip install jschon

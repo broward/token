@@ -1,5 +1,5 @@
 import requests
-import json
+import jsonlines
 import sys, os
 
 # Open States API Key
@@ -15,6 +15,13 @@ OUTPUT_FILE = "pending_legislation.txt"
 
 if os.path.exists(OUTPUT_FILE):
     os.remove(OUTPUT_FILE)
+    
+# Function to write results to a JSONL file
+def write_to_jsonl_file(filename, data):
+    with open(filename, "w") as file:
+        for item in data:
+            file.write(json.dumps(item) + "\n")
+    print(f"Results written to {filename}")
 
 def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
     """
@@ -34,7 +41,7 @@ def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
         "page": page,
         "per_page": 20,
         # "jurisdiction": jurisdiction,
-        "created_since": "2025-01-07",
+        "created_since": "2025-01-01",
         "include": ["sponsorships"],
         "apikey": API_KEY,
         "session": session
@@ -86,14 +93,6 @@ def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
                                 person = sponsor["person"]
                                 if person:
                                     id = person["id"]
-
-                                    #if id:
-                                    #    offices = get_sponsor_details(id)
-
-                                    #    if offices:
-                                    #        for office in offices:
-                                    #            print(office)
-                                                #f.write(f"\n{office['address']}")
                         else:
                             f.write("\nSponsors: None")
             else:
@@ -136,7 +135,8 @@ def main():
     #keyword = "bullion depository"
     #keyword = "blockchain"
     #keyword = "digital platform payment"
-    keyword = "digital token"
+    #keyword = "digital stablecoin blockchain bullion depository cryptocurrency"
+    keyword = "digital or token or stablecoin or blockchain or bullion or depository or cryptocurrency"
     jurisdiction = "Texas"
     # session = "2024"
     print(f"Searching for bills with keyword '{keyword}'...")
@@ -149,3 +149,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+
