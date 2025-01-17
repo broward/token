@@ -1,5 +1,5 @@
 import requests
-import jsonlines
+import json
 import sys, os
 
 # Open States API Key
@@ -41,7 +41,7 @@ def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
         "page": page,
         "per_page": 20,
         # "jurisdiction": jurisdiction,
-        "created_since": "2025-01-01",
+        "created_since": "2025-01-10",
         "include": ["sponsorships"],
         "apikey": API_KEY,
         "session": session
@@ -135,8 +135,8 @@ def main():
     #keyword = "bullion depository"
     #keyword = "blockchain"
     #keyword = "digital platform payment"
-    #keyword = "digital stablecoin blockchain bullion depository cryptocurrency"
-    keyword = "digital or token or stablecoin or blockchain or bullion or depository or cryptocurrency"
+    keyword = "stablecoin"
+    #keyword = "digital or token or stablecoin or blockchain or bullion or depository or cryptocurrency"
     jurisdiction = "Texas"
     # session = "2024"
     print(f"Searching for bills with keyword '{keyword}'...")
