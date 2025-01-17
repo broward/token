@@ -1,8 +1,27 @@
-Title: Cryptocurrency
-Jurisdiction: South Carolina - S 163
-Sen. Danny Verdin
-P.O. Box 272
-Laurens, SC 29360
+
+Title: legal tender; cryptocurrency
+Jurisdiction: Arizona - SB 1062
+Mark Finchem - SB 1062
+Senator David C. Farnsworth - SB 1062
+
+Title: blockchain and cryptocurrency study committee
+Jurisdiction: Arizona - HB 2654
+Jeff Weninger - HB 2654
+
+Title: A BILL for an Act to create and enact a new chapter to title 6 of the North Dakota Century Code, relating to virtual currency kiosks.
+Jurisdiction: North Dakota - HB 1447
+Steve Swiontek
+Josh Christy
+Karla Rose Hanson
+Pat D. Heinert
+Kathy Hogan
+Jerry Klein
+Judy Lee
+Jeremy Olson
+David Richter
+Dean Rummel
+Austen Schauer
+Jonathan Sickler
 
 Title: A BILL for an Act to create and enact a new section to chapter 15-01, a new section to chapter 21-10, and a new section to chapter 54-11 of the North Dakota Century Code, relating to digital asset and precious metal investments.
 Jurisdiction: North Dakota - HB 1184
@@ -19,6 +38,60 @@ Bob Paulson
 Todd Porter
 
 -------------------------- Mailed
+Title: legal tender; cryptocurrency
+Jurisdiction: Arizona - SB 1062
+
+Senator Wendy Rogers - SB 1062
+1700 W. Washington St.
+Phoenix, AZ 85007
+
+Senator Teresa Martinez - SB 1062
+1700 W. Washington St.
+Phoenix, AZ 85007
+Title: Digital Asset and Blockchain Technology Task Force - Establishment
+Jurisdiction: Maryland - HB 454
+Delegate Adrian Boafo - HB 454
+Lowe House Office Building, Room 225
+6 Bladen St., Annapolis, MD 21401
+
+Delegate Joseph Vogel - HB 454
+Lowe House Office Building, Room 225
+6 Bladen St., Annapolis, MD 21401
+
+Title: Cryptocurrency
+Jurisdiction: South Carolina - S 163
+Sen. Danny Verdin - S163
+P.O. Box 272
+Laurens, SC 29360
+
+Title: Treasurer, State - As introduced, allows the state treasurer to enter into an agreement with an entity to carry out certain activities in order to serve as a facility to securely produce, store, process, and ship bullion products for the state's depository. - Amends TCA Title 9, Chapter 4.
+Jurisdiction: Tennessee 
+Senator Paul Bailey - SB 168
+252 Lowery Rd.
+Sparta, TN 38583
+
+Title: Bullion depositories.
+Jurisdiction: Indiana - HB 1614
+Rep. Cindy Ledbetter - HB 1614
+200 W. Washington Street
+Indianapolis, IN 46204
+
+Title: bullion depository; establishment
+Jurisdiction: Arizona - SB 1096
+Senator Jake Hoffman - SB 1096
+1700 W. Washington St.
+Phoenix, AZ 85007
+
+Rep. Rachel Keshel - SB 1096
+Room 303, 1700 W. Washington St.
+Phoenix, AZ 85007
+
+Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve; making an appropriation.
+Jurisdiction: Texas - SB 778
+The Honorable Charles Schwertner
+P.O. Box 12068
+Capitol Station
+Austin, TX 78711
 
 Title: State government; Oklahoma State Treasurer; digital assets; precious metals; Digital Asset Property Fund; effective date.
 Jurisdiction: Oklahoma - HB 1891
