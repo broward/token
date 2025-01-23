@@ -1,14 +1,52 @@
+Title: "Blockchain Basics Act"; create.
+Jurisdiction: Mississippi - HB 1590
+Jackson
+
+Title: An Act allowing for fiscal resilience through strategic investment in stable digital financial assets
+Jurisdiction: Massachusetts - SD 2422
+Barry R. Finegold
+
+Title: Resolve establishing a special commission on blockchain and cryptocurrency technology
+Jurisdiction: Massachusetts - SD 2301
+Barry R. Finegold
+
+Title: Select Committee on Blockchain and Emerging Technologies-1.
+Jurisdiction: Wyoming - HB 256
+Andrew
+Singh
+Yin
+Nethercott
+Rothfuss
+
+Title: Technology Innovation Fund; establish.
+Jurisdiction: Mississippi - SB 2443
+Williams
+
+Title: Exemption on precious metal bullion expansion to include coins and other forms of currency
+Jurisdiction: Minnesota - SF 403
+Sen. Rich Draheim
+95 University Avenue W.
+Minnesota Senate Bldg., Room 2225
+St. Paul, MN 55155
+
 Title: An Act allowing for fiscal resilience through strategic investment in stable digital financial assets
 Jurisdiction: Massachusetts - HD 3762
-Christopher J. Worrell
+Rep. Christopher J. Worrell
+24 Beacon St. 
+Room 443
+Boston, MA, 02133
 
 Title: Mississippi Bullion Depository; establish in State Treasury.
 Jurisdiction: Mississippi - SB 2082
-Chism
+Sen. Kathy Chism
+P. O. Box 1018
+Jackson, MS 39215
 
-Title: Mississippi Bullion Depository; establish.
-Jurisdiction: Mississippi - HB 1044
-Carpenter
+Title: Mississippi Bullion Depository; establish and authorize fractional reserve currency.
+Jurisdiction: Mississippi - HB 1043
+Rep. Lester Carpenter
+8 Carpenter Drive
+Burnsville, MS   38833
 
 Title: legal tender; cryptocurrency
 Jurisdiction: Arizona - SB 1062

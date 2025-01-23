@@ -1,351 +1,97 @@
 
 
-Title: An Act providing for regulation and reporting requirements for qualifying virtual currency kiosk operators
-Jurisdiction: Massachusetts - SD 2006
-Patrick M. O'Connor
-
-Title: An Act providing for regulation and reporting requirements for qualifying virtual currency kiosk operators
-Jurisdiction: Massachusetts - SD 2006
-Patrick M. O'Connor
-
-Title: An Act allowing for fiscal resilience through strategic investment in stable digital financial assets
-Jurisdiction: Massachusetts - HD 3762
-Christopher J. Worrell
-
-Title: An Act providing for regulation and reporting requirements for qualifying virtual currency kiosk operators
-Jurisdiction: Massachusetts - SD 2006
-Patrick M. O'Connor
-
-Title: An Act allowing for fiscal resilience through strategic investment in stable digital financial assets
-Jurisdiction: Massachusetts - HD 3762
-Christopher J. Worrell
-
-Title: Modifying provisions of the revised uniform unclaimed property act.
-Jurisdiction: Washington - SB 5316
-Harris
-Hasegawa
-Krishnadasan
-Nobles
-Trudeau
-
-Title: An Act providing for regulation and reporting requirements for qualifying virtual currency kiosk operators
-Jurisdiction: Massachusetts - SD 2006
-Patrick M. O'Connor
-
-Title: An Act allowing for fiscal resilience through strategic investment in stable digital financial assets
-Jurisdiction: Massachusetts - HD 3762
-Christopher J. Worrell
-
-Title: Modifying provisions of the revised uniform unclaimed property act.
-Jurisdiction: Washington - SB 5316
-Harris
-Hasegawa
-Krishnadasan
-Nobles
-Trudeau
-
-Title: relative to the use of and disputes over blockchain and digital currencies.
-Jurisdiction: New Hampshire - HB 639
-Mark Warden
-Joe Sweeney
-Keith Michael Ammon
-Jason M. Osborne
-Kevin A. Avard
-Calvin Beaulier
-Joe H. Alexander
-
-Title: An Act providing for regulation and reporting requirements for qualifying virtual currency kiosk operators
-Jurisdiction: Massachusetts - SD 2006
-Patrick M. O'Connor
-
-Title: An Act allowing for fiscal resilience through strategic investment in stable digital financial assets
-Jurisdiction: Massachusetts - HD 3762
-Christopher J. Worrell
-
-Title: Modifying provisions of the revised uniform unclaimed property act.
-Jurisdiction: Washington - SB 5316
-Harris
-Hasegawa
-Krishnadasan
-Nobles
-Trudeau
-
-Title: relative to the use of and disputes over blockchain and digital currencies.
-Jurisdiction: New Hampshire - HB 639
-Mark Warden
-Joe Sweeney
-Keith Michael Ammon
-Jason M. Osborne
-Kevin A. Avard
-Calvin Beaulier
-Joe H. Alexander
-
-Title: blockchain and cryptocurrency study committee
-Jurisdiction: Arizona - HB 2654
-Jeff Weninger
-
-Title: An Act providing for regulation and reporting requirements for qualifying virtual currency kiosk operators
-Jurisdiction: Massachusetts - SD 2006
-Patrick M. O'Connor
-
-Title: An Act allowing for fiscal resilience through strategic investment in stable digital financial assets
-Jurisdiction: Massachusetts - HD 3762
-Christopher J. Worrell
-
-Title: Modifying provisions of the revised uniform unclaimed property act.
-Jurisdiction: Washington - SB 5316
-Harris
-Hasegawa
-Krishnadasan
-Nobles
-Trudeau
-
-Title: relative to the use of and disputes over blockchain and digital currencies.
-Jurisdiction: New Hampshire - HB 639
-Mark Warden
-Joe Sweeney
-Keith Michael Ammon
-Jason M. Osborne
-Kevin A. Avard
-Calvin Beaulier
-Joe H. Alexander
-
-Title: blockchain and cryptocurrency study committee
-Jurisdiction: Arizona - HB 2654
-Jeff Weninger
-
-Title: State government; Oklahoma State Treasurer; digital assets; precious metals; Digital Asset Property Fund; effective date.
-Jurisdiction: Oklahoma - HB 1891
-Lepak
-
-Title: An Act providing for regulation and reporting requirements for qualifying virtual currency kiosk operators
-Jurisdiction: Massachusetts - SD 2006
-Patrick M. O'Connor
-
-Title: An Act allowing for fiscal resilience through strategic investment in stable digital financial assets
-Jurisdiction: Massachusetts - HD 3762
-Christopher J. Worrell
-
-Title: Modifying provisions of the revised uniform unclaimed property act.
-Jurisdiction: Washington - SB 5316
-Harris
-Hasegawa
-Krishnadasan
-Nobles
-Trudeau
-
-Title: relative to the use of and disputes over blockchain and digital currencies.
-Jurisdiction: New Hampshire - HB 639
-Mark Warden
-Joe Sweeney
-Keith Michael Ammon
-Jason M. Osborne
-Kevin A. Avard
-Calvin Beaulier
-Joe H. Alexander
-
-Title: blockchain and cryptocurrency study committee
-Jurisdiction: Arizona - HB 2654
-Jeff Weninger
-
-Title: State government; Oklahoma State Treasurer; digital assets; precious metals; Digital Asset Property Fund; effective date.
-Jurisdiction: Oklahoma - HB 1891
-Lepak
-
-Title: An Act relative to personal financial literacy
-Jurisdiction: Massachusetts - HD 2899
-Ryan M. Hamilton
-
-Title: An Act providing for regulation and reporting requirements for qualifying virtual currency kiosk operators
-Jurisdiction: Massachusetts - SD 2006
-Patrick M. O'Connor
-
-Title: An Act allowing for fiscal resilience through strategic investment in stable digital financial assets
-Jurisdiction: Massachusetts - HD 3762
-Christopher J. Worrell
-
-Title: Modifying provisions of the revised uniform unclaimed property act.
-Jurisdiction: Washington - SB 5316
-Harris
-Hasegawa
-Krishnadasan
-Nobles
-Trudeau
-
-Title: relative to the use of and disputes over blockchain and digital currencies.
-Jurisdiction: New Hampshire - HB 639
-Mark Warden
-Joe Sweeney
-Keith Michael Ammon
-Jason M. Osborne
-Kevin A. Avard
-Calvin Beaulier
-Joe H. Alexander
-
-Title: blockchain and cryptocurrency study committee
-Jurisdiction: Arizona - HB 2654
-Jeff Weninger
-
-Title: State government; Oklahoma State Treasurer; digital assets; precious metals; Digital Asset Property Fund; effective date.
-Jurisdiction: Oklahoma - HB 1891
-Lepak
-
-Title: An Act relative to personal financial literacy
-Jurisdiction: Massachusetts - HD 2899
-Ryan M. Hamilton
-
-Title: Digital assets; defining terms. Effective date.
-Jurisdiction: Oklahoma - SB 888
-Seifried
-
-Title: An Act providing for regulation and reporting requirements for qualifying virtual currency kiosk operators
-Jurisdiction: Massachusetts - SD 2006
-Patrick M. O'Connor
-
-Title: An Act allowing for fiscal resilience through strategic investment in stable digital financial assets
-Jurisdiction: Massachusetts - HD 3762
-Christopher J. Worrell
-
-Title: Modifying provisions of the revised uniform unclaimed property act.
-Jurisdiction: Washington - SB 5316
-Harris
-Hasegawa
-Krishnadasan
-Nobles
-Trudeau
-
-Title: relative to the use of and disputes over blockchain and digital currencies.
-Jurisdiction: New Hampshire - HB 639
-Mark Warden
-Joe Sweeney
-Keith Michael Ammon
-Jason M. Osborne
-Kevin A. Avard
-Calvin Beaulier
-Joe H. Alexander
-
-Title: blockchain and cryptocurrency study committee
-Jurisdiction: Arizona - HB 2654
-Jeff Weninger
-
-Title: State government; Oklahoma State Treasurer; digital assets; precious metals; Digital Asset Property Fund; effective date.
-Jurisdiction: Oklahoma - HB 1891
-Lepak
-
-Title: An Act relative to personal financial literacy
-Jurisdiction: Massachusetts - HD 2899
-Ryan M. Hamilton
-
-Title: Digital assets; defining terms. Effective date.
-Jurisdiction: Oklahoma - SB 888
-Seifried
-
-Title: An Act providing for regulation and reporting requirements for qualifying virtual currency kiosk operators
-Jurisdiction: Massachusetts - HD 2648
-Bruce J. Ayers
-
-Title: An Act providing for regulation and reporting requirements for qualifying virtual currency kiosk operators
-Jurisdiction: Massachusetts - SD 2006
-Patrick M. O'Connor
-
-Title: An Act allowing for fiscal resilience through strategic investment in stable digital financial assets
-Jurisdiction: Massachusetts - HD 3762
-Christopher J. Worrell
-
-Title: Modifying provisions of the revised uniform unclaimed property act.
-Jurisdiction: Washington - SB 5316
-Harris
-Hasegawa
-Krishnadasan
-Nobles
-Trudeau
-
-Title: relative to the use of and disputes over blockchain and digital currencies.
-Jurisdiction: New Hampshire - HB 639
-Mark Warden
-Joe Sweeney
-Keith Michael Ammon
-Jason M. Osborne
-Kevin A. Avard
-Calvin Beaulier
-Joe H. Alexander
-
-Title: blockchain and cryptocurrency study committee
-Jurisdiction: Arizona - HB 2654
-Jeff Weninger
-
-Title: State government; Oklahoma State Treasurer; digital assets; precious metals; Digital Asset Property Fund; effective date.
-Jurisdiction: Oklahoma - HB 1891
-Lepak
-
-Title: An Act relative to personal financial literacy
-Jurisdiction: Massachusetts - HD 2899
-Ryan M. Hamilton
-
-Title: Digital assets; defining terms. Effective date.
-Jurisdiction: Oklahoma - SB 888
-Seifried
-
-Title: An Act providing for regulation and reporting requirements for qualifying virtual currency kiosk operators
-Jurisdiction: Massachusetts - HD 2648
-Bruce J. Ayers
-
-Title: cryptocurrency kiosk; license; fraud prevention
-Jurisdiction: Arizona - HB 2387
-David Marshall, Sr.
-Michael Way
-
-Title: An Act providing for regulation and reporting requirements for qualifying virtual currency kiosk operators
-Jurisdiction: Massachusetts - SD 2006
-Patrick M. O'Connor
-
-Title: An Act allowing for fiscal resilience through strategic investment in stable digital financial assets
-Jurisdiction: Massachusetts - HD 3762
-Christopher J. Worrell
-
-Title: Modifying provisions of the revised uniform unclaimed property act.
-Jurisdiction: Washington - SB 5316
-Harris
-Hasegawa
-Krishnadasan
-Nobles
-Trudeau
-
-Title: relative to the use of and disputes over blockchain and digital currencies.
-Jurisdiction: New Hampshire - HB 639
-Mark Warden
-Joe Sweeney
-Keith Michael Ammon
-Jason M. Osborne
-Kevin A. Avard
-Calvin Beaulier
-Joe H. Alexander
-
-Title: blockchain and cryptocurrency study committee
-Jurisdiction: Arizona - HB 2654
-Jeff Weninger
-
-Title: State government; Oklahoma State Treasurer; digital assets; precious metals; Digital Asset Property Fund; effective date.
-Jurisdiction: Oklahoma - HB 1891
-Lepak
-
-Title: An Act relative to personal financial literacy
-Jurisdiction: Massachusetts - HD 2899
-Ryan M. Hamilton
-
-Title: Digital assets; defining terms. Effective date.
-Jurisdiction: Oklahoma - SB 888
-Seifried
-
-Title: An Act providing for regulation and reporting requirements for qualifying virtual currency kiosk operators
-Jurisdiction: Massachusetts - HD 2648
-Bruce J. Ayers
-
-Title: cryptocurrency kiosk; license; fraud prevention
-Jurisdiction: Arizona - HB 2387
-David Marshall, Sr.
-Michael Way
-
-Title: Blockchain and Digital Innovation Amendments
-Jurisdiction: Utah - HB 230
-Teuscher, Jordan D.
+Title: Mississippi School Safety Act of 2019; make various updates to.
+Jurisdiction: Mississippi - SB 2538
+Parker
+Boyd
+Williams
+
+Title: Mississippi School Safety Act of 2019; make various updates to.
+Jurisdiction: Mississippi - SB 2538
+Parker
+Boyd
+Williams
+
+Title: "Mississippi Student Funding Formula"; bring forward related sections for purpose of possible revisions.
+Jurisdiction: Mississippi - HB 1630
+Roberson
+
+Title: Mississippi School Safety Act of 2019; make various updates to.
+Jurisdiction: Mississippi - SB 2538
+Parker
+Boyd
+Williams
+
+Title: "Mississippi Student Funding Formula"; bring forward related sections for purpose of possible revisions.
+Jurisdiction: Mississippi - HB 1630
+Roberson
+
+Title: Change provisions of the Nebraska Medical Cannabis Regulation Act and provide for regulation of medical cannabis
+Jurisdiction: Nebraska - LB 677
+Hansen
+
+Title: Mississippi School Safety Act of 2019; make various updates to.
+Jurisdiction: Mississippi - SB 2538
+Parker
+Boyd
+Williams
+
+Title: "Mississippi Student Funding Formula"; bring forward related sections for purpose of possible revisions.
+Jurisdiction: Mississippi - HB 1630
+Roberson
+
+Title: Change provisions of the Nebraska Medical Cannabis Regulation Act and provide for regulation of medical cannabis
+Jurisdiction: Nebraska - LB 677
+Hansen
+
+Title: Change provisions of the Nebraska Medical Cannabis Patient Protection Act and the Nebraska Medical Cannabis Regulation Act, provide for regulation of medical cannabis, and adopt the Nebraska Medical Cannabis Justice Act and the Cannabis Conviction Clean Slate Act
+Jurisdiction: Nebraska - LB 705
+McKinney
+
+Title: Mississippi School Safety Act of 2019; make various updates to.
+Jurisdiction: Mississippi - SB 2538
+Parker
+Boyd
+Williams
+
+Title: "Mississippi Student Funding Formula"; bring forward related sections for purpose of possible revisions.
+Jurisdiction: Mississippi - HB 1630
+Roberson
+
+Title: Change provisions of the Nebraska Medical Cannabis Regulation Act and provide for regulation of medical cannabis
+Jurisdiction: Nebraska - LB 677
+Hansen
+
+Title: Change provisions of the Nebraska Medical Cannabis Patient Protection Act and the Nebraska Medical Cannabis Regulation Act, provide for regulation of medical cannabis, and adopt the Nebraska Medical Cannabis Justice Act and the Cannabis Conviction Clean Slate Act
+Jurisdiction: Nebraska - LB 705
+McKinney
+
+Title: Change provisions of the Nebraska Medical Cannabis Patient Protection Act and the Nebraska Medical Cannabis Regulation Act and provide for regulation of medical cannabis
+Jurisdiction: Nebraska - LB 651
+Conrad
+
+Title: Mississippi School Safety Act of 2019; make various updates to.
+Jurisdiction: Mississippi - SB 2538
+Parker
+Boyd
+Williams
+
+Title: "Mississippi Student Funding Formula"; bring forward related sections for purpose of possible revisions.
+Jurisdiction: Mississippi - HB 1630
+Roberson
+
+Title: Change provisions of the Nebraska Medical Cannabis Regulation Act and provide for regulation of medical cannabis
+Jurisdiction: Nebraska - LB 677
+Hansen
+
+Title: Change provisions of the Nebraska Medical Cannabis Patient Protection Act and the Nebraska Medical Cannabis Regulation Act, provide for regulation of medical cannabis, and adopt the Nebraska Medical Cannabis Justice Act and the Cannabis Conviction Clean Slate Act
+Jurisdiction: Nebraska - LB 705
+McKinney
+
+Title: Change provisions of the Nebraska Medical Cannabis Patient Protection Act and the Nebraska Medical Cannabis Regulation Act and provide for regulation of medical cannabis
+Jurisdiction: Nebraska - LB 651
+Conrad
+
+Title: Change and eliminate provisions relating to installment sales and installment loans, rename the Nebraska Installment Sales Act, and transfer provisions of and eliminate the Nebraska Installment Loan Act
+Jurisdiction: Nebraska - LB 474
+Banking, Commerce and Insurance Committee
