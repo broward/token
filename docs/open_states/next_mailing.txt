@@ -1,52 +1,42 @@
+
+
+Title: A bill for an act relating to the establishment of a transactional currency based on gold and silver held in a bullion depository approved by the treasurer of state, and providing fees.
+Jurisdiction: Iowa - SF 112
+ALONS
+EVANS
+TAYLOR
+Sen. Mark Lofgren
+1007 E. Grand Ave.
+Des Moines, IA 50319
+
+GREEN
+SWEENEY
+DE WITT
+ROWLEY
+SALMON
+GUTH
+CAMPBELL
+SHIPLEY
+REICHMAN
+PIKE
+McCLINTOCK
+WESTRICH
+
 Title: "Blockchain Basics Act"; create.
 Jurisdiction: Mississippi - HB 1590
-Jackson
-
-Title: An Act allowing for fiscal resilience through strategic investment in stable digital financial assets
-Jurisdiction: Massachusetts - SD 2422
-Barry R. Finegold
-
-Title: Resolve establishing a special commission on blockchain and cryptocurrency technology
-Jurisdiction: Massachusetts - SD 2301
-Barry R. Finegold
-
-Title: Select Committee on Blockchain and Emerging Technologies-1.
-Jurisdiction: Wyoming - HB 256
-Andrew
-Singh
-Yin
-Nethercott
-Rothfuss
-
-Title: Technology Innovation Fund; establish.
-Jurisdiction: Mississippi - SB 2443
-Williams
-
-Title: Exemption on precious metal bullion expansion to include coins and other forms of currency
-Jurisdiction: Minnesota - SF 403
-Sen. Rich Draheim
-95 University Avenue W.
-Minnesota Senate Bldg., Room 2225
-St. Paul, MN 55155
-
-Title: An Act allowing for fiscal resilience through strategic investment in stable digital financial assets
-Jurisdiction: Massachusetts - HD 3762
-Rep. Christopher J. Worrell
-24 Beacon St. 
-Room 443
-Boston, MA, 02133
-
-Title: Mississippi Bullion Depository; establish in State Treasury.
-Jurisdiction: Mississippi - SB 2082
-Sen. Kathy Chism
-P. O. Box 1018
+Rep. Lataisha Jackson
+P.O. Box 1018
 Jackson, MS 39215
 
-Title: Mississippi Bullion Depository; establish and authorize fractional reserve currency.
-Jurisdiction: Mississippi - HB 1043
-Rep. Lester Carpenter
-8 Carpenter Drive
-Burnsville, MS   38833
+
+
+
+
+
+
+
+
+
 
 Title: legal tender; cryptocurrency
 Jurisdiction: Arizona - SB 1062
@@ -56,21 +46,6 @@ Senator David C. Farnsworth - SB 1062
 Title: blockchain and cryptocurrency study committee
 Jurisdiction: Arizona - HB 2654
 Jeff Weninger - HB 2654
-
-Title: A BILL for an Act to create and enact a new chapter to title 6 of the North Dakota Century Code, relating to virtual currency kiosks.
-Jurisdiction: North Dakota - HB 1447
-Steve Swiontek
-Josh Christy
-Karla Rose Hanson
-Pat D. Heinert
-Kathy Hogan
-Jerry Klein
-Judy Lee
-Jeremy Olson
-David Richter
-Dean Rummel
-Austen Schauer
-Jonathan Sickler
 
 Title: A BILL for an Act to create and enact a new section to chapter 15-01, a new section to chapter 21-10, and a new section to chapter 54-11 of the North Dakota Century Code, relating to digital asset and precious metal investments.
 Jurisdiction: North Dakota - HB 1184
@@ -86,7 +61,107 @@ SuAnn Olson
 Bob Paulson
 Todd Porter
 
--------------------------- Mailed
+-------------------------- Mailed 
+Title: Mississippi Bullion Depository; establish and authorize fractional reserve currency.
+Jurisdiction: Mississippi - HB 1043
+Rep. Lester Carpenter
+8 Carpenter Drive
+Burnsville, MS   38833
+
+Title: An Act allowing for fiscal resilience through strategic investment in stable digital financial assets
+Jurisdiction: Massachusetts - HD 3762
+Rep. Christopher J. Worrell
+24 Beacon St. 
+Room 443
+Boston, MA, 02133
+
+Title: Mississippi Bullion Depository; establish in State Treasury.
+Jurisdiction: Mississippi - SB 2082
+Sen. Kathy Chism
+P. O. Box 1018
+Jackson, MS 39215
+
+Title: Select Committee on Blockchain and Emerging Technologies-1.
+Jurisdiction: Wyoming - HB 256
+Rep. Ocean Andrew
+PO Box 2148
+Laramie, WY 82073
+
+Rep. Daniel Singh
+P.O. Box 20173
+Cheyenne, WY 82003
+
+Rep. Mike Yin
+P.O. Box 20173
+Cheyenne, WY 82003
+
+Senator Tara Nethercott
+P.O. Box 20173
+Cheyenne, WY 82003
+
+Senator Chris Rothfuss
+P O Box 1791
+Laramie, WY 82073
+
+Title: Technology Innovation Fund; establish.
+Jurisdiction: Mississippi - SB 2443
+Senator Bart Williams
+P. O. Box 1018
+Jackson, MS 39215
+
+Title: Exemption on precious metal bullion expansion to include coins and other forms of currency
+Jurisdiction: Minnesota - SF 403
+Sen. Rich Draheim
+95 University Avenue W.
+Minnesota Senate Bldg., Room 2225
+St. Paul, MN 55155
+
+Title: An Act allowing for fiscal resilience through strategic investment in stable digital financial assets
+Jurisdiction: Massachusetts - SD 2422
+Title: Resolve establishing a special commission on blockchain and cryptocurrency technology
+Jurisdiction: Massachusetts - SD 2301
+Senator Barry R. Finegold
+24 Beacon St. 
+Room 511-A
+Boston, MA, 02133
+
+Title: Ohio Strategic Cryptocurrency Reserve Act.
+Jurisdiction: Ohio - HB 18
+Rep. Steve Demetriou
+77 S. High St
+12th Floor
+Columbus, OH 43215
+
+Rep. Tex Fischer
+77 South High Street
+13th Floor
+Columbus, OH 43215
+
+Rep. Mark Johnson
+77 South High Street
+12th Floor
+Columbus, OH 43215
+
+Rep. Angela King
+77 S. High St
+11th Floor
+Columbus, OH 43215
+
+Rep. Brian Lorenz
+77 S. High St
+11th Floor
+Columbus, OH 43215
+
+Rep. Ty D. Mathews
+77 South High Street
+12th Floor
+Columbus, OH 43215
+
+Rep. Josh Williams
+77 S. High St
+11th Floor
+Columbus, OH 43215
+
 Title: legal tender; cryptocurrency
 Jurisdiction: Arizona - SB 1062
 
