@@ -135,9 +135,9 @@ def main():
     #keyword = "blockchain"
     #keyword = "digital platform payment"
     #keyword = "stablecoin"
-    #keyword = "metals depository"
-    keyword = "bullion and currency"
-    #keyword = "stablecoin or blockchain or bullion or depository or cryptocurrency"
+    keyword = "metals depository"
+    #keyword = "bullion and currency"
+
     jurisdiction = "Texas"
     # session = "2024"
     print(f"Searching for bills with keyword '{keyword}'...")

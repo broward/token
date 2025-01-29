@@ -1,27 +1,3 @@
-Title: STRATEGIC BITCOIN RESERVE
-Jurisdiction: Illinois - HB 1844
-John M. Cabello
-
-Title: Ohio Bitcoin Reserve Act
-Jurisdiction: Ohio - SB 57
-Sandra O'Brien
-
-Title: Cryptographic Frontiers Act.
-Jurisdiction: Wyoming - HB 308
-Filer
-DUP - Singh
-Wasserburger
-DUP -Yin
-
-Title: Treasurer, State - As introduced, allows the state treasurer to enter into an agreement with an entity to carry out certain activities in order to serve as a facility to securely produce, store, process, and ship bullion products for the state's depository. - Amends TCA Title 9, Chapter 4.
-Jurisdiction: Tennessee - HB 440 / HB 439
-Hulsey
-
-Title: Establishes the New York state cryptocurrency and blockchain study task force
-Jurisdiction: New York - A 3279
-Clyde Vanel
-Chris Burdick
-Nader Sayegh
 
 Title: "Blockchain Basics Act"; create.
 Jurisdiction: Mississippi - HB 1590
@@ -29,21 +5,11 @@ Rep. Lataisha Jackson
 P.O. Box 1018
 Jackson, MS 39215
 
-Title: legal tender; cryptocurrency
-Jurisdiction: Arizona - SB 1062
-Senator Mark Finchem - SB 1062
-Room 304, 1700 W. Washington St.
-Phoenix, AZ 85007
-
-Senator David C. Farnsworth - SB 1062
-Room 303, 1700 W. Washington St.
-Phoenix, AZ 85007
-
-Title: blockchain and cryptocurrency study committee
-Jurisdiction: Arizona - HB 2654
-Sen. Jeff Weninger - HB 2654
-Room 316, 1700 W. Washington St.
-Phoenix, AZ 85007
+Title: Cryptographic Frontiers Act.
+Jurisdiction: Wyoming - HB 308
+Rep. Jacob Wasserburger
+420 W. 23rd Street Apt. 2
+Cheyenne, WY 82001
 
 Title: A BILL for an Act to create and enact a new section to chapter 15-01, a new section to chapter 21-10, and a new section to chapter 54-11 of the North Dakota Century Code, relating to digital asset and precious metal investments.
 Jurisdiction: North Dakota - HB 1184
@@ -60,6 +26,70 @@ Bob Paulson
 Todd Porter
 
 -------------------------- Mailed 
+Title: legal tender; cryptocurrency
+Jurisdiction: Arizona - SB 1062
+Senator Mark Finchem - SB 1062
+Room 304, 1700 W. Washington St.
+Phoenix, AZ 85007
+
+Senator David C. Farnsworth - SB 1062
+Room 303, 1700 W. Washington St.
+Phoenix, AZ 85007
+
+Title: blockchain and cryptocurrency study committee
+Jurisdiction: Arizona - HB 2654
+Sen. Jeff Weninger - HB 2654
+Room 316, 1700 W. Washington St.
+Phoenix, AZ 85007
+
+Title: STRATEGIC BITCOIN RESERVE
+Jurisdiction: Illinois - HB 1844
+Rep. John M. Cabello
+1702 Hutchins Road
+Machesney Park, IL 61115
+
+Title: Ohio Bitcoin Reserve Act
+Jurisdiction: Ohio - SB 57
+Sen. Sandra O'Brien
+Senate Building, 
+1 Capitol Square Ground Floor
+Columbus, OH 43215
+
+Title: Cryptographic Frontiers Act.
+Jurisdiction: Wyoming - HB 308
+Rep. Lee Filer
+1215 Medley Loop
+Cheyenne, WY 82007
+
+Rep. Jacob Wasserburger
+420 W. 23rd Street Apt. 2
+Cheyenne, WY 82001
+
+DUP - Singh
+DUP -Yin
+
+Title: Treasurer, State - As introduced, allows the state treasurer to enter into an agreement with an entity to carry out certain activities in order to serve as a facility to securely produce, store, process, and ship bullion products for the state's depository. - Amends TCA Title 9, Chapter 4.
+Jurisdiction: Tennessee - HB 440 / HB 439
+Rep. Bud Hulsey
+425 Rep. John Lewis Way N.
+Suite 519 Cordell Hull Bldg.
+Nashville, TN 37243
+
+Title: Establishes the New York state cryptocurrency and blockchain study task force
+Jurisdiction: New York - A 3279
+Asm. Clyde Vanel
+LOB 454
+Albany, NY 12248
+
+Asm. Chris Burdick
+100 S. Bedford Rd.
+Suite 150
+Mount Kisco, NY 10549
+
+Asm. Nader Sayegh
+35 East Grassy Sprain Rd.
+406B
+Yonkers, NY 10710
 
 
 Title: A bill for an act relating to the establishment of a transactional currency based on gold and silver held in a bullion depository approved by the treasurer of state, and providing fees.
