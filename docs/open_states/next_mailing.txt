@@ -1,3 +1,32 @@
+Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve; making an appropriation.
+Jurisdiction: Texas - SB 778
+Schwertner
+
+Title: Authorizing the KPERS board of trustees to invest in bitcoin exchange-traded products and providing requirements, limitations and definitions regarding such investments.
+Jurisdiction: Kansas - SB 34
+Bowser
+
+Title: State funds-investment in Bitcoin.
+Jurisdiction: Wyoming - HB 201
+Brown, G
+DUP Filer
+Lucas
+DUP Singh
+DUP Wasserburger
+Smith, D
+
+Title: Enact the Ohio Bitcoin Reserve Act
+Jurisdiction: Ohio - HB 703
+Derek Merrin
+
+Title: An Act relative to a bitcoin strategic reserve
+Jurisdiction: Massachusetts - SD 422
+Peter J. Durant
+
+Title: Public finance; Strategic Bitcoin Reserve Act; definitions; investments; State Treasurer; taxes and fees; state retirement funds; effective date.
+Jurisdiction: Oklahoma - HB 1203
+Maynard
+Frix
 
 Title: "Blockchain Basics Act"; create.
 Jurisdiction: Mississippi - HB 1590
@@ -24,6 +53,10 @@ Scott Meyer
 SuAnn Olson
 Bob Paulson
 Todd Porter
+
+Title: digital assets strategic reserve fund
+Jurisdiction: Arizona - SB 1373
+Mark Finchem
 
 -------------------------- Mailed 
 Title: legal tender; cryptocurrency
