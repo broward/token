@@ -1,3 +1,27 @@
+Title: Establishes the "Digital Assets Authorization Act"
+Jurisdiction: Missouri - HB 1136
+Tricia Byrnes
+
+Title: A concurrent resolution directing the Legislative Management to consider studying political subdivisions making investments in stablecoins.
+Jurisdiction: North Dakota - HCR 3022
+David Richter
+Brad Bekkedahl
+Jason Dockter
+Mike Nathe
+Nathan Toman
+Scott Wagner
+
+Title: Enacting the Kansas bullion depository act to authorize the state treasurer to establish, administer or contract for the administration of bullion depositories and allowing for state moneys to be deposited in such bullion depositories and invested in specie legal tender.
+Jurisdiction: Kansas - SB 115
+Committee on Federal and State Affairs
+
+Title: permit the state to invest in Bitcoin.
+Jurisdiction: South Dakota - HB 1202 /HCR 6006
+Manhart
+Aylward
+Jordan
+Perry
+
 Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve; making an appropriation.
 Jurisdiction: Texas - SB 778
 Schwertner
@@ -18,6 +42,11 @@ Smith, D
 Title: Enact the Ohio Bitcoin Reserve Act
 Jurisdiction: Ohio - HB 703
 Derek Merrin
+
+Title: Establishes a task force to study the impact of a state-issued cryptocurrency on the state of New York
+Jurisdiction: New York - S 3985
+Kevin S. Parker
+Luis R. Sepúlveda
 
 Title: An Act relative to a bitcoin strategic reserve
 Jurisdiction: Massachusetts - SD 422
