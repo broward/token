@@ -1,13 +1,33 @@
+Title: Enact the Ohio Bitcoin Reserve Act
+Jurisdiction: Ohio - SB 57
+Sandra O'Brien
+
 Title: Establishes the "Digital Assets Authorization Act"
 Jurisdiction: Missouri - HB 1136
-Tricia Byrnes
+Rep. Tricia Byrnes
+MO House of Representatives
+201 West Capitol Avenue
+Room 313-3
+Jefferson City MO 65101 
 
 Title: A concurrent resolution directing the Legislative Management to consider studying political subdivisions making investments in stablecoins.
 Jurisdiction: North Dakota - HCR 3022
-David Richter
-Brad Bekkedahl
-Jason Dockter
-Mike Nathe
+Rep. David Richter
+2414 22nd Street West
+Williston, ND 58801-6500
+
+Sen. Brad Bekkedahl
+P. O. Box 2443
+Williston, ND 58802-2443
+
+Rep. Jason Dockter
+2025 Pebbleview Loop
+Bismarck, ND 58503-1277
+
+Rep. Mike Nathe
+1899 Bonn Boulevard
+Bismarck, ND 58504-7019
+
 Nathan Toman
 Scott Wagner
 
@@ -17,18 +37,27 @@ Committee on Federal and State Affairs
 
 Title: permit the state to invest in Bitcoin.
 Jurisdiction: South Dakota - HB 1202 /HCR 6006
-Manhart
-Aylward
-Jordan
-Perry
+Rep. Logan Manhart
+2640 130th St. NW Lot 81
+Aberdeen, SD 57401
 
-Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve; making an appropriation.
-Jurisdiction: Texas - SB 778
-Schwertner
+Aaron.Aylward@sdlegislature.gov
+
+Rep. Aaron Aylward
+
+Rep. Dylan C. Jordan
+PO Box 651
+Clear Lake, SD 57226
+
+Sen. Carl Perry
+2722 Railroad Cir.
+Aberdeen, SD 57401-5347
 
 Title: Authorizing the KPERS board of trustees to invest in bitcoin exchange-traded products and providing requirements, limitations and definitions regarding such investments.
 Jurisdiction: Kansas - SB 34
-Bowser
+Sen. Craig Bowser
+21717 K16 Highway
+Holton, KS 66436
 
 Title: State funds-investment in Bitcoin.
 Jurisdiction: Wyoming - HB 201
@@ -39,18 +68,17 @@ DUP Singh
 DUP Wasserburger
 Smith, D
 
-Title: Enact the Ohio Bitcoin Reserve Act
-Jurisdiction: Ohio - HB 703
-Derek Merrin
-
 Title: Establishes a task force to study the impact of a state-issued cryptocurrency on the state of New York
 Jurisdiction: New York - S 3985
-Kevin S. Parker
-Luis R. Sepúlveda
+Sen. Kevin S. Parker
+172 State Street Room 504, Capitol Building
+Room 504C
+Albany,  NY 12247
 
-Title: An Act relative to a bitcoin strategic reserve
-Jurisdiction: Massachusetts - SD 422
-Peter J. Durant
+Sen. Luis R. Sepúlveda
+188 State Street
+Room 412 Legislative Office Building
+Albany,  NY 12247
 
 Title: Public finance; Strategic Bitcoin Reserve Act; definitions; investments; State Treasurer; taxes and fees; state retirement funds; effective date.
 Jurisdiction: Oklahoma - HB 1203
