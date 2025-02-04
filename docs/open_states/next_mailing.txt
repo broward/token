@@ -1,6 +1,4 @@
-Title: Enact the Ohio Bitcoin Reserve Act
-Jurisdiction: Ohio - SB 57
-Sandra O'Brien
+
 
 Title: Establishes the "Digital Assets Authorization Act"
 Jurisdiction: Missouri - HB 1136
@@ -40,10 +38,6 @@ Jurisdiction: South Dakota - HB 1202 /HCR 6006
 Rep. Logan Manhart
 2640 130th St. NW Lot 81
 Aberdeen, SD 57401
-
-Aaron.Aylward@sdlegislature.gov
-
-Rep. Aaron Aylward
 
 Rep. Dylan C. Jordan
 PO Box 651
@@ -85,35 +79,11 @@ Jurisdiction: Oklahoma - HB 1203
 Maynard
 Frix
 
-Title: "Blockchain Basics Act"; create.
-Jurisdiction: Mississippi - HB 1590
-Rep. Lataisha Jackson
-P.O. Box 1018
-Jackson, MS 39215
-
 Title: Cryptographic Frontiers Act.
 Jurisdiction: Wyoming - HB 308
 Rep. Jacob Wasserburger
 420 W. 23rd Street Apt. 2
 Cheyenne, WY 82001
-
-Title: A BILL for an Act to create and enact a new section to chapter 15-01, a new section to chapter 21-10, and a new section to chapter 54-11 of the North Dakota Century Code, relating to digital asset and precious metal investments.
-Jurisdiction: North Dakota - HB 1184
-Nathan Toman
-Jeff Barta
-Josh Christy
-Claire Cory
-Matthew Heilman
-Jared Hendrix
-Daniel Johnston
-Scott Meyer
-SuAnn Olson
-Bob Paulson
-Todd Porter
-
-Title: digital assets strategic reserve fund
-Jurisdiction: Arizona - SB 1373
-Mark Finchem
 
 -------------------------- Mailed 
 Title: legal tender; cryptocurrency
