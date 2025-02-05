@@ -1,22 +1,9 @@
-
-
-Title: Establishes the "Digital Assets Authorization Act"
-Jurisdiction: Missouri - HB 1136
-Rep. Tricia Byrnes
-MO House of Representatives
-201 West Capitol Avenue
-Room 313-3
-Jefferson City MO 65101 
+Title: Public finance; Strategic Bitcoin Reserve Act; definitions; investments; State Treasurer; taxes and fees; state retirement funds; effective date.
+Jurisdiction: Oklahoma - HB 1203
+Maynard
+Frix
 
 Title: A concurrent resolution directing the Legislative Management to consider studying political subdivisions making investments in stablecoins.
-Jurisdiction: North Dakota - HCR 3022
-Rep. David Richter
-2414 22nd Street West
-Williston, ND 58801-6500
-
-Sen. Brad Bekkedahl
-P. O. Box 2443
-Williston, ND 58802-2443
 
 Rep. Jason Dockter
 2025 Pebbleview Loop
@@ -32,6 +19,33 @@ Scott Wagner
 Title: Enacting the Kansas bullion depository act to authorize the state treasurer to establish, administer or contract for the administration of bullion depositories and allowing for state moneys to be deposited in such bullion depositories and invested in specie legal tender.
 Jurisdiction: Kansas - SB 115
 Committee on Federal and State Affairs
+
+Title: State funds-investment in Bitcoin.
+Jurisdiction: Wyoming - HB 201
+Brown, G
+DUP Filer
+Lucas
+DUP Singh
+DUP Wasserburger
+Smith, D
+
+-------------------------- Mailed 
+Jurisdiction: North Dakota - HCR 3022
+Rep. David Richter
+2414 22nd Street West
+Williston, ND 58801-6500
+
+Sen. Brad Bekkedahl
+P. O. Box 2443
+Williston, ND 58802-2443
+
+Title: Establishes the "Digital Assets Authorization Act"
+Jurisdiction: Missouri - HB 1136
+Rep. Tricia Byrnes
+MO House of Representatives
+201 West Capitol Avenue
+Room 313-3
+Jefferson City MO 65101 
 
 Title: permit the state to invest in Bitcoin.
 Jurisdiction: South Dakota - HB 1202 /HCR 6006
@@ -53,15 +67,6 @@ Sen. Craig Bowser
 21717 K16 Highway
 Holton, KS 66436
 
-Title: State funds-investment in Bitcoin.
-Jurisdiction: Wyoming - HB 201
-Brown, G
-DUP Filer
-Lucas
-DUP Singh
-DUP Wasserburger
-Smith, D
-
 Title: Establishes a task force to study the impact of a state-issued cryptocurrency on the state of New York
 Jurisdiction: New York - S 3985
 Sen. Kevin S. Parker
@@ -74,18 +79,12 @@ Sen. Luis R. Sepúlveda
 Room 412 Legislative Office Building
 Albany,  NY 12247
 
-Title: Public finance; Strategic Bitcoin Reserve Act; definitions; investments; State Treasurer; taxes and fees; state retirement funds; effective date.
-Jurisdiction: Oklahoma - HB 1203
-Maynard
-Frix
-
 Title: Cryptographic Frontiers Act.
 Jurisdiction: Wyoming - HB 308
 Rep. Jacob Wasserburger
 420 W. 23rd Street Apt. 2
 Cheyenne, WY 82001
 
--------------------------- Mailed 
 Title: legal tender; cryptocurrency
 Jurisdiction: Arizona - SB 1062
 Senator Mark Finchem - SB 1062

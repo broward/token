@@ -130,14 +130,14 @@ def main():
     session = "" # input("Enter legislative session (leave blank for all sessions): ").strip() or None
     
     size = 1
-    #keyword = "cryptocurrency"
+    keyword = "cryptocurrency"
     #keyword = "bitcoin"
     #keyword = "bullion depository"
     #keyword = "blockchain"
     #keyword = "digital platform payment"
     #keyword = "stablecoin"
     #keyword = "metals depository"
-    keyword = "bullion and currency"
+    #keyword = "bullion and currency"
 
     jurisdiction = "Texas"
     # session = "2024"
