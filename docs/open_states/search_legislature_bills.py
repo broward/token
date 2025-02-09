@@ -41,7 +41,7 @@ def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
         "page": page,
         "per_page": 20,
         # "jurisdiction": jurisdiction,
-        "created_since": "2025-02-01",
+        "created_since": "2025-02-06",
         "include": ["sponsorships"],
         "apikey": API_KEY,
         "session": session
@@ -130,12 +130,12 @@ def main():
     session = "" # input("Enter legislative session (leave blank for all sessions): ").strip() or None
     
     size = 1
-    keyword = "cryptocurrency"
+    #keyword = "cryptocurrency"
     #keyword = "bitcoin"
     #keyword = "bullion depository"
     #keyword = "blockchain"
     #keyword = "digital platform payment"
-    #keyword = "stablecoin"
+    keyword = "stablecoin"
     #keyword = "metals depository"
     #keyword = "bullion and currency"
 

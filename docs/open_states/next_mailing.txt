@@ -1,13 +1,7 @@
-Title: Public finance; Strategic Bitcoin Reserve Act; definitions; investments; State Treasurer; taxes and fees; state retirement funds; effective date.
-Jurisdiction: Oklahoma - HB 1203
-Maynard
-Frix
 
 Title: A concurrent resolution directing the Legislative Management to consider studying political subdivisions making investments in stablecoins.
 
-Rep. Jason Dockter
-2025 Pebbleview Loop
-Bismarck, ND 58503-1277
+
 
 Rep. Mike Nathe
 1899 Bonn Boulevard
@@ -29,7 +23,80 @@ DUP Singh
 DUP Wasserburger
 Smith, D
 
+
+Title: LEGAL TENDER – Adds to existing law to provide that gold and silver coin and specie shall be legal tender and to provide that no person or entity may compel another person or entity to tender or accept gold or silver coin or specie.
+Jurisdiction: Idaho - H 177
+STATE AFFAIRS COMMITTEE
+
 -------------------------- Mailed 
+
+Rep. Jason Dockter
+2025 Pebbleview Loop
+Bismarck, ND 58503-1277
+
+Title: Creates the "Bitcoin Strategic Reserve Fund" and allows the state treasurer to receive, invest, and hold Bitcoin under certain circumstances
+Jurisdiction: Missouri - HB 1217
+Rep. Ben Keathley
+MO House of Representatives
+201 West Capitol Avenue
+Room 112
+Jefferson City MO 65101 
+
+Title: Provide account and transfer for BOI for investment in precious metals and digital assets
+Jurisdiction: Montana - HB 429
+Rep. Curtis Schomer
+PO Box 22234 
+Billings MT 59104
+
+Title: Investments of Public Funds in Bitcoin
+Jurisdiction: Florida - SB 550
+Sen. Joe Gruters
+413 Senate Building
+404 South Monroe Street
+Tallahassee, FL 32399-1100
+
+Title: Strategic Bitcoin Reserve Act of Maryland
+Jurisdiction: Maryland - HB 1389
+Sen. Karen Lewis Young
+302 James Senate Office Building
+11 Bladen Street
+Annapolis, MD 21401
+
+Title: AN ACT relating to digital assets.
+Jurisdiction: Kentucky - HB 377
+Rep. T.J. Roberts
+702 Capital Ave
+Annex Room 424
+Frankfort, KY 40601
+
+Title: A bill for an act relating to the investment of public moneys in digital assets and precious metals.
+Jurisdiction: Iowa - HF 246
+Rep. Taylor Collins - HF 246
+1007 E. Grand Ave.
+Des Moines, IA 50319
+
+Title: Public Funds and Financing - As introduced, enacts the Tennessee bullion depository act; makes gold and silver coinage legal tender; authorizes payment of taxes with gold and silver coinage; makes other changes concerning precious metals. - Amends TCA Title 9; Title 45, Chapter 2 and Title 67.
+Jurisdiction: Tennessee - SB 985
+Sen. Steve Southerland
+425 Rep. John Lewis Way N.
+Suite 712 Cordell Hull Bldg.
+Nashville, TN 37243
+
+Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
+Jurisdiction: Montana - SB 265
+Sen. Daniel Zolnikov
+PO BOX 50403
+BILLINGS, MT 59105-0403
+
+Title: STRATEGIC BITCOIN RESERVE ACT
+Jurisdiction: New Mexico - SB 275
+Sen. Anthony Thornton
+Room: 415E
+State Capitol
+490 Old Santa Fe Trail
+Santa Fe, NM 87501
+
+
 Jurisdiction: North Dakota - HCR 3022
 Rep. David Richter
 2414 22nd Street West
