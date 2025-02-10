@@ -3,7 +3,7 @@ import json
 import sys, os
 
 # Open States API Key
-file = open('/home/gypsy/Project/keys/open_spaces_api_key.json', "r")
+file = open('../../../keys/open_spaces_api_key.json', "r")
 API_KEY = file.read().strip()
 print(API_KEY)
 file.close()
@@ -41,7 +41,7 @@ def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
         "page": page,
         "per_page": 20,
         # "jurisdiction": jurisdiction,
-        "created_since": "2025-02-06",
+        "created_since": "2025-02-08",
         "include": ["sponsorships"],
         "apikey": API_KEY,
         "session": session
@@ -134,10 +134,9 @@ def main():
     #keyword = "bitcoin"
     #keyword = "bullion depository"
     #keyword = "blockchain"
-    #keyword = "digital platform payment"
-    keyword = "stablecoin"
+    #keyword = "stablecoin"
     #keyword = "metals depository"
-    #keyword = "bullion and currency"
+    keyword = "bullion and currency"
 
     jurisdiction = "Texas"
     # session = "2024"
