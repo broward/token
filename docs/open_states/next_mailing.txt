@@ -1,12 +1,37 @@
+Title: A bill for an act relating to the establishment of a transactional currency based on gold and silver held in a bullion depository approved by the treasurer of state, and providing fees.
+Jurisdiction: Iowa - HF 325
+GOLDING
+CISNEROS
+THOMPSON
+GERHOLD
+HENDERSON
+SHIPLEY
+BODEN
+SMITH
+
 Title: NC Digital Assets Investments Act.
 Jurisdiction: North Carolina - HB 92
 Ross
 Brody
 Schietzelt
 D. Hall
+Almond
 Biggs
+Carver
+K. Hall
+Hastings
 N. Jackson
+Loftis
 Lowery
+Moss
+Pyrtle
+Reeder
+Ward
+Warren
+
+Title: Investments of Public Funds in Bitcoin
+Jurisdiction: Florida - HB 487
+Barnaby
 
 Title: A concurrent resolution directing the Legislative Management to consider studying political subdivisions making investments in stablecoins.
 Rep. Mike Nathe
