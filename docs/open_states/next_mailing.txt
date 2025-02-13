@@ -1,45 +1,26 @@
 Title: A bill for an act relating to the establishment of a transactional currency based on gold and silver held in a bullion depository approved by the treasurer of state, and providing fees.
-Jurisdiction: Iowa - HF 325
-GOLDING
-CISNEROS
-THOMPSON
-GERHOLD
-HENDERSON
-SHIPLEY
-BODEN
-SMITH
+Madison Grady
+7745 Office Plaza Drive N., Ste. 170, 
+West Des Moines, IA 50266
 
-Title: NC Digital Assets Investments Act.
-Jurisdiction: North Carolina - HB 92
-Ross
-Brody
-Schietzelt
-D. Hall
-Almond
-Biggs
-Carver
-K. Hall
-Hastings
-N. Jackson
-Loftis
-Lowery
-Moss
-Pyrtle
-Reeder
-Ward
-Warren
+Justin Hupfer
+7745 Office Plaza Drive N., Ste. 170, 
+West Des Moines, IA 50266
 
-Title: Investments of Public Funds in Bitcoin
-Jurisdiction: Florida - HB 487
-Barnaby
+Title: Establishing digital currency backed by gold
+Jurisdiction: West Virginia - SB 441
+Rucker
 
-Title: A concurrent resolution directing the Legislative Management to consider studying political subdivisions making investments in stablecoins.
-Rep. Mike Nathe
-1899 Bonn Boulevard
-Bismarck, ND 58504-7019
+Title: TO AMEND THE UNIFORM MONEY SERVICES ACT.
+Jurisdiction: Arkansas - HB 1467
+Achor
+J. Boyd
 
-Nathan Toman
-Scott Wagner
+Title: State finance: other; strategic bitcoin reserve; establish.
+Jurisdiction: Michigan - HB 4087 / HB 4085
+Alabas Farhat
+Bryan Posthumus
+Ron Robinson
 
 Title: Enacting the Kansas bullion depository act to authorize the state treasurer to establish, administer or contract for the administration of bullion depositories and allowing for state moneys to be deposited in such bullion depositories and invested in specie legal tender.
 Jurisdiction: Kansas - SB 115
@@ -60,10 +41,51 @@ Jurisdiction: Idaho - H 177
 STATE AFFAIRS COMMITTEE
 
 -------------------------- Mailed 
+Title: A bill for an act relating to the establishment of a transactional currency based on gold and silver held in a bullion depository approved by the treasurer of state, and providing fees.
+Jurisdiction: Iowa - HF 325
+Rep. Cindy Golding - HF 325
+1007 E. Grand Ave.
+Des Moines, IA 50319
 
-Rep. Jason Dockter
-2025 Pebbleview Loop
-Bismarck, ND 58503-1277
+Rep. Mark Cisneros - HF 325
+1007 E. Grand Ave.
+Des Moines, IA 50319
+
+Rep. Mark I. Thompson - HF 325
+1007 E. Grand Ave.
+Des Moines, IA 50319
+
+Title: NC Digital Assets Investments Act.
+Jurisdiction: North Carolina - HB 92
+Rep. Stephen M. Ross
+16 West Jones Street, Rm. 1229
+Raleigh, NC 27601-1096
+
+Rep. Mike Schietzelt
+300 N. Salisbury Street, Rm. 533
+Raleigh, NC 27603-5925
+
+Title: Investments of Public Funds in Bitcoin
+Jurisdiction: Florida - HB 487
+Rep. Webster Barnaby
+402 S. Monroe St.
+Tallahassee, FL 32399
+
+Title: An Act relating to the business of money transmission; relating to licenses for money transmission, licensure requirements, and registration through a nationwide multistate licensing system; relating to the use of virtual currency for money transmission; relating to authorized delegates of a licensee; relating to acquisition of control of a license; relating to record retention and reporting requirements; authorizing the Department of Commerce, Community, and Economic Development to cooperate with other states in the regulation of money transmission; relating to permissible investments; relating to violations and enforcement of money transmission laws; relating to exemptions to money transmission licensure requirements; relating to payroll processing services; relating to currency exchange licenses; amending Rules 79 and 82, Alaska Rules of Civil Procedure; and providing for an effective date.
+Jurisdiction: Alaska - HB 99
+Rep. Zack Fields
+State Capitol Room 24
+Juneau AK, 99801
+
+Title: Establishes the New York state cryptocurrency and blockchain study task force
+Jurisdiction: New York - S 4728
+Senator James Sanders Jr.
+Legislative Office Building, Room 711
+Albany,  NY 12247
+
+Senator Lea Webb
+Legislative Office Building, Room 848
+Albany,  NY 12247
 
 Title: Creates the "Bitcoin Strategic Reserve Fund" and allows the state treasurer to receive, invest, and hold Bitcoin under certain circumstances
 Jurisdiction: Missouri - HB 1217
@@ -136,6 +158,16 @@ Williston, ND 58801-6500
 Sen. Brad Bekkedahl
 P. O. Box 2443
 Williston, ND 58802-2443
+
+Rep. Mike Nathe
+1899 Bonn Boulevard
+Bismarck, ND 58504-7019
+
+Rep. Jason Dockter
+2025 Pebbleview Loop
+Bismarck, ND 58503-1277
+
+
 
 Title: Establishes the "Digital Assets Authorization Act"
 Jurisdiction: Missouri - HB 1136

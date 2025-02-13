@@ -1,73 +1,102 @@
 
 
-Title: NC Digital Assets Investments Act.
-Jurisdiction: North Carolina - HB 92
-Ross
-Brody
-Schietzelt
-D. Hall
-Almond
-Biggs
-Carver
-K. Hall
-Hastings
-N. Jackson
-Loftis
-Lowery
-Moss
-Pyrtle
-Reeder
-Ward
-Warren
+Title: Establishing digital currency backed by gold
+Jurisdiction: West Virginia - SB 441
+Rucker
 
-Title: NC Digital Assets Investments Act.
-Jurisdiction: North Carolina - HB 92
-Ross
-Brody
-Schietzelt
-D. Hall
-Almond
-Biggs
-Carver
-K. Hall
-Hastings
-N. Jackson
-Loftis
-Lowery
-Moss
-Pyrtle
-Reeder
-Ward
-Warren
+Title: Establishing digital currency backed by gold
+Jurisdiction: West Virginia - SB 441
+Rucker
 
-Title: financial technology; digital assets program
-Jurisdiction: Arizona - HB 2906
-Jeff Weninger
+Title: State finance: other; office of the Michigan bullion depository and Michcoin act; create.
+Jurisdiction: Michigan - HB 4086
+Alabas Farhat
+Ron Robinson
+Bryan Posthumus
 
-Title: NC Digital Assets Investments Act.
-Jurisdiction: North Carolina - HB 92
-Ross
-Brody
-Schietzelt
-D. Hall
-Almond
-Biggs
-Carver
-K. Hall
-Hastings
-N. Jackson
-Loftis
-Lowery
-Moss
-Pyrtle
-Reeder
-Ward
-Warren
+Title: Establishing digital currency backed by gold
+Jurisdiction: West Virginia - SB 441
+Rucker
 
-Title: financial technology; digital assets program
-Jurisdiction: Arizona - HB 2906
-Jeff Weninger
+Title: State finance: other; office of the Michigan bullion depository and Michcoin act; create.
+Jurisdiction: Michigan - HB 4086
+Alabas Farhat
+Ron Robinson
+Bryan Posthumus
 
-Title: VIRTUAL CURRENCY CONSUM PROT
-Jurisdiction: Illinois - SB 2319
-Laura Ellman
+Title: Sales tax; exempt sales of labor performed by mechanics on motor vehicles.
+Jurisdiction: Mississippi - SB 2991
+England
+Tate
+
+Title: Establishing digital currency backed by gold
+Jurisdiction: West Virginia - SB 441
+Rucker
+
+Title: State finance: other; office of the Michigan bullion depository and Michcoin act; create.
+Jurisdiction: Michigan - HB 4086
+Alabas Farhat
+Ron Robinson
+Bryan Posthumus
+
+Title: Sales tax; exempt sales of labor performed by mechanics on motor vehicles.
+Jurisdiction: Mississippi - SB 2991
+England
+Tate
+
+Title: Sales tax; exempt retail sales to honorably discharged veterans with service-connected, total disabilities.
+Jurisdiction: Mississippi - SB 2990
+England
+Tate
+
+Title: Establishing digital currency backed by gold
+Jurisdiction: West Virginia - SB 441
+Rucker
+
+Title: State finance: other; office of the Michigan bullion depository and Michcoin act; create.
+Jurisdiction: Michigan - HB 4086
+Alabas Farhat
+Ron Robinson
+Bryan Posthumus
+
+Title: Sales tax; exempt sales of labor performed by mechanics on motor vehicles.
+Jurisdiction: Mississippi - SB 2991
+England
+Tate
+
+Title: Sales tax; exempt retail sales to honorably discharged veterans with service-connected, total disabilities.
+Jurisdiction: Mississippi - SB 2990
+England
+Tate
+
+Title: Sales tax; exempt retail sales to certain rural 501(c)(3) organizations.
+Jurisdiction: Mississippi - SB 2993
+Simmons
+
+Title: Establishing digital currency backed by gold
+Jurisdiction: West Virginia - SB 441
+Rucker
+
+Title: State finance: other; office of the Michigan bullion depository and Michcoin act; create.
+Jurisdiction: Michigan - HB 4086
+Alabas Farhat
+Ron Robinson
+Bryan Posthumus
+
+Title: Sales tax; exempt sales of labor performed by mechanics on motor vehicles.
+Jurisdiction: Mississippi - SB 2991
+England
+Tate
+
+Title: Sales tax; exempt retail sales to honorably discharged veterans with service-connected, total disabilities.
+Jurisdiction: Mississippi - SB 2990
+England
+Tate
+
+Title: Sales tax; exempt retail sales to certain rural 501(c)(3) organizations.
+Jurisdiction: Mississippi - SB 2993
+Simmons
+
+Title: Sales tax; exempt sales to 501(c)(3) organizations that provide temporary housing for homeless persons.
+Jurisdiction: Mississippi - SB 2969
+Younger
