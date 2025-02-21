@@ -1,30 +1,52 @@
-Title: A bill for an act relating to the establishment of a transactional currency based on gold and silver held in a bullion depository approved by the treasurer of state, and providing fees.
-Madison Grady
-7745 Office Plaza Drive N., Ste. 170, 
-West Des Moines, IA 50266
 
-Justin Hupfer
-7745 Office Plaza Drive N., Ste. 170, 
-West Des Moines, IA 50266
-
-Title: Establishing digital currency backed by gold
-Jurisdiction: West Virginia - SB 441
-Rucker
 
 Title: TO AMEND THE UNIFORM MONEY SERVICES ACT.
 Jurisdiction: Arkansas - HB 1467
 Achor
 J. Boyd
 
-Title: State finance: other; strategic bitcoin reserve; establish.
-Jurisdiction: Michigan - HB 4087 / HB 4085
-Alabas Farhat
-Bryan Posthumus
-Ron Robinson
+
 
 Title: Enacting the Kansas bullion depository act to authorize the state treasurer to establish, administer or contract for the administration of bullion depositories and allowing for state moneys to be deposited in such bullion depositories and invested in specie legal tender.
 Jurisdiction: Kansas - SB 115
 Committee on Federal and State Affairs
+
+Title: To create the State Bank of West Virginia
+Jurisdiction: West Virginia - HB 2464
+Rep. Chris Anders - HB 2464
+Room 476M, Building 1
+State Capitol Complex
+Charleston, WV 25305
+
+Rep. Bill Ridenour
+Room 150R, Building 1
+State Capitol Complex
+Charleston, WV 25305
+
+Rep. Jordan Bridges
+Room 212E, Building 1
+State Capitol Complex
+Charleston, WV 25305
+
+REM -White
+REM - Kump
+REM - Kimble
+REM - Linville
+REM - Dean
+
+Title: Relates to establishing a task force to study and report on the potential implementation of blockchain technology in state record keeping, information storage, and service delivery
+Jurisdiction: New York - S 5157
+Leroy Comrie
+
+Title: AN ACT relating to blockchain digital assets.
+Jurisdiction: Kentucky - HB 701
+A. Bowling
+
+Title: Sales and use tax exemption on precious metal bullion expanded to include coins and other forms of currency.
+Jurisdiction: Minnesota - HF 881
+Olson
+O'Driscoll
+
 
 Title: State funds-investment in Bitcoin.
 Jurisdiction: Wyoming - HB 201
@@ -41,6 +63,64 @@ Jurisdiction: Idaho - H 177
 STATE AFFAIRS COMMITTEE
 
 -------------------------- Mailed 
+Title: State finance: other; strategic bitcoin reserve; establish.
+Jurisdiction: Michigan - HB 4087 / HB 4085
+Alabas Farhat
+
+Rep. Bryan Posthumus
+Michigan State Capitol
+Room 141
+100 N Capitol Ave
+Lansing, MI 48933
+
+Rep. Ron Robinson
+N-992 House Office Building
+P.O. Box 30014
+Lansing, MI 48909
+
+Title: Create a Montana blockchain and digital innovation task force
+Jurisdiction: Montana - SB 330
+Sen. Gayle  Lammers - SB 330
+137 S Heimat Rd
+Hardin, MT 59034
+
+Title: Creating WV Treasurer's Investment in Precious Metals and Digital Currency Act
+Jurisdiction: West Virginia - SB 465
+Senator Chris Rose - SB 465
+Room 209W, Building 1
+State Capitol Complex
+Charleston, WV 25305
+
+Title: Establishing digital currency backed by gold
+Jurisdiction: West Virginia - SB 441
+Sen. Patricia P. Rucker - SB 441
+Room 214W, Building 1
+State Capitol Complex
+Charleston, WV 25305
+
+Title: A bill for an act relating to the establishment of a transactional currency based on gold and silver held in a bullion depository approved by the treasurer of state, and providing fees.
+Madison Grady
+7745 Office Plaza Drive N., Ste. 170, 
+West Des Moines, IA 50266
+
+Justin Hupfer
+7745 Office Plaza Drive N., Ste. 170, 
+West Des Moines, IA 50266
+
+Title: State Depository Board; allow the state treasurer to invest in Bitcoin; provide
+Jurisdiction: Georgia - SB 178
+Senator Greg Dolezal - SB 178
+421-B State Capitol
+Atlanta, GA 30334
+
+Senator Brandon Beach - SB 178
+420-D State Capitol
+Atlanta, GA 30334
+
+Senator Clint Dixon - SB 178
+301-B CLOB
+Atlanta, GA 30334
+
 Title: A bill for an act relating to the establishment of a transactional currency based on gold and silver held in a bullion depository approved by the treasurer of state, and providing fees.
 Jurisdiction: Iowa - HF 325
 Rep. Cindy Golding - HF 325
