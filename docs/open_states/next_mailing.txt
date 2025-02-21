@@ -5,6 +5,10 @@ Jurisdiction: Arkansas - HB 1467
 Achor
 J. Boyd
 
+Title: A bill for an act relating to the investment of public moneys in digital assets and precious metals.
+Jurisdiction: Iowa - SF 403
+SIRES
+
 
 
 Title: Enacting the Kansas bullion depository act to authorize the state treasurer to establish, administer or contract for the administration of bullion depositories and allowing for state moneys to be deposited in such bullion depositories and invested in specie legal tender.

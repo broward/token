@@ -136,9 +136,9 @@ def main():
     #keyword = "gold currency"
     #keyword = "blockchain"
     #keyword = "stablecoin"
-    #keyword = "metals depository"
+    keyword = "metals depository"
     #keyword = "depository currency"
-    keyword = "bullion and currency"
+    #keyword = "bullion and currency"
 
     jurisdiction = "Texas"
     # session = "2024"
