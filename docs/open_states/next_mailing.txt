@@ -5,6 +5,39 @@ Jurisdiction: Arkansas - HB 1467
 Achor
 J. Boyd
 
+Title: An act relating to cryptocurrency and protecting the public welfare
+Jurisdiction: Vermont - H 370
+William Greer
+
+Title: AN ACT RELATING TO STATE AFFAIRS AND GOVERNMENT -- UNIVERSAL REGULATORY SANDBOX ACT
+Jurisdiction: Rhode Island - HB 5717
+Place
+Santucci
+Hopkins
+Nardone
+
+Title: AN ACT RELATING TO STATE AFFAIRS AND GOVERNMENT -- RHODE ISLAND ECONOMIC GROWTH BLOCKCHAIN ACT
+Jurisdiction: Rhode Island - HB 5564
+Place
+Hopkins
+Nardone
+
+Title: Gold and Silver Specie as Legal Tender
+Jurisdiction: Florida - HB 999
+Rep. Doug Bankson
+200 House Office Building
+402 South Monroe Street
+Tallahassee, FL 32399-1300
+
+Title: Enact the Ohio Blockchain Basics Act
+Jurisdiction: Ohio - HB 116
+Steve Demetriou
+Tex Fischer
+Brian Lorenz
+Ty Mathews, T.
+Riordan McClain
+Josh Williams
+
 Title: A bill for an act relating to the investment of public moneys in digital assets and precious metals.
 Jurisdiction: Iowa - SF 403
 Senator Dave Sires
@@ -51,11 +84,18 @@ REM - Dean
 
 Title: Relates to establishing a task force to study and report on the potential implementation of blockchain technology in state record keeping, information storage, and service delivery
 Jurisdiction: New York - S 5157
-Leroy Comrie
+Senator Leroy Comrie
+Legislative Office Building, Room 913
+Albany,  NY 12247
+
+
 
 Title: AN ACT relating to blockchain digital assets.
 Jurisdiction: Kentucky - HB 701
-A. Bowling
+Rep. Adam Bowling
+702 Capital Ave
+Annex Room 392
+Frankfort, KY 40601
 
 Title: Sales and use tax exemption on precious metal bullion expanded to include coins and other forms of currency.
 Jurisdiction: Minnesota - HF 881
