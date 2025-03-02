@@ -33,7 +33,7 @@ Other Tools: [Misc](https://broward.ghost.io/2024/11/28/sdt-misc-tools/)
 
 **API PROCESS FLOW**
 
-* ChatGBT create schemas, SQL DDL, REST apis and python API code.
+* ChatGPT create schemas, SQL DDL, REST apis and python API code.
 * Client requests a transaction_id.
 * Client sends a signed EDDSA transaction.
 * REST API accepts the message and queues it to SQS
