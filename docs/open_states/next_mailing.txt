@@ -1,31 +1,5 @@
 https://www.youtube.com/watch?v=6PWugymo32A
 
-Title: JOINT RESOLUTION CREATING A SPECIAL LEGISLATIVE COMMISSION TO STUDY BLOCKCHAIN AND CRYPTOCURRENCY
-Jurisdiction: Rhode Island - HR 5810
-Rep. Stephen M. Casey - HR 5810 / HB 6007
-625 Park Avenue
-Woonsocket, RI 02895
-
-Rep. Joseph J. Solomon Jr. - HR 5810
-703 West Shore Road
-Warwick, RI 02889
-
-Rep. Jon D. Brien - HR 5810
-200 Woodland Road
-Woonsocket, RI 02895
-
-Title: AN ACT RELATING TO PUBLIC FINANCE -- THE RHODE ISLAND DIGITAL ASSET RETENTION ACT
-Jurisdiction: Rhode Island - HB 6007
-Casey
-
-Title: TO AMEND THE UNIFORM MONEY SERVICES ACT.
-Jurisdiction: Arkansas - HB 1467
-Rep. Brandon Achor
-AR State Capitol 500 Woodlane St., Suite 350
-Little Rock, AR 72201
-
-J. Boyd
-
 Title: Enacting the Kansas bullion depository act to authorize the state treasurer to establish, administer or contract for the administration of bullion depositories and allowing for state moneys to be deposited in such bullion depositories and invested in specie legal tender.
 Jurisdiction: Kansas - SB 115
 Committee on Financial Institutions and Insurance
@@ -59,11 +33,23 @@ Jurisdiction: Idaho - H 177
 STATE AFFAIRS COMMITTEE
 
 -------------------------- Mailed 
-Title: AN ACT RELATING TO STATE AFFAIRS AND GOVERNMENT -- UNIVERSAL REGULATORY SANDBOX ACT
-Jurisdiction: Rhode Island - HB 5717
-Rep. Paul Santucci - HB 5717
-10 Appletown Road
-Greenville, RI 02828
+Title: AN ACT RELATING TO PUBLIC FINANCE -- THE RHODE ISLAND DIGITAL ASSET RETENTION ACT
+Jurisdiction: Rhode Island - HB 6007
+Casey
+
+Title: JOINT RESOLUTION CREATING A SPECIAL LEGISLATIVE COMMISSION TO STUDY BLOCKCHAIN AND CRYPTOCURRENCY
+Jurisdiction: Rhode Island - HR 5810
+Rep. Stephen M. Casey - HR 5810 / HB 6007
+625 Park Avenue
+Woonsocket, RI 02895
+
+Rep. Joseph J. Solomon Jr. - HR 5810
+703 West Shore Road
+Warwick, RI 02889
+
+Rep. Jon D. Brien - HR 5810
+200 Woodland Road
+Woonsocket, RI 02895
 
 Title: State Depositories; State Depository Board to allow the state treasurer to invest in bitcoin; provide
 Jurisdiction: Georgia - SB 228

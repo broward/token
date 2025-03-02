@@ -16,7 +16,7 @@ ACH, KYC & AML: [3rd-party API development](https://broward.ghost.io/2024/11/28/
 Language: [Python ver 3.9](https://broward.ghost.io/2024/11/26/sdt-language/) - [Ubuntu install](https://askubuntu.com/questions/1318846/how-do-i-install-python-3-9)\
 Blockchain: [Quorum](https://broward.ghost.io/2024/11/26/sdt-blockchain-3/) - [QuickStart](https://docs.goquorum.consensys.io/tutorials/quorum-dev-quickstart/using-the-quickstart/), [Features](https://www.geeksforgeeks.org/quorum-blockchain/)\
 Database: AWS RDS\
-ORM: Prototype with [Django](https://broward.ghost.io/2024/11/28/sdt-orm/) 
+ORM: Prototype with [Django](https://broward.ghost.io/2024/11/28/sdt-orm/)\ 
 Transport: [AWS Lambda](https://broward.ghost.io/2020/08/14/revision-2/)\
 Security: [mpyc MPC Library](mpyc)\
 Queue: [AWS SQS](https://broward.ghost.io/2020/08/14/revision-2/)\
