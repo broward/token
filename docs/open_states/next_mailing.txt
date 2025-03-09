@@ -1,83 +1,82 @@
 https://www.youtube.com/watch?v=6PWugymo32A
 
-Title: Establishes the office of financial resilience
-Jurisdiction: New York - S 6110
-Kevin S. Parker
+Title: A BILL for an Act to create and enact a new chapter to title 51 of the North Dakota Century Code, relating to specie legal tender, the taxation of specie legal tender, and United States central bank digital currencies; to amend and reenact section 41-01-09 of the North Dakota Century Code, relating to the definition of United States central bank digital currency.
+Jurisdiction: North Dakota - HB 1441
+nptoman@ndlegis.gov
+kboehm@ndlegis.gov
+jhagert@ndlegis.gov
 
-Title: NC Digital Assets Investments Act.
-Jurisdiction: North Carolina - HB 92
-Ross
-Brody
-Schietzelt
-D. Hall
-Almond
-Biggs
-Cairns
-Campbell
-Carver
-Echevarria
-K. Hall
-Hastings
-N. Jackson
-Kidwell
-Loftis
-Lowery
-McNeely
-Moss
-Pickett
-Pyrtle
-Reeder
-Rhyne
-Riddell
-Shepard
-Ward
-Warren
-Winslow
+Rep. Nathan Toman - HB 1441
+203 Fourth Avenue NW
+Mandan, ND 58554-3135
 
+Senator Keith Boehm - HB 1441
+2752 34th Street
+Mandan, ND 58554-8128
+
+Rep. Jared Hagert - HB 1441
+948 27th Street NE
+Emerado, ND 58228-9744
+
+
+Title: LEGAL TENDER – Adds to existing law to provide that gold and silver coin and specie shall be legal tender and to provide that no person or entity may compel another person or entity to tender or accept gold or silver coin or specie.
+Jurisdiction: Idaho - H 177
+STATE AFFAIRS COMMITTEE
+
+-------------------------- Mailed 
 
 Title: Blockchain and Digital Innovation Amendments
 Jurisdiction: Utah - HB 230
-DUP Teuscher, Jordan D.
-Cullimore, Kirk A.
+kcullimore@le.utah.gov
+
+Sen. Kirk A. Cullimore - HB 230
+P.O. Box 145115 350 N. State St., Suite 320
+Salt Lake City, UT 84114
 
 Title: Modifies standards for storage and use of gold and silver
 Jurisdiction: Missouri - HB 433
-Bill Hardwick
-Bishop Davidson
-Bob Titus
-Mazzie Christensen
-Philip Oehlerking
-Holly Jones
-Tim Taylor
-Chad Perkins
-Lisa Durnell
-Richard West
-Bryant Wolfin
-Tara Peters
-John Hewkin
-Burt Whaley
-Mitch Boggs
-Cathy Jo Loy
-Michael Davis
+Bill.Hardwick@house.mo.gov 
+philip.oehlerking@house.mo.gov
+chad.perkins@house.mo.gov
+
+Rep. Bill Hardwick - HB 433
+201 West Capitol Avenue
+Room 205
+Jefferson City MO 65101 
+
+Rep. Philip Oehlerking - HB 433
+201 W. Capitol Ave.
+Jefferson City, MO 65101
+
+Rep. Chad Perkins - HB 433
+201 W. Capitol Ave.
+Jefferson City, MO 65101
 
 Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
 Jurisdiction: Texas - SB 21
-DUP Schwertner
-Hinojosa, Adam
-Parker
-West
 
-Title: Gold and Silver Specie as Legal Tender
-Jurisdiction: Florida - HB 999
-Miller
+Senator Adam Hinojosa - SB 21
+P.O. Box 12068
+Capitol Station
+Austin, TX 78711
+
+Senator Tan Parker - SB 21
+P.O. Box 12068
+Capitol Station
+Austin, TX 78711
+
+Senator Royce West - SB 21
+P.O. Box 12068
+Capitol Station
+Austin, TX 78711
 
 Title: Enacts the "bank of Rochester act"
 Jurisdiction: New York - A 6409
-Harry B. Bronson
+bronsonh@nyassembly.gov
 
-Title: Relating to the issuance of gold and silver specie and the establishment of a currency based on gold and silver; authorizing a fee.
-Jurisdiction: Texas - SB 2002
-Hughes
+Asm. Harry B. Bronson - A 6409
+LOB 522
+Albany, NY 12248
 
 Title: Enacting the Kansas bullion depository act to authorize the state treasurer to establish, administer or contract for the administration of bullion depositories and allowing for state moneys to be deposited in such bullion depositories and invested in specie legal tender.
 Jurisdiction: Kansas - SB 115
@@ -95,23 +94,72 @@ Topeka, KS 66612
 Sen. Rick Kloos - SB 115
 Kansas State Capitol Building 
 300 SW 10th St.
-Topeka, KS 66612
+Topeka, KS 6661
+Title: Gold and Silver Specie as Legal Tender
+Jurisdiction: Florida - HB 999
+monique.miller@flhouse.gov
 
-Title: State funds-investment in Bitcoin.
-Jurisdiction: Wyoming - HB 201
-Brown, G
-DUP Filer
-Lucas
-DUP Singh
-DUP Wasserburger
-Smith, D
+Rep. Monique Miller - HB 999
+2539 Palm Bay Road NE Suite 5
+Palm Bay, FL 32905
 
+Title: NC Digital Assets Investments Act.
+Jurisdiction: North Carolina - HB 92
 
-Title: LEGAL TENDER – Adds to existing law to provide that gold and silver coin and specie shall be legal tender and to provide that no person or entity may compel another person or entity to tender or accept gold or silver coin or specie.
-Jurisdiction: Idaho - H 177
-STATE AFFAIRS COMMITTEE
+Destin.Hall@ncleg.gov
+Kelly.Hastings@ncleg.gov
+Keith.Kidwell@ncleg.gov
+Matthew.Winslow@ncleg.gov
 
--------------------------- Mailed 
+Rep. Destin Hall - HB 92
+16 West Jones Street, Rm. 2304
+Raleigh, NC 27601-1096
+
+Rep. Kelly E. Hastings - HB 92
+16 West Jones Street, Rm. 2208
+Raleigh, NC 27601-1096
+
+Rep. Keith Kidwell - HB 92
+16 West Jones Street, Rm. 1206
+Raleigh, NC 27601-1096
+
+Rep. Matthew Winslow - HB 92
+16 West Jones Street, Rm. 1326
+Raleigh, NC 27601-1096
+
+Title: To make gold, silver, and crypto currency legal tender in WV
+Jurisdiction: West Virginia - HB 2463
+daniel.linville@wvhouse.gov
+bill.ridenour@wvhouse.gov
+mark.dean@wvhouse.gov
+
+Rep. Bill Ridenour - HB 2463
+Room 150R, Building 1
+State Capitol Complex
+Charleston, WV 25305
+
+Rep. Daniel Linville - HB 2463
+Room 150R, Building 1
+State Capitol Complex
+Charleston, WV 25305
+
+Rep. Mark Dean - HB 2463
+Room 212E, Building 1
+State Capitol Complex
+Charleston, WV 25305
+
+Title: Generally revise the Uniform Commercial Code
+Jurisdiction: Montana - SB 426
+Senator Vince Ricci - SB 426
+3109 Forbes Blvd
+Billings, MT 59106
+
+Title: Precious Metals Amendments
+Jurisdiction: Utah - HB 306
+Senator Keith Grover - HB 306
+350 North State, Suite 320, 
+Salt Lake City, UT, 84114
+
 Title: AN ACT RELATING TO PUBLIC FINANCE -- THE RHODE ISLAND DIGITAL ASSET RETENTION ACT
 Jurisdiction: Rhode Island - HB 6007
 Casey
