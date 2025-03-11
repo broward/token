@@ -41,7 +41,7 @@ def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
         "page": page,
         "per_page": 20,
         # "jurisdiction": jurisdiction,
-        "updated_since": "2025-03-07",
+        "created_since": "2025-03-09",
         "include": ["sponsorships"],
         "apikey": API_KEY,
         "session": session
