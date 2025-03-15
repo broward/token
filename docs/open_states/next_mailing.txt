@@ -1,13 +1,120 @@
 https://www.youtube.com/watch?v=6PWugymo32A
 
+Title: Senate Study Committee on Artificial Intelligence and Digital Currency; create
+Jurisdiction: Georgia - SR 391
+John Albers
+Shawn Still
+Jason Anavitarte
+Randy Robertson
+Ed Setzler
+Clint Dixon
+
+Indiana HB 1614
+Committee on Ways and Means
+h22@iga.in.gov
+h28@iga.in.gov
+h96@iga.in.gov
+Representative Jeffrey Thompson
+Representative Craig Snow
+Representative Gregory Porter
+
+Title: LEGAL TENDER – Adds to existing law to provide that gold and silver coin and specie shall be legal tender and to provide that no person or entity may compel another person or entity to tender or accept gold or silver coin or specie.
+Jurisdiction: Idaho - H 177
+STATE AFFAIRS COMMITTEE
+
+-------------------------- Mailed 
+Title: A bill for an act relating to the establishment of a transactional currency based on gold and silver held in a bullion depository approved by the treasurer of state, and providing fees.
+Jurisdiction: Iowa - SF 112
+kevin.alons@legis.iowa.gov
+lynn.evans@legis.iowa.gov
+charlie.mcclintock@legis.iowa.gov
+david.rowley@legis.iowa.gov
+jeff.reichman@legis.iowa.gov
+
+Senator Kevin Alons - SF 112
+1007 E Grand Ave, 
+Des Moines, IA 50319
+
+Senator Charlie McClintock - SF 112
+1007 E Grand Ave, 
+Des Moines, IA 50319
+
+Senator Jeff Reichman - SF 112
+1007 E Grand Ave, 
+Des Moines, IA 50319
+
+Senator Lynn Evans - SF 112
+1007 E Grand Ave, 
+Des Moines, IA 50319
+
+Senator Dave Rowley - SF 112
+1007 E Grand Ave, 
+Des Moines, IA 50319
+
+Kansas SB 115
+Committee on Financial Institutions and Insurance
+Brenda.Dietrich@senate.ks.gov
+Michael.Fagg@senate.ks.gov
+Marci.Francisco@senate.ks.gov
+
+Tennessee House Bill 440
+speaker.cameron.sexton@capitol.tn.gov
+rep.david.hawk@capitol.tn.gov
+rep.jody.barrett@capitol.tn.gov
+
+Representative Cameron Sexton
+Representative David Hawk
+Representative Jody Barrett
+
+State finance: other; office of the Michigan bullion depository and Michcoin act; HB 4086
+JaimeGreene@house.mi.gov
+TomKunse@house.mi.gov
+helenascott@house.mi.gov
+
+Title: An Act establishing a special commission on blockchain and cryptocurrency
+Jurisdiction: Massachusetts - H 88
+Rep. Kate Lipper-Garabedian - H 88
+24 Beacon St. 
+Room 167
+Boston, MA, 02133
+
+Title: Proposes to exempt sales of certain coins, currency and bullion from sales and use taxes and analogous taxes upon approval by the voters. (BDR 32-147)D
+Jurisdiction: Nevada - AB 359
+Danielle.Gallant@asm.state.nv.us
+Bert.Gurr@asm.state.nv.us
+Ken.Gray@asm.state.nv.us
+
+Asm. Danielle Gallant - AB 359
+7380 South Eastern Avenue, Suite 124
+Las Vegas, NV 89123-1502
+
+Asm. Bert Gurr - AB 359
+P.O. Box 1436
+Elko, NV 89803-1436
+
+Asm. Ken Gray - AB 359
+1128 Cheatgrass Drive
+Dayton, NV 89403-6322
+
+Title: Gold and Silver Specie as Legal Tender
+Jurisdiction: Florida - HB 999
+Rep. Ryan Chamberlin - HB 999
+315 Southeast 25th Avenue
+Ocala, FL 34471-2689
+
 Title: Relating to the authority of the comptroller of public accounts and certain political subdivisions of this state to invest certain money in cryptocurrencies.
 Jurisdiction: Texas - HB 4258
-Reynolds
+Rep. Ron Reynolds - HB 4258
+Room 4N.7
+P.O. Box 2910
+Austin, TX 78768
 
 Title: An Act promoting financial literacy, wealth-building, and economic opportunity for all
 Jurisdiction: Massachusetts - S 752
-Paul R. Feeney
-
+Senator Paul R. Feeney - S 752
+24 Beacon St. 
+Room 112
+Boston, MA, 02133
 
 Title: Proposing a constitutional amendment relating to the right to own, hold, and use a mutually agreed upon medium of exchange.
 Jurisdiction: Texas - HJR 177
@@ -16,19 +123,14 @@ P.O. Box 2910
 Austin, TX 78768
 
 Title: An Act relative to preventing fraud and establishing regulations on certain virtual currencies
-Jurisdiction: Massachusetts - SD 968
-John J. Cronin
-Joanne M. Comerford
-Peter J. Durant
-Patricia D. Jehlen
-Michael D. Brady
-Sal N. DiDomenico
+Jurisdiction: Massachusetts - S 707
+Sen. John J. Cronin - S 707
+Room 218, State House 24 Beacon St.
+Boston, MA 02133
 
-Title: LEGAL TENDER – Adds to existing law to provide that gold and silver coin and specie shall be legal tender and to provide that no person or entity may compel another person or entity to tender or accept gold or silver coin or specie.
-Jurisdiction: Idaho - H 177
-STATE AFFAIRS COMMITTEE
-
--------------------------- Mailed 
+Sen. Joanne M. Comerford - S 707
+Room 410, State House 24 Beacon St.
+Boston, MA 02133
 Title: A BILL for an Act to create and enact a new chapter to title 51 of the North Dakota Century Code, relating to specie legal tender, the taxation of specie legal tender, and United States central bank digital currencies; to amend and reenact section 41-01-09 of the North Dakota Century Code, relating to the definition of United States central bank digital currency.
 Jurisdiction: North Dakota - HB 1441
 nptoman@ndlegis.gov
@@ -594,27 +696,7 @@ Asm. Nader Sayegh
 Yonkers, NY 10710
 
 
-Title: A bill for an act relating to the establishment of a transactional currency based on gold and silver held in a bullion depository approved by the treasurer of state, and providing fees.
-Jurisdiction: Iowa - SF 112
-ALONS
-EVANS
-TAYLOR
-Sen. Mark Lofgren
-1007 E. Grand Ave.
-Des Moines, IA 50319
 
-GREEN
-SWEENEY
-DE WITT
-ROWLEY
-SALMON
-GUTH
-CAMPBELL
-SHIPLEY
-REICHMAN
-PIKE
-McCLINTOCK
-WESTRICH
 
 Title: Mississippi Bullion Depository; establish and authorize fractional reserve currency.
 Jurisdiction: Mississippi - HB 1043
@@ -726,6 +808,7 @@ Phoenix, AZ 85007
 Senator Teresa Martinez - SB 1062
 1700 W. Washington St.
 Phoenix, AZ 85007
+
 Title: Digital Asset and Blockchain Technology Task Force - Establishment
 Jurisdiction: Maryland - HB 454
 Delegate Adrian Boafo - HB 454
