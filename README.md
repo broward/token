@@ -4,6 +4,8 @@ A digital token platform backed by State-regulated depositories similar to Texas
 
 My goal is to create this system via State funding‚ grants‚ consulting, etc. [My background is eclectic](https://broward.ghost.io/2014/03/09/about/) and spans startups‚ corporations‚ State and Federal systems for 35 years.
 
+[Why?](https://broward.ghost.io/transactions)
+
 [White paper](https://broward.ghost.io/current-gold-paper)
 
 [History](https://broward.ghost.io/2024/11/26/sdt-history/)
