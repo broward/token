@@ -8,17 +8,29 @@ Title: An Act relating to the business of money transmission; relating to licens
 Jurisdiction: Alaska - SB 86
 Kiehl
 
-Title: Change provisions of the Nebraska Medical Cannabis Regulation Act and provide for regulation of medical cannabis
-Jurisdiction: Nebraska - LB 677
-Hansen
+Title: 2025 State Investment Modernization Act.
+Jurisdiction: North Carolina - HB 506
+B. Jones
+K. Hall
+Ross
+Tyson
+Johnson
+McNeely
+Pickett
 
 Title: An Act relating to the business of money transmission; relating to licenses for money transmission, licensure requirements, and registration through a nationwide multistate licensing system; relating to the use of virtual currency for money transmission; relating to authorized delegates of a licensee; relating to acquisition of control of a license; relating to record retention and reporting requirements; authorizing the Department of Commerce, Community, and Economic Development to cooperate with other states in the regulation of money transmission; relating to permissible investments; relating to violations and enforcement of money transmission laws; relating to exemptions to money transmission licensure requirements; relating to payroll processing services; relating to currency exchange licenses; amending Rules 79 and 82, Alaska Rules of Civil Procedure; and providing for an effective date.
 Jurisdiction: Alaska - SB 86
 Kiehl
 
-Title: Change provisions of the Nebraska Medical Cannabis Regulation Act and provide for regulation of medical cannabis
-Jurisdiction: Nebraska - LB 677
-Hansen
+Title: 2025 State Investment Modernization Act.
+Jurisdiction: North Carolina - HB 506
+B. Jones
+K. Hall
+Ross
+Tyson
+Johnson
+McNeely
+Pickett
 
 Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
 Jurisdiction: Montana - SB 265
@@ -28,43 +40,45 @@ Title: An Act relating to the business of money transmission; relating to licens
 Jurisdiction: Alaska - SB 86
 Kiehl
 
-Title: Change provisions of the Nebraska Medical Cannabis Regulation Act and provide for regulation of medical cannabis
-Jurisdiction: Nebraska - LB 677
-Hansen
+Title: 2025 State Investment Modernization Act.
+Jurisdiction: North Carolina - HB 506
+B. Jones
+K. Hall
+Ross
+Tyson
+Johnson
+McNeely
+Pickett
 
 Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
 Jurisdiction: Montana - SB 265
 Daniel Zolnikov
 
-Title: Gold and Silver Specie as Legal Tender
-Jurisdiction: Florida - HB 999
-Bankson
-LaMarca
-Barnaby
-Chamberlin
-Miller
-Plasencia
+Title: Imposes a tax on the retail sale of certain digital products. (BDR 32-700)
+Jurisdiction: Nevada - SB 392
+Dina Neal
 
 Title: An Act relating to the business of money transmission; relating to licenses for money transmission, licensure requirements, and registration through a nationwide multistate licensing system; relating to the use of virtual currency for money transmission; relating to authorized delegates of a licensee; relating to acquisition of control of a license; relating to record retention and reporting requirements; authorizing the Department of Commerce, Community, and Economic Development to cooperate with other states in the regulation of money transmission; relating to permissible investments; relating to violations and enforcement of money transmission laws; relating to exemptions to money transmission licensure requirements; relating to payroll processing services; relating to currency exchange licenses; amending Rules 79 and 82, Alaska Rules of Civil Procedure; and providing for an effective date.
 Jurisdiction: Alaska - SB 86
 Kiehl
 
-Title: Change provisions of the Nebraska Medical Cannabis Regulation Act and provide for regulation of medical cannabis
-Jurisdiction: Nebraska - LB 677
-Hansen
+Title: 2025 State Investment Modernization Act.
+Jurisdiction: North Carolina - HB 506
+B. Jones
+K. Hall
+Ross
+Tyson
+Johnson
+McNeely
+Pickett
 
 Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
 Jurisdiction: Montana - SB 265
 Daniel Zolnikov
 
-Title: Gold and Silver Specie as Legal Tender
-Jurisdiction: Florida - HB 999
-Bankson
-LaMarca
-Barnaby
-Chamberlin
-Miller
-Plasencia
+Title: Imposes a tax on the retail sale of certain digital products. (BDR 32-700)
+Jurisdiction: Nevada - SB 392
+Dina Neal
 
 Title: Legal Tender
 Jurisdiction: Florida - SB 132
@@ -77,22 +91,23 @@ Title: An Act relating to the business of money transmission; relating to licens
 Jurisdiction: Alaska - SB 86
 Kiehl
 
-Title: Change provisions of the Nebraska Medical Cannabis Regulation Act and provide for regulation of medical cannabis
-Jurisdiction: Nebraska - LB 677
-Hansen
+Title: 2025 State Investment Modernization Act.
+Jurisdiction: North Carolina - HB 506
+B. Jones
+K. Hall
+Ross
+Tyson
+Johnson
+McNeely
+Pickett
 
 Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
 Jurisdiction: Montana - SB 265
 Daniel Zolnikov
 
-Title: Gold and Silver Specie as Legal Tender
-Jurisdiction: Florida - HB 999
-Bankson
-LaMarca
-Barnaby
-Chamberlin
-Miller
-Plasencia
+Title: Imposes a tax on the retail sale of certain digital products. (BDR 32-700)
+Jurisdiction: Nevada - SB 392
+Dina Neal
 
 Title: Legal Tender
 Jurisdiction: Florida - SB 132
@@ -101,21 +116,42 @@ Rodriguez
 Gruters
 Burgess
 
-Title: Relating to the Uniform Commercial Code.
-Jurisdiction: Oregon - SB 167
-Sponsors: None
+Title: Florida Statutes
+Jurisdiction: Florida - SB 42
+Passidomo
 
 Title: An Act relating to the business of money transmission; relating to licenses for money transmission, licensure requirements, and registration through a nationwide multistate licensing system; relating to the use of virtual currency for money transmission; relating to authorized delegates of a licensee; relating to acquisition of control of a license; relating to record retention and reporting requirements; authorizing the Department of Commerce, Community, and Economic Development to cooperate with other states in the regulation of money transmission; relating to permissible investments; relating to violations and enforcement of money transmission laws; relating to exemptions to money transmission licensure requirements; relating to payroll processing services; relating to currency exchange licenses; amending Rules 79 and 82, Alaska Rules of Civil Procedure; and providing for an effective date.
 Jurisdiction: Alaska - SB 86
 Kiehl
 
-Title: Change provisions of the Nebraska Medical Cannabis Regulation Act and provide for regulation of medical cannabis
-Jurisdiction: Nebraska - LB 677
-Hansen
+Title: 2025 State Investment Modernization Act.
+Jurisdiction: North Carolina - HB 506
+B. Jones
+K. Hall
+Ross
+Tyson
+Johnson
+McNeely
+Pickett
 
 Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
 Jurisdiction: Montana - SB 265
 Daniel Zolnikov
+
+Title: Imposes a tax on the retail sale of certain digital products. (BDR 32-700)
+Jurisdiction: Nevada - SB 392
+Dina Neal
+
+Title: Legal Tender
+Jurisdiction: Florida - SB 132
+Banking and Insurance
+Rodriguez
+Gruters
+Burgess
+
+Title: Florida Statutes
+Jurisdiction: Florida - SB 42
+Passidomo
 
 Title: Gold and Silver Specie as Legal Tender
 Jurisdiction: Florida - HB 999
@@ -125,182 +161,3 @@ Barnaby
 Chamberlin
 Miller
 Plasencia
-
-Title: Legal Tender
-Jurisdiction: Florida - SB 132
-Banking and Insurance
-Rodriguez
-Gruters
-Burgess
-
-Title: Relating to the Uniform Commercial Code.
-Jurisdiction: Oregon - SB 167
-Sponsors: None
-
-Title: TO AMEND THE LAW CONCERNING SPECIE OR LEGAL TENDER; TO AUTHORIZE THE USE OF A BULLION DEPOSITORY; AND TO ALLOW FOR A PRECIOUS METALS-BACKED ELECTRONIC SYSTEM.
-Jurisdiction: Arkansas - HB 1918
-McAlindon
-J. Dotson
-C. Penzo
-M. McKee
-
-Title: An Act relating to the business of money transmission; relating to licenses for money transmission, licensure requirements, and registration through a nationwide multistate licensing system; relating to the use of virtual currency for money transmission; relating to authorized delegates of a licensee; relating to acquisition of control of a license; relating to record retention and reporting requirements; authorizing the Department of Commerce, Community, and Economic Development to cooperate with other states in the regulation of money transmission; relating to permissible investments; relating to violations and enforcement of money transmission laws; relating to exemptions to money transmission licensure requirements; relating to payroll processing services; relating to currency exchange licenses; amending Rules 79 and 82, Alaska Rules of Civil Procedure; and providing for an effective date.
-Jurisdiction: Alaska - SB 86
-Kiehl
-
-Title: Change provisions of the Nebraska Medical Cannabis Regulation Act and provide for regulation of medical cannabis
-Jurisdiction: Nebraska - LB 677
-Hansen
-
-Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
-Jurisdiction: Montana - SB 265
-Daniel Zolnikov
-
-Title: Gold and Silver Specie as Legal Tender
-Jurisdiction: Florida - HB 999
-Bankson
-LaMarca
-Barnaby
-Chamberlin
-Miller
-Plasencia
-
-Title: Legal Tender
-Jurisdiction: Florida - SB 132
-Banking and Insurance
-Rodriguez
-Gruters
-Burgess
-
-Title: Relating to the Uniform Commercial Code.
-Jurisdiction: Oregon - SB 167
-Sponsors: None
-
-Title: TO AMEND THE LAW CONCERNING SPECIE OR LEGAL TENDER; TO AUTHORIZE THE USE OF A BULLION DEPOSITORY; AND TO ALLOW FOR A PRECIOUS METALS-BACKED ELECTRONIC SYSTEM.
-Jurisdiction: Arkansas - HB 1918
-McAlindon
-J. Dotson
-C. Penzo
-M. McKee
-
-Title: Powering Growth Act established, Alabama Energy Infrastructure Bank and the Strategic Energy Procurement Fund established under the State Industrial Development Authority to assist in obtaining equipment and providing financing for qualified energy infrastructure projects
-Jurisdiction: Alabama - SB 304
-Orr
-
-Title: An Act relating to the business of money transmission; relating to licenses for money transmission, licensure requirements, and registration through a nationwide multistate licensing system; relating to the use of virtual currency for money transmission; relating to authorized delegates of a licensee; relating to acquisition of control of a license; relating to record retention and reporting requirements; authorizing the Department of Commerce, Community, and Economic Development to cooperate with other states in the regulation of money transmission; relating to permissible investments; relating to violations and enforcement of money transmission laws; relating to exemptions to money transmission licensure requirements; relating to payroll processing services; relating to currency exchange licenses; amending Rules 79 and 82, Alaska Rules of Civil Procedure; and providing for an effective date.
-Jurisdiction: Alaska - SB 86
-Kiehl
-
-Title: Change provisions of the Nebraska Medical Cannabis Regulation Act and provide for regulation of medical cannabis
-Jurisdiction: Nebraska - LB 677
-Hansen
-
-Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
-Jurisdiction: Montana - SB 265
-Daniel Zolnikov
-
-Title: Gold and Silver Specie as Legal Tender
-Jurisdiction: Florida - HB 999
-Bankson
-LaMarca
-Barnaby
-Chamberlin
-Miller
-Plasencia
-
-Title: Legal Tender
-Jurisdiction: Florida - SB 132
-Banking and Insurance
-Rodriguez
-Gruters
-Burgess
-
-Title: Relating to the Uniform Commercial Code.
-Jurisdiction: Oregon - SB 167
-Sponsors: None
-
-Title: TO AMEND THE LAW CONCERNING SPECIE OR LEGAL TENDER; TO AUTHORIZE THE USE OF A BULLION DEPOSITORY; AND TO ALLOW FOR A PRECIOUS METALS-BACKED ELECTRONIC SYSTEM.
-Jurisdiction: Arkansas - HB 1918
-McAlindon
-J. Dotson
-C. Penzo
-M. McKee
-
-Title: Powering Growth Act established, Alabama Energy Infrastructure Bank and the Strategic Energy Procurement Fund established under the State Industrial Development Authority to assist in obtaining equipment and providing financing for qualified energy infrastructure projects
-Jurisdiction: Alabama - SB 304
-Orr
-
-Title: Classification of felony offenses; designating classification for certain offenses; effective date.
-Jurisdiction: Oklahoma - HB 2104
-Osburn
-Rader
-
-Title: An Act relating to the business of money transmission; relating to licenses for money transmission, licensure requirements, and registration through a nationwide multistate licensing system; relating to the use of virtual currency for money transmission; relating to authorized delegates of a licensee; relating to acquisition of control of a license; relating to record retention and reporting requirements; authorizing the Department of Commerce, Community, and Economic Development to cooperate with other states in the regulation of money transmission; relating to permissible investments; relating to violations and enforcement of money transmission laws; relating to exemptions to money transmission licensure requirements; relating to payroll processing services; relating to currency exchange licenses; amending Rules 79 and 82, Alaska Rules of Civil Procedure; and providing for an effective date.
-Jurisdiction: Alaska - SB 86
-Kiehl
-
-Title: Change provisions of the Nebraska Medical Cannabis Regulation Act and provide for regulation of medical cannabis
-Jurisdiction: Nebraska - LB 677
-Hansen
-
-Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
-Jurisdiction: Montana - SB 265
-Daniel Zolnikov
-
-Title: Gold and Silver Specie as Legal Tender
-Jurisdiction: Florida - HB 999
-Bankson
-LaMarca
-Barnaby
-Chamberlin
-Miller
-Plasencia
-
-Title: Legal Tender
-Jurisdiction: Florida - SB 132
-Banking and Insurance
-Rodriguez
-Gruters
-Burgess
-
-Title: Relating to the Uniform Commercial Code.
-Jurisdiction: Oregon - SB 167
-Sponsors: None
-
-Title: TO AMEND THE LAW CONCERNING SPECIE OR LEGAL TENDER; TO AUTHORIZE THE USE OF A BULLION DEPOSITORY; AND TO ALLOW FOR A PRECIOUS METALS-BACKED ELECTRONIC SYSTEM.
-Jurisdiction: Arkansas - HB 1918
-McAlindon
-J. Dotson
-C. Penzo
-M. McKee
-
-Title: Powering Growth Act established, Alabama Energy Infrastructure Bank and the Strategic Energy Procurement Fund established under the State Industrial Development Authority to assist in obtaining equipment and providing financing for qualified energy infrastructure projects
-Jurisdiction: Alabama - SB 304
-Orr
-
-Title: Classification of felony offenses; designating classification for certain offenses; effective date.
-Jurisdiction: Oklahoma - HB 2104
-Osburn
-Rader
-
-Title: Make state operating appropriations for FY 2026-27
-Jurisdiction: Ohio - HB 96
-Brian Stewart
-Adam Bird
-Marilyn John
-Gary Click
-Rodney Creech
-Jack Daniels
-Steve Demetriou
-Michael Dovilla
-Haraz Ghanbari
-Thomas Hall, T.
-Riordan McClain
-Kevin Miller, K.
-Melanie Miller, M.
-Phil  Plummer
-Nick Santucci
-David Thomas, D.
-Josh Williams
-Bernard Willis
-Tom Young
