@@ -132,13 +132,13 @@ def main():
     size = 1
     #keyword = "cryptocurrency"
     #keyword = "bitcoin"
-    #keyword = "bullion depository"
+    keyword = "bullion depository"
     #keyword = "gold currency"
     #keyword = "blockchain"
     #keyword = "stablecoin"
     #keyword = "metals depository"
-    #keyword = "depository currency"
-    keyword = "bullion and currency"
+    #keyword = "crypto currency"
+    #keyword = "bullion and currency"
 
     jurisdiction = "Texas"
     # session = "2024"

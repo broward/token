@@ -6,26 +6,7 @@ Title: LEGAL TENDER – Adds to existing law to provide that gold and silver coi
 Jurisdiction: Idaho - H 177
 STATE AFFAIRS COMMITTEE
 
-Title: Modifies standards for storage and use of gold and silver
-Jurisdiction: Missouri - HB 433
-Bill Hardwick
-Bishop Davidson
-Bob Titus
-Mazzie Christensen
-Philip Oehlerking
-Holly Jones
-Tim Taylor
-Chad Perkins
-Lisa Durnell
-Richard West
-Bryant Wolfin
-Tara Peters
-John Hewkin
-Burt Whaley
-Mitch Boggs
-Cathy Jo Loy
-Michael Davis
-Darin Chappell
+
 
 -------------------------- Mailed 
 
@@ -250,7 +231,6 @@ Senator Keith L. Truenow - SB 132
 304 Senate Building
 404 South Monroe Street
 Tallahassee, FL 32399-1100
-
 
 Title: Blockchain technology.
 Jurisdiction: Indiana - HB 1322
