@@ -16,3 +16,6 @@ using the open states V3 api, create a python API script which searches the subj
 
 create a second python method which retrieves all sponsor info based on the sponsor id
 
+
+"Conclusion
+The JSON schema might vary by roughly 5-15% between sessions, with an average of around 10%. This variation comes from changes in property names, structure, fields, and constraints, since I don’t have memory between sessions to ensure consistency."

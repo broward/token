@@ -41,7 +41,7 @@ def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
         "page": page,
         "per_page": 20,
         # "jurisdiction": jurisdiction,
-        "updated_since": "2025-04-17",
+        "updated_since": "2025-04-23",
         "include": ["sponsorships"],
         "apikey": API_KEY,
         "session": session
@@ -59,7 +59,9 @@ def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
             jurisdiction = bill.get("jurisdiction", [])
             title = bill.get("title", "No title available")
             identifier = bill.get("identifier", "no identifier available")
+            description = bill.get("latest_action_description", "no description")
             subjects = bill.get("subject", [])
+            actions = bill.get("actions", [])
             sponsor = bill.get("sponsor", "no sponsor listed")
             sponsors = bill.get("sponsorships", [])
             updated = bill.get("updated_at", "no date available")
@@ -74,6 +76,7 @@ def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
                 "jurisdiction": jurisdiction,
                 "title": title,
                 "identifier": identifier,
+                "description": description,
                 "subjects": subjects,
                 "sponsor": sponsor,
                 "sponsors": sponsor_details,
@@ -85,6 +88,7 @@ def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
                     for result in results:
                         f.write(f"\n\nTitle: {result['title']}")
                         f.write(f"\nJurisdiction: {result['jurisdiction']['name']} - {result['identifier']}")
+                        f.write(f"\nDescription: {result['description']}")
                         
                         if result["sponsors"]:
                             for sponsor in result["sponsors"]:
@@ -130,9 +134,9 @@ def main():
     session = "" # input("Enter legislative session (leave blank for all sessions): ").strip() or None
     
     size = 1
-    #keyword = "cryptocurrency"
+    keyword = "cryptocurrency"
     #keyword = "bitcoin"
-    keyword = "bullion depository"
+    #keyword = "bullion depository"
     #keyword = "gold currency"
     #keyword = "blockchain"
     #keyword = "stablecoin"
