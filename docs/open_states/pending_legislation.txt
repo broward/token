@@ -1,759 +1,3002 @@
 
 
-Title: Create a Montana blockchain and digital innovation task force
-Jurisdiction: Montana - SB 330
-Description: (S) Signed by President
-Gayle  Lammers
-
-Title: Create a Montana blockchain and digital innovation task force
-Jurisdiction: Montana - SB 330
-Description: (S) Signed by President
-Gayle  Lammers
-
-Title: Generally revise gambling laws
-Jurisdiction: Montana - SB 555
-Description: (S) Sent to Enrolling
-Vince Ricci
-
-Title: Create a Montana blockchain and digital innovation task force
-Jurisdiction: Montana - SB 330
-Description: (S) Signed by President
-Gayle  Lammers
-
-Title: Generally revise gambling laws
-Jurisdiction: Montana - SB 555
-Description: (S) Sent to Enrolling
-Vince Ricci
-
-Title: Generally revise the Uniform Commercial Code
-Jurisdiction: Montana - SB 426
-Description: (S) Signed by Governor
-Vince Ricci
-
-Title: Create a Montana blockchain and digital innovation task force
-Jurisdiction: Montana - SB 330
-Description: (S) Signed by President
-Gayle  Lammers
-
-Title: Generally revise gambling laws
-Jurisdiction: Montana - SB 555
-Description: (S) Sent to Enrolling
-Vince Ricci
-
-Title: Generally revise the Uniform Commercial Code
-Jurisdiction: Montana - SB 426
-Description: (S) Signed by Governor
-Vince Ricci
-
-Title: Provide powers and duties for public power districts related to cryptocurrency mining operations
-Jurisdiction: Nebraska - LB 526
-Description: Enrollment and Review ER43 adopted
-Jacobson
-
-Title: Create a Montana blockchain and digital innovation task force
-Jurisdiction: Montana - SB 330
-Description: (S) Signed by President
-Gayle  Lammers
-
-Title: Generally revise gambling laws
-Jurisdiction: Montana - SB 555
-Description: (S) Sent to Enrolling
-Vince Ricci
-
-Title: Generally revise the Uniform Commercial Code
-Jurisdiction: Montana - SB 426
-Description: (S) Signed by Governor
-Vince Ricci
-
-Title: Provide powers and duties for public power districts related to cryptocurrency mining operations
-Jurisdiction: Nebraska - LB 526
-Description: Enrollment and Review ER43 adopted
-Jacobson
-
-Title: Revised Uniform Unclaimed Property Act Modifications
-Jurisdiction: Colorado - HB 25-1224
-Description: House Considered Senate Amendments - Result was to Concur - Repass
-Brianna Titone
-Matt Soper
-Marc Snyder
-J. Bacon
-J. Joseph
-W. Lindstedt
-B. Marshall
-J. McCluskie
-N. Ricks
-C. Kipp
-
-Title: Create a Montana blockchain and digital innovation task force
-Jurisdiction: Montana - SB 330
-Description: (S) Signed by President
-Gayle  Lammers
-
-Title: Generally revise gambling laws
-Jurisdiction: Montana - SB 555
-Description: (S) Sent to Enrolling
-Vince Ricci
-
-Title: Generally revise the Uniform Commercial Code
-Jurisdiction: Montana - SB 426
-Description: (S) Signed by Governor
-Vince Ricci
-
-Title: Provide powers and duties for public power districts related to cryptocurrency mining operations
-Jurisdiction: Nebraska - LB 526
-Description: Enrollment and Review ER43 adopted
-Jacobson
-
-Title: Revised Uniform Unclaimed Property Act Modifications
-Jurisdiction: Colorado - HB 25-1224
-Description: House Considered Senate Amendments - Result was to Concur - Repass
-Brianna Titone
-Matt Soper
-Marc Snyder
-J. Bacon
-J. Joseph
-W. Lindstedt
-B. Marshall
-J. McCluskie
-N. Ricks
-C. Kipp
-
-Title: Minnesota Bitcoin Act proposed, payments to the state by cryptocurrency allowed, State Board of Investment authorized to invest in cryptocurrency, and various tax provisions modified.
-Jurisdiction: Minnesota - HF 2946
-Description: Author added Wolgamott
-Perryman
-Wolgamott
-
-Title: Create a Montana blockchain and digital innovation task force
-Jurisdiction: Montana - SB 330
-Description: (S) Signed by President
-Gayle  Lammers
-
-Title: Generally revise gambling laws
-Jurisdiction: Montana - SB 555
-Description: (S) Sent to Enrolling
-Vince Ricci
-
-Title: Generally revise the Uniform Commercial Code
-Jurisdiction: Montana - SB 426
-Description: (S) Signed by Governor
-Vince Ricci
-
-Title: Provide powers and duties for public power districts related to cryptocurrency mining operations
-Jurisdiction: Nebraska - LB 526
-Description: Enrollment and Review ER43 adopted
-Jacobson
-
-Title: Revised Uniform Unclaimed Property Act Modifications
-Jurisdiction: Colorado - HB 25-1224
-Description: House Considered Senate Amendments - Result was to Concur - Repass
-Brianna Titone
-Matt Soper
-Marc Snyder
-J. Bacon
-J. Joseph
-W. Lindstedt
-B. Marshall
-J. McCluskie
-N. Ricks
-C. Kipp
-
-Title: Minnesota Bitcoin Act proposed, payments to the state by cryptocurrency allowed, State Board of Investment authorized to invest in cryptocurrency, and various tax provisions modified.
-Jurisdiction: Minnesota - HF 2946
-Description: Author added Wolgamott
-Perryman
-Wolgamott
-
-Title: Department of Financial Protection and Innovation: state payments.
-Jurisdiction: California - AB 1180
-Description: Read second time and amended.
-Valencia
-
-Title: Create a Montana blockchain and digital innovation task force
-Jurisdiction: Montana - SB 330
-Description: (S) Signed by President
-Gayle  Lammers
-
-Title: Generally revise gambling laws
-Jurisdiction: Montana - SB 555
-Description: (S) Sent to Enrolling
-Vince Ricci
-
-Title: Generally revise the Uniform Commercial Code
-Jurisdiction: Montana - SB 426
-Description: (S) Signed by Governor
-Vince Ricci
-
-Title: Provide powers and duties for public power districts related to cryptocurrency mining operations
-Jurisdiction: Nebraska - LB 526
-Description: Enrollment and Review ER43 adopted
-Jacobson
-
-Title: Revised Uniform Unclaimed Property Act Modifications
-Jurisdiction: Colorado - HB 25-1224
-Description: House Considered Senate Amendments - Result was to Concur - Repass
-Brianna Titone
-Matt Soper
-Marc Snyder
-J. Bacon
-J. Joseph
-W. Lindstedt
-B. Marshall
-J. McCluskie
-N. Ricks
-C. Kipp
-
-Title: Minnesota Bitcoin Act proposed, payments to the state by cryptocurrency allowed, State Board of Investment authorized to invest in cryptocurrency, and various tax provisions modified.
-Jurisdiction: Minnesota - HF 2946
-Description: Author added Wolgamott
-Perryman
-Wolgamott
-
-Title: Department of Financial Protection and Innovation: state payments.
-Jurisdiction: California - AB 1180
-Description: Read second time and amended.
-Valencia
-
-Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
-Jurisdiction: Texas - SB 21
-Description: Left pending in committee
-Schwertner
-Hinojosa, Adam
-Parker
-West
-
-Title: Create a Montana blockchain and digital innovation task force
-Jurisdiction: Montana - SB 330
-Description: (S) Signed by President
-Gayle  Lammers
-
-Title: Generally revise gambling laws
-Jurisdiction: Montana - SB 555
-Description: (S) Sent to Enrolling
-Vince Ricci
-
-Title: Generally revise the Uniform Commercial Code
-Jurisdiction: Montana - SB 426
-Description: (S) Signed by Governor
-Vince Ricci
-
-Title: Provide powers and duties for public power districts related to cryptocurrency mining operations
-Jurisdiction: Nebraska - LB 526
-Description: Enrollment and Review ER43 adopted
-Jacobson
-
-Title: Revised Uniform Unclaimed Property Act Modifications
-Jurisdiction: Colorado - HB 25-1224
-Description: House Considered Senate Amendments - Result was to Concur - Repass
-Brianna Titone
-Matt Soper
-Marc Snyder
-J. Bacon
-J. Joseph
-W. Lindstedt
-B. Marshall
-J. McCluskie
-N. Ricks
-C. Kipp
-
-Title: Minnesota Bitcoin Act proposed, payments to the state by cryptocurrency allowed, State Board of Investment authorized to invest in cryptocurrency, and various tax provisions modified.
-Jurisdiction: Minnesota - HF 2946
-Description: Author added Wolgamott
-Perryman
-Wolgamott
-
-Title: Department of Financial Protection and Innovation: state payments.
-Jurisdiction: California - AB 1180
-Description: Read second time and amended.
-Valencia
-
-Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
-Jurisdiction: Texas - SB 21
-Description: Left pending in committee
-Schwertner
-Hinojosa, Adam
-Parker
-West
-
-Title: Establishes the New York state cryptocurrency and blockchain study task force
-Jurisdiction: New York - A 3279
-Description: PRINT NUMBER 3279A
-Clyde Vanel
-Chris Burdick
-Nader Sayegh
-
-Title: Create a Montana blockchain and digital innovation task force
-Jurisdiction: Montana - SB 330
-Description: (S) Signed by President
-Gayle  Lammers
-
-Title: Generally revise gambling laws
-Jurisdiction: Montana - SB 555
-Description: (S) Sent to Enrolling
-Vince Ricci
-
-Title: Generally revise the Uniform Commercial Code
-Jurisdiction: Montana - SB 426
-Description: (S) Signed by Governor
-Vince Ricci
-
-Title: Provide powers and duties for public power districts related to cryptocurrency mining operations
-Jurisdiction: Nebraska - LB 526
-Description: Enrollment and Review ER43 adopted
-Jacobson
-
-Title: Revised Uniform Unclaimed Property Act Modifications
-Jurisdiction: Colorado - HB 25-1224
-Description: House Considered Senate Amendments - Result was to Concur - Repass
-Brianna Titone
-Matt Soper
-Marc Snyder
-J. Bacon
-J. Joseph
-W. Lindstedt
-B. Marshall
-J. McCluskie
-N. Ricks
-C. Kipp
-
-Title: Minnesota Bitcoin Act proposed, payments to the state by cryptocurrency allowed, State Board of Investment authorized to invest in cryptocurrency, and various tax provisions modified.
-Jurisdiction: Minnesota - HF 2946
-Description: Author added Wolgamott
-Perryman
-Wolgamott
-
-Title: Department of Financial Protection and Innovation: state payments.
-Jurisdiction: California - AB 1180
-Description: Read second time and amended.
-Valencia
-
-Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
-Jurisdiction: Texas - SB 21
-Description: Left pending in committee
-Schwertner
-Hinojosa, Adam
-Parker
-West
-
-Title: Establishes the New York state cryptocurrency and blockchain study task force
-Jurisdiction: New York - A 3279
-Description: PRINT NUMBER 3279A
-Clyde Vanel
-Chris Burdick
-Nader Sayegh
-
-Title: Establishes the New York state cryptocurrency and blockchain study task force
-Jurisdiction: New York - S 4728
-Description: ADVANCED TO THIRD READING
-James Sanders Jr.
-Lea Webb
-
-Title: Create a Montana blockchain and digital innovation task force
-Jurisdiction: Montana - SB 330
-Description: (S) Signed by President
-Gayle  Lammers
-
-Title: Generally revise gambling laws
-Jurisdiction: Montana - SB 555
-Description: (S) Sent to Enrolling
-Vince Ricci
-
-Title: Generally revise the Uniform Commercial Code
-Jurisdiction: Montana - SB 426
-Description: (S) Signed by Governor
-Vince Ricci
-
-Title: Provide powers and duties for public power districts related to cryptocurrency mining operations
-Jurisdiction: Nebraska - LB 526
-Description: Enrollment and Review ER43 adopted
-Jacobson
-
-Title: Revised Uniform Unclaimed Property Act Modifications
-Jurisdiction: Colorado - HB 25-1224
-Description: House Considered Senate Amendments - Result was to Concur - Repass
-Brianna Titone
-Matt Soper
-Marc Snyder
-J. Bacon
-J. Joseph
-W. Lindstedt
-B. Marshall
-J. McCluskie
-N. Ricks
-C. Kipp
-
-Title: Minnesota Bitcoin Act proposed, payments to the state by cryptocurrency allowed, State Board of Investment authorized to invest in cryptocurrency, and various tax provisions modified.
-Jurisdiction: Minnesota - HF 2946
-Description: Author added Wolgamott
-Perryman
-Wolgamott
-
-Title: Department of Financial Protection and Innovation: state payments.
-Jurisdiction: California - AB 1180
-Description: Read second time and amended.
-Valencia
-
-Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
-Jurisdiction: Texas - SB 21
-Description: Left pending in committee
-Schwertner
-Hinojosa, Adam
-Parker
-West
-
-Title: Establishes the New York state cryptocurrency and blockchain study task force
-Jurisdiction: New York - A 3279
-Description: PRINT NUMBER 3279A
-Clyde Vanel
-Chris Burdick
-Nader Sayegh
-
-Title: Establishes the New York state cryptocurrency and blockchain study task force
-Jurisdiction: New York - S 4728
-Description: ADVANCED TO THIRD READING
-James Sanders Jr.
-Lea Webb
-
-Title: cryptocurrency kiosk; license; fraud prevention
-Jurisdiction: Arizona - HB 2387
-Description: DPA
-David Marshall, Sr.
-Michael Way
-
-Title: Create a Montana blockchain and digital innovation task force
-Jurisdiction: Montana - SB 330
-Description: (S) Signed by President
-Gayle  Lammers
-
-Title: Generally revise gambling laws
-Jurisdiction: Montana - SB 555
-Description: (S) Sent to Enrolling
-Vince Ricci
-
-Title: Generally revise the Uniform Commercial Code
-Jurisdiction: Montana - SB 426
-Description: (S) Signed by Governor
-Vince Ricci
-
-Title: Provide powers and duties for public power districts related to cryptocurrency mining operations
-Jurisdiction: Nebraska - LB 526
-Description: Enrollment and Review ER43 adopted
-Jacobson
-
-Title: Revised Uniform Unclaimed Property Act Modifications
-Jurisdiction: Colorado - HB 25-1224
-Description: House Considered Senate Amendments - Result was to Concur - Repass
-Brianna Titone
-Matt Soper
-Marc Snyder
-J. Bacon
-J. Joseph
-W. Lindstedt
-B. Marshall
-J. McCluskie
-N. Ricks
-C. Kipp
-
-Title: Minnesota Bitcoin Act proposed, payments to the state by cryptocurrency allowed, State Board of Investment authorized to invest in cryptocurrency, and various tax provisions modified.
-Jurisdiction: Minnesota - HF 2946
-Description: Author added Wolgamott
-Perryman
-Wolgamott
-
-Title: Department of Financial Protection and Innovation: state payments.
-Jurisdiction: California - AB 1180
-Description: Read second time and amended.
-Valencia
-
-Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
-Jurisdiction: Texas - SB 21
-Description: Left pending in committee
-Schwertner
-Hinojosa, Adam
-Parker
-West
-
-Title: Establishes the New York state cryptocurrency and blockchain study task force
-Jurisdiction: New York - A 3279
-Description: PRINT NUMBER 3279A
-Clyde Vanel
-Chris Burdick
-Nader Sayegh
-
-Title: Establishes the New York state cryptocurrency and blockchain study task force
-Jurisdiction: New York - S 4728
-Description: ADVANCED TO THIRD READING
-James Sanders Jr.
-Lea Webb
-
-Title: cryptocurrency kiosk; license; fraud prevention
-Jurisdiction: Arizona - HB 2387
-Description: DPA
-David Marshall, Sr.
-Michael Way
-
-Title: Establishes the "Digital Assets Authorization Act"
-Jurisdiction: Missouri - HB 1136
-Description: HCS Reported Do Pass (H) - AYES: 10 NOES: 3 PRESENT: 1
-Tricia Byrnes
-
-Title: Create a Montana blockchain and digital innovation task force
-Jurisdiction: Montana - SB 330
-Description: (S) Signed by President
-Gayle  Lammers
-
-Title: Generally revise gambling laws
-Jurisdiction: Montana - SB 555
-Description: (S) Sent to Enrolling
-Vince Ricci
-
-Title: Generally revise the Uniform Commercial Code
-Jurisdiction: Montana - SB 426
-Description: (S) Signed by Governor
-Vince Ricci
-
-Title: Provide powers and duties for public power districts related to cryptocurrency mining operations
-Jurisdiction: Nebraska - LB 526
-Description: Enrollment and Review ER43 adopted
-Jacobson
-
-Title: Revised Uniform Unclaimed Property Act Modifications
-Jurisdiction: Colorado - HB 25-1224
-Description: House Considered Senate Amendments - Result was to Concur - Repass
-Brianna Titone
-Matt Soper
-Marc Snyder
-J. Bacon
-J. Joseph
-W. Lindstedt
-B. Marshall
-J. McCluskie
-N. Ricks
-C. Kipp
-
-Title: Minnesota Bitcoin Act proposed, payments to the state by cryptocurrency allowed, State Board of Investment authorized to invest in cryptocurrency, and various tax provisions modified.
-Jurisdiction: Minnesota - HF 2946
-Description: Author added Wolgamott
-Perryman
-Wolgamott
-
-Title: Department of Financial Protection and Innovation: state payments.
-Jurisdiction: California - AB 1180
-Description: Read second time and amended.
-Valencia
-
-Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
-Jurisdiction: Texas - SB 21
-Description: Left pending in committee
-Schwertner
-Hinojosa, Adam
-Parker
-West
-
-Title: Establishes the New York state cryptocurrency and blockchain study task force
-Jurisdiction: New York - A 3279
-Description: PRINT NUMBER 3279A
-Clyde Vanel
-Chris Burdick
-Nader Sayegh
-
-Title: Establishes the New York state cryptocurrency and blockchain study task force
-Jurisdiction: New York - S 4728
-Description: ADVANCED TO THIRD READING
-James Sanders Jr.
-Lea Webb
-
-Title: cryptocurrency kiosk; license; fraud prevention
-Jurisdiction: Arizona - HB 2387
-Description: DPA
-David Marshall, Sr.
-Michael Way
-
-Title: Establishes the "Digital Assets Authorization Act"
-Jurisdiction: Missouri - HB 1136
-Description: HCS Reported Do Pass (H) - AYES: 10 NOES: 3 PRESENT: 1
-Tricia Byrnes
-
-Title: Digital assets.
-Jurisdiction: California - AB 1052
-Description: From committee: Do pass and re-refer to Com. on ELECTIONS. (Ayes 9. Noes 0.) (April 21). Re-referred to Com. on ELECTIONS.
-Valencia
-
-Title: Create a Montana blockchain and digital innovation task force
-Jurisdiction: Montana - SB 330
-Description: (S) Signed by President
-Gayle  Lammers
-
-Title: Generally revise gambling laws
-Jurisdiction: Montana - SB 555
-Description: (S) Sent to Enrolling
-Vince Ricci
-
-Title: Generally revise the Uniform Commercial Code
-Jurisdiction: Montana - SB 426
-Description: (S) Signed by Governor
-Vince Ricci
-
-Title: Provide powers and duties for public power districts related to cryptocurrency mining operations
-Jurisdiction: Nebraska - LB 526
-Description: Enrollment and Review ER43 adopted
-Jacobson
-
-Title: Revised Uniform Unclaimed Property Act Modifications
-Jurisdiction: Colorado - HB 25-1224
-Description: House Considered Senate Amendments - Result was to Concur - Repass
-Brianna Titone
-Matt Soper
-Marc Snyder
-J. Bacon
-J. Joseph
-W. Lindstedt
-B. Marshall
-J. McCluskie
-N. Ricks
-C. Kipp
-
-Title: Minnesota Bitcoin Act proposed, payments to the state by cryptocurrency allowed, State Board of Investment authorized to invest in cryptocurrency, and various tax provisions modified.
-Jurisdiction: Minnesota - HF 2946
-Description: Author added Wolgamott
-Perryman
-Wolgamott
-
-Title: Department of Financial Protection and Innovation: state payments.
-Jurisdiction: California - AB 1180
-Description: Read second time and amended.
-Valencia
-
-Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
-Jurisdiction: Texas - SB 21
-Description: Left pending in committee
-Schwertner
-Hinojosa, Adam
-Parker
-West
-
-Title: Establishes the New York state cryptocurrency and blockchain study task force
-Jurisdiction: New York - A 3279
-Description: PRINT NUMBER 3279A
-Clyde Vanel
-Chris Burdick
-Nader Sayegh
-
-Title: Establishes the New York state cryptocurrency and blockchain study task force
-Jurisdiction: New York - S 4728
-Description: ADVANCED TO THIRD READING
-James Sanders Jr.
-Lea Webb
-
-Title: cryptocurrency kiosk; license; fraud prevention
-Jurisdiction: Arizona - HB 2387
-Description: DPA
-David Marshall, Sr.
-Michael Way
-
-Title: Establishes the "Digital Assets Authorization Act"
-Jurisdiction: Missouri - HB 1136
-Description: HCS Reported Do Pass (H) - AYES: 10 NOES: 3 PRESENT: 1
-Tricia Byrnes
-
-Title: Digital assets.
-Jurisdiction: California - AB 1052
-Description: From committee: Do pass and re-refer to Com. on ELECTIONS. (Ayes 9. Noes 0.) (April 21). Re-referred to Com. on ELECTIONS.
-Valencia
-
-Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
-Jurisdiction: Montana - SB 265
-Description: (S) Signed by President
-Daniel Zolnikov
-
-Title: Create a Montana blockchain and digital innovation task force
-Jurisdiction: Montana - SB 330
-Description: (S) Signed by President
-Gayle  Lammers
-
-Title: Generally revise gambling laws
-Jurisdiction: Montana - SB 555
-Description: (S) Sent to Enrolling
-Vince Ricci
-
-Title: Generally revise the Uniform Commercial Code
-Jurisdiction: Montana - SB 426
-Description: (S) Signed by Governor
-Vince Ricci
-
-Title: Provide powers and duties for public power districts related to cryptocurrency mining operations
-Jurisdiction: Nebraska - LB 526
-Description: Enrollment and Review ER43 adopted
-Jacobson
-
-Title: Revised Uniform Unclaimed Property Act Modifications
-Jurisdiction: Colorado - HB 25-1224
-Description: House Considered Senate Amendments - Result was to Concur - Repass
-Brianna Titone
-Matt Soper
-Marc Snyder
-J. Bacon
-J. Joseph
-W. Lindstedt
-B. Marshall
-J. McCluskie
-N. Ricks
-C. Kipp
-
-Title: Minnesota Bitcoin Act proposed, payments to the state by cryptocurrency allowed, State Board of Investment authorized to invest in cryptocurrency, and various tax provisions modified.
-Jurisdiction: Minnesota - HF 2946
-Description: Author added Wolgamott
-Perryman
-Wolgamott
-
-Title: Department of Financial Protection and Innovation: state payments.
-Jurisdiction: California - AB 1180
-Description: Read second time and amended.
-Valencia
-
-Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
-Jurisdiction: Texas - SB 21
-Description: Left pending in committee
-Schwertner
-Hinojosa, Adam
-Parker
-West
-
-Title: Establishes the New York state cryptocurrency and blockchain study task force
-Jurisdiction: New York - A 3279
-Description: PRINT NUMBER 3279A
-Clyde Vanel
-Chris Burdick
-Nader Sayegh
-
-Title: Establishes the New York state cryptocurrency and blockchain study task force
-Jurisdiction: New York - S 4728
-Description: ADVANCED TO THIRD READING
-James Sanders Jr.
-Lea Webb
-
-Title: cryptocurrency kiosk; license; fraud prevention
-Jurisdiction: Arizona - HB 2387
-Description: DPA
-David Marshall, Sr.
-Michael Way
-
-Title: Establishes the "Digital Assets Authorization Act"
-Jurisdiction: Missouri - HB 1136
-Description: HCS Reported Do Pass (H) - AYES: 10 NOES: 3 PRESENT: 1
-Tricia Byrnes
-
-Title: Digital assets.
-Jurisdiction: California - AB 1052
-Description: From committee: Do pass and re-refer to Com. on ELECTIONS. (Ayes 9. Noes 0.) (April 21). Re-referred to Com. on ELECTIONS.
-Valencia
-
-Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
-Jurisdiction: Montana - SB 265
-Description: (S) Signed by President
-Daniel Zolnikov
-
-Title: financial technology; digital assets program
-Jurisdiction: Arizona - HB 2906
-Description: Vetoed by Governor
-Jeff Weninger
+Title: BANKS/BANKING: Establishes gold and silver as currency (OR INCREASE SG EX See Note)
+Jurisdiction: Louisiana - HB 386
+Description: Read by title, under the rules, referred to the Committee on Commerce.
+Raymond Crews
+
+Title: BANKS/BANKING: Establishes gold and silver as currency (OR INCREASE SG EX See Note)
+Jurisdiction: Louisiana - HB 386
+Description: Read by title, under the rules, referred to the Committee on Commerce.
+Raymond Crews
+
+Title: Relating to the issuance of gold and silver specie and the establishment of a currency based on gold and silver; authorizing a fee.
+Jurisdiction: Texas - HB 1056
+Description: Statement(s) of vote recorded in Journal
+Dorazio
+Hunter
+Capriglione
+Raymond
+Harris
+Alders
+Allen
+Bell, Cecil
+Bell, Keith
+Bowers
+Buckley
+Bucy
+Bumgarner
+Cain
+Campos
+Cook
+Cortez
+Cunningham
+Dean
+DeAyala
+Dyson
+Frank
+Garcia, Josey
+Gates
+Gerdes
+González, Mary
+Guillen
+Harris Davila
+Harrison
+Hayes
+Hefner
+Hernandez
+Hickland
+Holt
+Hopper
+Isaac
+Jones, Jolanda
+Kerwin
+Kitzman
+LaHood
+Leach
+Little
+Lopez, Janie
+Lopez, Ray
+Louderback
+Lowe
+Lozano
+Lujan
+Luther
+Manuel
+McLaughlin
+Metcalf
+Meza
+Money
+Moody
+Morales Shaw
+Morales, Eddie
+Morgan
+Muñoz
+Noble
+Olcott
+Oliverson
+Ordaz
+Orr
+Patterson
+Paul
+Pierson
+Reynolds
+Richardson
+Schatzline
+Schoolcraft
+Shofner
+Smithee
+Swanson
+Talarico
+Tepper
+Tinderholt
+Toth
+Troxclair
+Vasut
+Villalobos
+Virdell
+Wharton
+
+Title: BANKS/BANKING: Establishes gold and silver as currency (OR INCREASE SG EX See Note)
+Jurisdiction: Louisiana - HB 386
+Description: Read by title, under the rules, referred to the Committee on Commerce.
+Raymond Crews
+
+Title: Relating to the issuance of gold and silver specie and the establishment of a currency based on gold and silver; authorizing a fee.
+Jurisdiction: Texas - HB 1056
+Description: Statement(s) of vote recorded in Journal
+Dorazio
+Hunter
+Capriglione
+Raymond
+Harris
+Alders
+Allen
+Bell, Cecil
+Bell, Keith
+Bowers
+Buckley
+Bucy
+Bumgarner
+Cain
+Campos
+Cook
+Cortez
+Cunningham
+Dean
+DeAyala
+Dyson
+Frank
+Garcia, Josey
+Gates
+Gerdes
+González, Mary
+Guillen
+Harris Davila
+Harrison
+Hayes
+Hefner
+Hernandez
+Hickland
+Holt
+Hopper
+Isaac
+Jones, Jolanda
+Kerwin
+Kitzman
+LaHood
+Leach
+Little
+Lopez, Janie
+Lopez, Ray
+Louderback
+Lowe
+Lozano
+Lujan
+Luther
+Manuel
+McLaughlin
+Metcalf
+Meza
+Money
+Moody
+Morales Shaw
+Morales, Eddie
+Morgan
+Muñoz
+Noble
+Olcott
+Oliverson
+Ordaz
+Orr
+Patterson
+Paul
+Pierson
+Reynolds
+Richardson
+Schatzline
+Schoolcraft
+Shofner
+Smithee
+Swanson
+Talarico
+Tepper
+Tinderholt
+Toth
+Troxclair
+Vasut
+Villalobos
+Virdell
+Wharton
+
+Title: Legal Tender
+Jurisdiction: Florida - HB 999
+Description: Ordered engrossed, then enrolled
+Commerce Committee
+Bankson
+LaMarca
+Barnaby
+Benarroch
+Black
+Botana
+Buchanan
+Chamberlin
+Kendall
+Miller
+Plakon
+Plasencia
+
+Title: BANKS/BANKING: Establishes gold and silver as currency (OR INCREASE SG EX See Note)
+Jurisdiction: Louisiana - HB 386
+Description: Read by title, under the rules, referred to the Committee on Commerce.
+Raymond Crews
+
+Title: Relating to the issuance of gold and silver specie and the establishment of a currency based on gold and silver; authorizing a fee.
+Jurisdiction: Texas - HB 1056
+Description: Statement(s) of vote recorded in Journal
+Dorazio
+Hunter
+Capriglione
+Raymond
+Harris
+Alders
+Allen
+Bell, Cecil
+Bell, Keith
+Bowers
+Buckley
+Bucy
+Bumgarner
+Cain
+Campos
+Cook
+Cortez
+Cunningham
+Dean
+DeAyala
+Dyson
+Frank
+Garcia, Josey
+Gates
+Gerdes
+González, Mary
+Guillen
+Harris Davila
+Harrison
+Hayes
+Hefner
+Hernandez
+Hickland
+Holt
+Hopper
+Isaac
+Jones, Jolanda
+Kerwin
+Kitzman
+LaHood
+Leach
+Little
+Lopez, Janie
+Lopez, Ray
+Louderback
+Lowe
+Lozano
+Lujan
+Luther
+Manuel
+McLaughlin
+Metcalf
+Meza
+Money
+Moody
+Morales Shaw
+Morales, Eddie
+Morgan
+Muñoz
+Noble
+Olcott
+Oliverson
+Ordaz
+Orr
+Patterson
+Paul
+Pierson
+Reynolds
+Richardson
+Schatzline
+Schoolcraft
+Shofner
+Smithee
+Swanson
+Talarico
+Tepper
+Tinderholt
+Toth
+Troxclair
+Vasut
+Villalobos
+Virdell
+Wharton
+
+Title: Legal Tender
+Jurisdiction: Florida - HB 999
+Description: Ordered engrossed, then enrolled
+Commerce Committee
+Bankson
+LaMarca
+Barnaby
+Benarroch
+Black
+Botana
+Buchanan
+Chamberlin
+Kendall
+Miller
+Plakon
+Plasencia
+
+Title: Taxation
+Jurisdiction: Florida - HB 7033
+Description: Received
+Ways & Means Committee
+Duggan
+Budget Committee
+
+Title: BANKS/BANKING: Establishes gold and silver as currency (OR INCREASE SG EX See Note)
+Jurisdiction: Louisiana - HB 386
+Description: Read by title, under the rules, referred to the Committee on Commerce.
+Raymond Crews
+
+Title: Relating to the issuance of gold and silver specie and the establishment of a currency based on gold and silver; authorizing a fee.
+Jurisdiction: Texas - HB 1056
+Description: Statement(s) of vote recorded in Journal
+Dorazio
+Hunter
+Capriglione
+Raymond
+Harris
+Alders
+Allen
+Bell, Cecil
+Bell, Keith
+Bowers
+Buckley
+Bucy
+Bumgarner
+Cain
+Campos
+Cook
+Cortez
+Cunningham
+Dean
+DeAyala
+Dyson
+Frank
+Garcia, Josey
+Gates
+Gerdes
+González, Mary
+Guillen
+Harris Davila
+Harrison
+Hayes
+Hefner
+Hernandez
+Hickland
+Holt
+Hopper
+Isaac
+Jones, Jolanda
+Kerwin
+Kitzman
+LaHood
+Leach
+Little
+Lopez, Janie
+Lopez, Ray
+Louderback
+Lowe
+Lozano
+Lujan
+Luther
+Manuel
+McLaughlin
+Metcalf
+Meza
+Money
+Moody
+Morales Shaw
+Morales, Eddie
+Morgan
+Muñoz
+Noble
+Olcott
+Oliverson
+Ordaz
+Orr
+Patterson
+Paul
+Pierson
+Reynolds
+Richardson
+Schatzline
+Schoolcraft
+Shofner
+Smithee
+Swanson
+Talarico
+Tepper
+Tinderholt
+Toth
+Troxclair
+Vasut
+Villalobos
+Virdell
+Wharton
+
+Title: Legal Tender
+Jurisdiction: Florida - HB 999
+Description: Ordered engrossed, then enrolled
+Commerce Committee
+Bankson
+LaMarca
+Barnaby
+Benarroch
+Black
+Botana
+Buchanan
+Chamberlin
+Kendall
+Miller
+Plakon
+Plasencia
+
+Title: Taxation
+Jurisdiction: Florida - HB 7033
+Description: Received
+Ways & Means Committee
+Duggan
+Budget Committee
+
+Title: AN ACT relating to sales and use tax exemptions for menstrual discharge collection devices.
+Jurisdiction: Kentucky - HB 123
+Description: to Appropriations & Revenue (H)
+G. Brown Jr.
+B. Chester-Burton
+C. Aull
+A. Moore
+
+Title: BANKS/BANKING: Establishes gold and silver as currency (OR INCREASE SG EX See Note)
+Jurisdiction: Louisiana - HB 386
+Description: Read by title, under the rules, referred to the Committee on Commerce.
+Raymond Crews
+
+Title: Relating to the issuance of gold and silver specie and the establishment of a currency based on gold and silver; authorizing a fee.
+Jurisdiction: Texas - HB 1056
+Description: Statement(s) of vote recorded in Journal
+Dorazio
+Hunter
+Capriglione
+Raymond
+Harris
+Alders
+Allen
+Bell, Cecil
+Bell, Keith
+Bowers
+Buckley
+Bucy
+Bumgarner
+Cain
+Campos
+Cook
+Cortez
+Cunningham
+Dean
+DeAyala
+Dyson
+Frank
+Garcia, Josey
+Gates
+Gerdes
+González, Mary
+Guillen
+Harris Davila
+Harrison
+Hayes
+Hefner
+Hernandez
+Hickland
+Holt
+Hopper
+Isaac
+Jones, Jolanda
+Kerwin
+Kitzman
+LaHood
+Leach
+Little
+Lopez, Janie
+Lopez, Ray
+Louderback
+Lowe
+Lozano
+Lujan
+Luther
+Manuel
+McLaughlin
+Metcalf
+Meza
+Money
+Moody
+Morales Shaw
+Morales, Eddie
+Morgan
+Muñoz
+Noble
+Olcott
+Oliverson
+Ordaz
+Orr
+Patterson
+Paul
+Pierson
+Reynolds
+Richardson
+Schatzline
+Schoolcraft
+Shofner
+Smithee
+Swanson
+Talarico
+Tepper
+Tinderholt
+Toth
+Troxclair
+Vasut
+Villalobos
+Virdell
+Wharton
+
+Title: Legal Tender
+Jurisdiction: Florida - HB 999
+Description: Ordered engrossed, then enrolled
+Commerce Committee
+Bankson
+LaMarca
+Barnaby
+Benarroch
+Black
+Botana
+Buchanan
+Chamberlin
+Kendall
+Miller
+Plakon
+Plasencia
+
+Title: Taxation
+Jurisdiction: Florida - HB 7033
+Description: Received
+Ways & Means Committee
+Duggan
+Budget Committee
+
+Title: AN ACT relating to sales and use tax exemptions for menstrual discharge collection devices.
+Jurisdiction: Kentucky - HB 123
+Description: to Appropriations & Revenue (H)
+G. Brown Jr.
+B. Chester-Burton
+C. Aull
+A. Moore
+
+Title: AN ACT relating to state financial practices.
+Jurisdiction: Kentucky - HB 376
+Description: to Banking & Insurance (H)
+T. Roberts
+
+Title: BANKS/BANKING: Establishes gold and silver as currency (OR INCREASE SG EX See Note)
+Jurisdiction: Louisiana - HB 386
+Description: Read by title, under the rules, referred to the Committee on Commerce.
+Raymond Crews
+
+Title: Relating to the issuance of gold and silver specie and the establishment of a currency based on gold and silver; authorizing a fee.
+Jurisdiction: Texas - HB 1056
+Description: Statement(s) of vote recorded in Journal
+Dorazio
+Hunter
+Capriglione
+Raymond
+Harris
+Alders
+Allen
+Bell, Cecil
+Bell, Keith
+Bowers
+Buckley
+Bucy
+Bumgarner
+Cain
+Campos
+Cook
+Cortez
+Cunningham
+Dean
+DeAyala
+Dyson
+Frank
+Garcia, Josey
+Gates
+Gerdes
+González, Mary
+Guillen
+Harris Davila
+Harrison
+Hayes
+Hefner
+Hernandez
+Hickland
+Holt
+Hopper
+Isaac
+Jones, Jolanda
+Kerwin
+Kitzman
+LaHood
+Leach
+Little
+Lopez, Janie
+Lopez, Ray
+Louderback
+Lowe
+Lozano
+Lujan
+Luther
+Manuel
+McLaughlin
+Metcalf
+Meza
+Money
+Moody
+Morales Shaw
+Morales, Eddie
+Morgan
+Muñoz
+Noble
+Olcott
+Oliverson
+Ordaz
+Orr
+Patterson
+Paul
+Pierson
+Reynolds
+Richardson
+Schatzline
+Schoolcraft
+Shofner
+Smithee
+Swanson
+Talarico
+Tepper
+Tinderholt
+Toth
+Troxclair
+Vasut
+Villalobos
+Virdell
+Wharton
+
+Title: Legal Tender
+Jurisdiction: Florida - HB 999
+Description: Ordered engrossed, then enrolled
+Commerce Committee
+Bankson
+LaMarca
+Barnaby
+Benarroch
+Black
+Botana
+Buchanan
+Chamberlin
+Kendall
+Miller
+Plakon
+Plasencia
+
+Title: Taxation
+Jurisdiction: Florida - HB 7033
+Description: Received
+Ways & Means Committee
+Duggan
+Budget Committee
+
+Title: AN ACT relating to sales and use tax exemptions for menstrual discharge collection devices.
+Jurisdiction: Kentucky - HB 123
+Description: to Appropriations & Revenue (H)
+G. Brown Jr.
+B. Chester-Burton
+C. Aull
+A. Moore
+
+Title: AN ACT relating to state financial practices.
+Jurisdiction: Kentucky - HB 376
+Description: to Banking & Insurance (H)
+T. Roberts
+
+Title: AN ACT relating to housing and making an appropriation therefor.
+Jurisdiction: Kentucky - HB 583
+Description: to Appropriations & Revenue (H)
+J. Watkins
+L. Burke
+C. Aull
+T. Bojanowski
+G. Brown Jr.
+A. Camuel
+B. Chester-Burton
+A. Donworth
+A. Gentry
+E. Hancock
+M. Lehman
+A. Moore
+R. Roarx
+S. Stalker
+P. Stevenson
+A. Tackett Laferty
+L. Willner
+
+Title: BANKS/BANKING: Establishes gold and silver as currency (OR INCREASE SG EX See Note)
+Jurisdiction: Louisiana - HB 386
+Description: Read by title, under the rules, referred to the Committee on Commerce.
+Raymond Crews
+
+Title: Relating to the issuance of gold and silver specie and the establishment of a currency based on gold and silver; authorizing a fee.
+Jurisdiction: Texas - HB 1056
+Description: Statement(s) of vote recorded in Journal
+Dorazio
+Hunter
+Capriglione
+Raymond
+Harris
+Alders
+Allen
+Bell, Cecil
+Bell, Keith
+Bowers
+Buckley
+Bucy
+Bumgarner
+Cain
+Campos
+Cook
+Cortez
+Cunningham
+Dean
+DeAyala
+Dyson
+Frank
+Garcia, Josey
+Gates
+Gerdes
+González, Mary
+Guillen
+Harris Davila
+Harrison
+Hayes
+Hefner
+Hernandez
+Hickland
+Holt
+Hopper
+Isaac
+Jones, Jolanda
+Kerwin
+Kitzman
+LaHood
+Leach
+Little
+Lopez, Janie
+Lopez, Ray
+Louderback
+Lowe
+Lozano
+Lujan
+Luther
+Manuel
+McLaughlin
+Metcalf
+Meza
+Money
+Moody
+Morales Shaw
+Morales, Eddie
+Morgan
+Muñoz
+Noble
+Olcott
+Oliverson
+Ordaz
+Orr
+Patterson
+Paul
+Pierson
+Reynolds
+Richardson
+Schatzline
+Schoolcraft
+Shofner
+Smithee
+Swanson
+Talarico
+Tepper
+Tinderholt
+Toth
+Troxclair
+Vasut
+Villalobos
+Virdell
+Wharton
+
+Title: Legal Tender
+Jurisdiction: Florida - HB 999
+Description: Ordered engrossed, then enrolled
+Commerce Committee
+Bankson
+LaMarca
+Barnaby
+Benarroch
+Black
+Botana
+Buchanan
+Chamberlin
+Kendall
+Miller
+Plakon
+Plasencia
+
+Title: Taxation
+Jurisdiction: Florida - HB 7033
+Description: Received
+Ways & Means Committee
+Duggan
+Budget Committee
+
+Title: AN ACT relating to sales and use tax exemptions for menstrual discharge collection devices.
+Jurisdiction: Kentucky - HB 123
+Description: to Appropriations & Revenue (H)
+G. Brown Jr.
+B. Chester-Burton
+C. Aull
+A. Moore
+
+Title: AN ACT relating to state financial practices.
+Jurisdiction: Kentucky - HB 376
+Description: to Banking & Insurance (H)
+T. Roberts
+
+Title: AN ACT relating to housing and making an appropriation therefor.
+Jurisdiction: Kentucky - HB 583
+Description: to Appropriations & Revenue (H)
+J. Watkins
+L. Burke
+C. Aull
+T. Bojanowski
+G. Brown Jr.
+A. Camuel
+B. Chester-Burton
+A. Donworth
+A. Gentry
+E. Hancock
+M. Lehman
+A. Moore
+R. Roarx
+S. Stalker
+P. Stevenson
+A. Tackett Laferty
+L. Willner
+
+Title: AN ACT relating to a sales and use tax exemption for diapers.
+Jurisdiction: Kentucky - HB 282
+Description: to Appropriations & Revenue (H)
+T. Roberts
+V. Grossl
+C. Aull
+J. Calloway
+
+Title: BANKS/BANKING: Establishes gold and silver as currency (OR INCREASE SG EX See Note)
+Jurisdiction: Louisiana - HB 386
+Description: Read by title, under the rules, referred to the Committee on Commerce.
+Raymond Crews
+
+Title: Relating to the issuance of gold and silver specie and the establishment of a currency based on gold and silver; authorizing a fee.
+Jurisdiction: Texas - HB 1056
+Description: Statement(s) of vote recorded in Journal
+Dorazio
+Hunter
+Capriglione
+Raymond
+Harris
+Alders
+Allen
+Bell, Cecil
+Bell, Keith
+Bowers
+Buckley
+Bucy
+Bumgarner
+Cain
+Campos
+Cook
+Cortez
+Cunningham
+Dean
+DeAyala
+Dyson
+Frank
+Garcia, Josey
+Gates
+Gerdes
+González, Mary
+Guillen
+Harris Davila
+Harrison
+Hayes
+Hefner
+Hernandez
+Hickland
+Holt
+Hopper
+Isaac
+Jones, Jolanda
+Kerwin
+Kitzman
+LaHood
+Leach
+Little
+Lopez, Janie
+Lopez, Ray
+Louderback
+Lowe
+Lozano
+Lujan
+Luther
+Manuel
+McLaughlin
+Metcalf
+Meza
+Money
+Moody
+Morales Shaw
+Morales, Eddie
+Morgan
+Muñoz
+Noble
+Olcott
+Oliverson
+Ordaz
+Orr
+Patterson
+Paul
+Pierson
+Reynolds
+Richardson
+Schatzline
+Schoolcraft
+Shofner
+Smithee
+Swanson
+Talarico
+Tepper
+Tinderholt
+Toth
+Troxclair
+Vasut
+Villalobos
+Virdell
+Wharton
+
+Title: Legal Tender
+Jurisdiction: Florida - HB 999
+Description: Ordered engrossed, then enrolled
+Commerce Committee
+Bankson
+LaMarca
+Barnaby
+Benarroch
+Black
+Botana
+Buchanan
+Chamberlin
+Kendall
+Miller
+Plakon
+Plasencia
+
+Title: Taxation
+Jurisdiction: Florida - HB 7033
+Description: Received
+Ways & Means Committee
+Duggan
+Budget Committee
+
+Title: AN ACT relating to sales and use tax exemptions for menstrual discharge collection devices.
+Jurisdiction: Kentucky - HB 123
+Description: to Appropriations & Revenue (H)
+G. Brown Jr.
+B. Chester-Burton
+C. Aull
+A. Moore
+
+Title: AN ACT relating to state financial practices.
+Jurisdiction: Kentucky - HB 376
+Description: to Banking & Insurance (H)
+T. Roberts
+
+Title: AN ACT relating to housing and making an appropriation therefor.
+Jurisdiction: Kentucky - HB 583
+Description: to Appropriations & Revenue (H)
+J. Watkins
+L. Burke
+C. Aull
+T. Bojanowski
+G. Brown Jr.
+A. Camuel
+B. Chester-Burton
+A. Donworth
+A. Gentry
+E. Hancock
+M. Lehman
+A. Moore
+R. Roarx
+S. Stalker
+P. Stevenson
+A. Tackett Laferty
+L. Willner
+
+Title: AN ACT relating to a sales and use tax exemption for diapers.
+Jurisdiction: Kentucky - HB 282
+Description: to Appropriations & Revenue (H)
+T. Roberts
+V. Grossl
+C. Aull
+J. Calloway
+
+Title: AN ACT relating to sales and use tax exemptions for baby and personal care products.
+Jurisdiction: Kentucky - HB 122
+Description: to Appropriations & Revenue (H)
+G. Brown Jr.
+C. Aull
+B. Chester-Burton
+A. Gentry
+M. Marzian
+A. Moore
+
+Title: BANKS/BANKING: Establishes gold and silver as currency (OR INCREASE SG EX See Note)
+Jurisdiction: Louisiana - HB 386
+Description: Read by title, under the rules, referred to the Committee on Commerce.
+Raymond Crews
+
+Title: Relating to the issuance of gold and silver specie and the establishment of a currency based on gold and silver; authorizing a fee.
+Jurisdiction: Texas - HB 1056
+Description: Statement(s) of vote recorded in Journal
+Dorazio
+Hunter
+Capriglione
+Raymond
+Harris
+Alders
+Allen
+Bell, Cecil
+Bell, Keith
+Bowers
+Buckley
+Bucy
+Bumgarner
+Cain
+Campos
+Cook
+Cortez
+Cunningham
+Dean
+DeAyala
+Dyson
+Frank
+Garcia, Josey
+Gates
+Gerdes
+González, Mary
+Guillen
+Harris Davila
+Harrison
+Hayes
+Hefner
+Hernandez
+Hickland
+Holt
+Hopper
+Isaac
+Jones, Jolanda
+Kerwin
+Kitzman
+LaHood
+Leach
+Little
+Lopez, Janie
+Lopez, Ray
+Louderback
+Lowe
+Lozano
+Lujan
+Luther
+Manuel
+McLaughlin
+Metcalf
+Meza
+Money
+Moody
+Morales Shaw
+Morales, Eddie
+Morgan
+Muñoz
+Noble
+Olcott
+Oliverson
+Ordaz
+Orr
+Patterson
+Paul
+Pierson
+Reynolds
+Richardson
+Schatzline
+Schoolcraft
+Shofner
+Smithee
+Swanson
+Talarico
+Tepper
+Tinderholt
+Toth
+Troxclair
+Vasut
+Villalobos
+Virdell
+Wharton
+
+Title: Legal Tender
+Jurisdiction: Florida - HB 999
+Description: Ordered engrossed, then enrolled
+Commerce Committee
+Bankson
+LaMarca
+Barnaby
+Benarroch
+Black
+Botana
+Buchanan
+Chamberlin
+Kendall
+Miller
+Plakon
+Plasencia
+
+Title: Taxation
+Jurisdiction: Florida - HB 7033
+Description: Received
+Ways & Means Committee
+Duggan
+Budget Committee
+
+Title: AN ACT relating to sales and use tax exemptions for menstrual discharge collection devices.
+Jurisdiction: Kentucky - HB 123
+Description: to Appropriations & Revenue (H)
+G. Brown Jr.
+B. Chester-Burton
+C. Aull
+A. Moore
+
+Title: AN ACT relating to state financial practices.
+Jurisdiction: Kentucky - HB 376
+Description: to Banking & Insurance (H)
+T. Roberts
+
+Title: AN ACT relating to housing and making an appropriation therefor.
+Jurisdiction: Kentucky - HB 583
+Description: to Appropriations & Revenue (H)
+J. Watkins
+L. Burke
+C. Aull
+T. Bojanowski
+G. Brown Jr.
+A. Camuel
+B. Chester-Burton
+A. Donworth
+A. Gentry
+E. Hancock
+M. Lehman
+A. Moore
+R. Roarx
+S. Stalker
+P. Stevenson
+A. Tackett Laferty
+L. Willner
+
+Title: AN ACT relating to a sales and use tax exemption for diapers.
+Jurisdiction: Kentucky - HB 282
+Description: to Appropriations & Revenue (H)
+T. Roberts
+V. Grossl
+C. Aull
+J. Calloway
+
+Title: AN ACT relating to sales and use tax exemptions for baby and personal care products.
+Jurisdiction: Kentucky - HB 122
+Description: to Appropriations & Revenue (H)
+G. Brown Jr.
+C. Aull
+B. Chester-Burton
+A. Gentry
+M. Marzian
+A. Moore
+
+Title: AN ACT relating to the sale or exchange of currency or bullion.
+Jurisdiction: Kentucky - HB 625
+Description: to Appropriations & Revenue (H)
+S. Doan
+
+Title: BANKS/BANKING: Establishes gold and silver as currency (OR INCREASE SG EX See Note)
+Jurisdiction: Louisiana - HB 386
+Description: Read by title, under the rules, referred to the Committee on Commerce.
+Raymond Crews
+
+Title: Relating to the issuance of gold and silver specie and the establishment of a currency based on gold and silver; authorizing a fee.
+Jurisdiction: Texas - HB 1056
+Description: Statement(s) of vote recorded in Journal
+Dorazio
+Hunter
+Capriglione
+Raymond
+Harris
+Alders
+Allen
+Bell, Cecil
+Bell, Keith
+Bowers
+Buckley
+Bucy
+Bumgarner
+Cain
+Campos
+Cook
+Cortez
+Cunningham
+Dean
+DeAyala
+Dyson
+Frank
+Garcia, Josey
+Gates
+Gerdes
+González, Mary
+Guillen
+Harris Davila
+Harrison
+Hayes
+Hefner
+Hernandez
+Hickland
+Holt
+Hopper
+Isaac
+Jones, Jolanda
+Kerwin
+Kitzman
+LaHood
+Leach
+Little
+Lopez, Janie
+Lopez, Ray
+Louderback
+Lowe
+Lozano
+Lujan
+Luther
+Manuel
+McLaughlin
+Metcalf
+Meza
+Money
+Moody
+Morales Shaw
+Morales, Eddie
+Morgan
+Muñoz
+Noble
+Olcott
+Oliverson
+Ordaz
+Orr
+Patterson
+Paul
+Pierson
+Reynolds
+Richardson
+Schatzline
+Schoolcraft
+Shofner
+Smithee
+Swanson
+Talarico
+Tepper
+Tinderholt
+Toth
+Troxclair
+Vasut
+Villalobos
+Virdell
+Wharton
+
+Title: Legal Tender
+Jurisdiction: Florida - HB 999
+Description: Ordered engrossed, then enrolled
+Commerce Committee
+Bankson
+LaMarca
+Barnaby
+Benarroch
+Black
+Botana
+Buchanan
+Chamberlin
+Kendall
+Miller
+Plakon
+Plasencia
+
+Title: Taxation
+Jurisdiction: Florida - HB 7033
+Description: Received
+Ways & Means Committee
+Duggan
+Budget Committee
+
+Title: AN ACT relating to sales and use tax exemptions for menstrual discharge collection devices.
+Jurisdiction: Kentucky - HB 123
+Description: to Appropriations & Revenue (H)
+G. Brown Jr.
+B. Chester-Burton
+C. Aull
+A. Moore
+
+Title: AN ACT relating to state financial practices.
+Jurisdiction: Kentucky - HB 376
+Description: to Banking & Insurance (H)
+T. Roberts
+
+Title: AN ACT relating to housing and making an appropriation therefor.
+Jurisdiction: Kentucky - HB 583
+Description: to Appropriations & Revenue (H)
+J. Watkins
+L. Burke
+C. Aull
+T. Bojanowski
+G. Brown Jr.
+A. Camuel
+B. Chester-Burton
+A. Donworth
+A. Gentry
+E. Hancock
+M. Lehman
+A. Moore
+R. Roarx
+S. Stalker
+P. Stevenson
+A. Tackett Laferty
+L. Willner
+
+Title: AN ACT relating to a sales and use tax exemption for diapers.
+Jurisdiction: Kentucky - HB 282
+Description: to Appropriations & Revenue (H)
+T. Roberts
+V. Grossl
+C. Aull
+J. Calloway
+
+Title: AN ACT relating to sales and use tax exemptions for baby and personal care products.
+Jurisdiction: Kentucky - HB 122
+Description: to Appropriations & Revenue (H)
+G. Brown Jr.
+C. Aull
+B. Chester-Burton
+A. Gentry
+M. Marzian
+A. Moore
+
+Title: AN ACT relating to the sale or exchange of currency or bullion.
+Jurisdiction: Kentucky - HB 625
+Description: to Appropriations & Revenue (H)
+S. Doan
+
+Title: AN ACT relating to a sales and use tax exemption for diapers.
+Jurisdiction: Kentucky - SB 78
+Description: to Appropriations & Revenue (S)
+C. Armstrong
+D. Yates
+
+Title: BANKS/BANKING: Establishes gold and silver as currency (OR INCREASE SG EX See Note)
+Jurisdiction: Louisiana - HB 386
+Description: Read by title, under the rules, referred to the Committee on Commerce.
+Raymond Crews
+
+Title: Relating to the issuance of gold and silver specie and the establishment of a currency based on gold and silver; authorizing a fee.
+Jurisdiction: Texas - HB 1056
+Description: Statement(s) of vote recorded in Journal
+Dorazio
+Hunter
+Capriglione
+Raymond
+Harris
+Alders
+Allen
+Bell, Cecil
+Bell, Keith
+Bowers
+Buckley
+Bucy
+Bumgarner
+Cain
+Campos
+Cook
+Cortez
+Cunningham
+Dean
+DeAyala
+Dyson
+Frank
+Garcia, Josey
+Gates
+Gerdes
+González, Mary
+Guillen
+Harris Davila
+Harrison
+Hayes
+Hefner
+Hernandez
+Hickland
+Holt
+Hopper
+Isaac
+Jones, Jolanda
+Kerwin
+Kitzman
+LaHood
+Leach
+Little
+Lopez, Janie
+Lopez, Ray
+Louderback
+Lowe
+Lozano
+Lujan
+Luther
+Manuel
+McLaughlin
+Metcalf
+Meza
+Money
+Moody
+Morales Shaw
+Morales, Eddie
+Morgan
+Muñoz
+Noble
+Olcott
+Oliverson
+Ordaz
+Orr
+Patterson
+Paul
+Pierson
+Reynolds
+Richardson
+Schatzline
+Schoolcraft
+Shofner
+Smithee
+Swanson
+Talarico
+Tepper
+Tinderholt
+Toth
+Troxclair
+Vasut
+Villalobos
+Virdell
+Wharton
+
+Title: Legal Tender
+Jurisdiction: Florida - HB 999
+Description: Ordered engrossed, then enrolled
+Commerce Committee
+Bankson
+LaMarca
+Barnaby
+Benarroch
+Black
+Botana
+Buchanan
+Chamberlin
+Kendall
+Miller
+Plakon
+Plasencia
+
+Title: Taxation
+Jurisdiction: Florida - HB 7033
+Description: Received
+Ways & Means Committee
+Duggan
+Budget Committee
+
+Title: AN ACT relating to sales and use tax exemptions for menstrual discharge collection devices.
+Jurisdiction: Kentucky - HB 123
+Description: to Appropriations & Revenue (H)
+G. Brown Jr.
+B. Chester-Burton
+C. Aull
+A. Moore
+
+Title: AN ACT relating to state financial practices.
+Jurisdiction: Kentucky - HB 376
+Description: to Banking & Insurance (H)
+T. Roberts
+
+Title: AN ACT relating to housing and making an appropriation therefor.
+Jurisdiction: Kentucky - HB 583
+Description: to Appropriations & Revenue (H)
+J. Watkins
+L. Burke
+C. Aull
+T. Bojanowski
+G. Brown Jr.
+A. Camuel
+B. Chester-Burton
+A. Donworth
+A. Gentry
+E. Hancock
+M. Lehman
+A. Moore
+R. Roarx
+S. Stalker
+P. Stevenson
+A. Tackett Laferty
+L. Willner
+
+Title: AN ACT relating to a sales and use tax exemption for diapers.
+Jurisdiction: Kentucky - HB 282
+Description: to Appropriations & Revenue (H)
+T. Roberts
+V. Grossl
+C. Aull
+J. Calloway
+
+Title: AN ACT relating to sales and use tax exemptions for baby and personal care products.
+Jurisdiction: Kentucky - HB 122
+Description: to Appropriations & Revenue (H)
+G. Brown Jr.
+C. Aull
+B. Chester-Burton
+A. Gentry
+M. Marzian
+A. Moore
+
+Title: AN ACT relating to the sale or exchange of currency or bullion.
+Jurisdiction: Kentucky - HB 625
+Description: to Appropriations & Revenue (H)
+S. Doan
+
+Title: AN ACT relating to a sales and use tax exemption for diapers.
+Jurisdiction: Kentucky - SB 78
+Description: to Appropriations & Revenue (S)
+C. Armstrong
+D. Yates
+
+Title: AN ACT relating to sales and use tax exemptions for bullion and currency.
+Jurisdiction: Kentucky - HB 179
+Description: to Appropriations & Revenue (H)
+S. Doan
+F. Rabourn
+
+Title: BANKS/BANKING: Establishes gold and silver as currency (OR INCREASE SG EX See Note)
+Jurisdiction: Louisiana - HB 386
+Description: Read by title, under the rules, referred to the Committee on Commerce.
+Raymond Crews
+
+Title: Relating to the issuance of gold and silver specie and the establishment of a currency based on gold and silver; authorizing a fee.
+Jurisdiction: Texas - HB 1056
+Description: Statement(s) of vote recorded in Journal
+Dorazio
+Hunter
+Capriglione
+Raymond
+Harris
+Alders
+Allen
+Bell, Cecil
+Bell, Keith
+Bowers
+Buckley
+Bucy
+Bumgarner
+Cain
+Campos
+Cook
+Cortez
+Cunningham
+Dean
+DeAyala
+Dyson
+Frank
+Garcia, Josey
+Gates
+Gerdes
+González, Mary
+Guillen
+Harris Davila
+Harrison
+Hayes
+Hefner
+Hernandez
+Hickland
+Holt
+Hopper
+Isaac
+Jones, Jolanda
+Kerwin
+Kitzman
+LaHood
+Leach
+Little
+Lopez, Janie
+Lopez, Ray
+Louderback
+Lowe
+Lozano
+Lujan
+Luther
+Manuel
+McLaughlin
+Metcalf
+Meza
+Money
+Moody
+Morales Shaw
+Morales, Eddie
+Morgan
+Muñoz
+Noble
+Olcott
+Oliverson
+Ordaz
+Orr
+Patterson
+Paul
+Pierson
+Reynolds
+Richardson
+Schatzline
+Schoolcraft
+Shofner
+Smithee
+Swanson
+Talarico
+Tepper
+Tinderholt
+Toth
+Troxclair
+Vasut
+Villalobos
+Virdell
+Wharton
+
+Title: Legal Tender
+Jurisdiction: Florida - HB 999
+Description: Ordered engrossed, then enrolled
+Commerce Committee
+Bankson
+LaMarca
+Barnaby
+Benarroch
+Black
+Botana
+Buchanan
+Chamberlin
+Kendall
+Miller
+Plakon
+Plasencia
+
+Title: Taxation
+Jurisdiction: Florida - HB 7033
+Description: Received
+Ways & Means Committee
+Duggan
+Budget Committee
+
+Title: AN ACT relating to sales and use tax exemptions for menstrual discharge collection devices.
+Jurisdiction: Kentucky - HB 123
+Description: to Appropriations & Revenue (H)
+G. Brown Jr.
+B. Chester-Burton
+C. Aull
+A. Moore
+
+Title: AN ACT relating to state financial practices.
+Jurisdiction: Kentucky - HB 376
+Description: to Banking & Insurance (H)
+T. Roberts
+
+Title: AN ACT relating to housing and making an appropriation therefor.
+Jurisdiction: Kentucky - HB 583
+Description: to Appropriations & Revenue (H)
+J. Watkins
+L. Burke
+C. Aull
+T. Bojanowski
+G. Brown Jr.
+A. Camuel
+B. Chester-Burton
+A. Donworth
+A. Gentry
+E. Hancock
+M. Lehman
+A. Moore
+R. Roarx
+S. Stalker
+P. Stevenson
+A. Tackett Laferty
+L. Willner
+
+Title: AN ACT relating to a sales and use tax exemption for diapers.
+Jurisdiction: Kentucky - HB 282
+Description: to Appropriations & Revenue (H)
+T. Roberts
+V. Grossl
+C. Aull
+J. Calloway
+
+Title: AN ACT relating to sales and use tax exemptions for baby and personal care products.
+Jurisdiction: Kentucky - HB 122
+Description: to Appropriations & Revenue (H)
+G. Brown Jr.
+C. Aull
+B. Chester-Burton
+A. Gentry
+M. Marzian
+A. Moore
+
+Title: AN ACT relating to the sale or exchange of currency or bullion.
+Jurisdiction: Kentucky - HB 625
+Description: to Appropriations & Revenue (H)
+S. Doan
+
+Title: AN ACT relating to a sales and use tax exemption for diapers.
+Jurisdiction: Kentucky - SB 78
+Description: to Appropriations & Revenue (S)
+C. Armstrong
+D. Yates
+
+Title: AN ACT relating to sales and use tax exemptions for bullion and currency.
+Jurisdiction: Kentucky - HB 179
+Description: to Appropriations & Revenue (H)
+S. Doan
+F. Rabourn
+
+Title: AN ACT relating to sales and use tax exemptions for firearm-related items.
+Jurisdiction: Kentucky - HB 281
+Description: to Appropriations & Revenue (H)
+T. Roberts
+S. Maddox
+J. Calloway
+V. Grossl
+
+Title: BANKS/BANKING: Establishes gold and silver as currency (OR INCREASE SG EX See Note)
+Jurisdiction: Louisiana - HB 386
+Description: Read by title, under the rules, referred to the Committee on Commerce.
+Raymond Crews
+
+Title: Relating to the issuance of gold and silver specie and the establishment of a currency based on gold and silver; authorizing a fee.
+Jurisdiction: Texas - HB 1056
+Description: Statement(s) of vote recorded in Journal
+Dorazio
+Hunter
+Capriglione
+Raymond
+Harris
+Alders
+Allen
+Bell, Cecil
+Bell, Keith
+Bowers
+Buckley
+Bucy
+Bumgarner
+Cain
+Campos
+Cook
+Cortez
+Cunningham
+Dean
+DeAyala
+Dyson
+Frank
+Garcia, Josey
+Gates
+Gerdes
+González, Mary
+Guillen
+Harris Davila
+Harrison
+Hayes
+Hefner
+Hernandez
+Hickland
+Holt
+Hopper
+Isaac
+Jones, Jolanda
+Kerwin
+Kitzman
+LaHood
+Leach
+Little
+Lopez, Janie
+Lopez, Ray
+Louderback
+Lowe
+Lozano
+Lujan
+Luther
+Manuel
+McLaughlin
+Metcalf
+Meza
+Money
+Moody
+Morales Shaw
+Morales, Eddie
+Morgan
+Muñoz
+Noble
+Olcott
+Oliverson
+Ordaz
+Orr
+Patterson
+Paul
+Pierson
+Reynolds
+Richardson
+Schatzline
+Schoolcraft
+Shofner
+Smithee
+Swanson
+Talarico
+Tepper
+Tinderholt
+Toth
+Troxclair
+Vasut
+Villalobos
+Virdell
+Wharton
+
+Title: Legal Tender
+Jurisdiction: Florida - HB 999
+Description: Ordered engrossed, then enrolled
+Commerce Committee
+Bankson
+LaMarca
+Barnaby
+Benarroch
+Black
+Botana
+Buchanan
+Chamberlin
+Kendall
+Miller
+Plakon
+Plasencia
+
+Title: Taxation
+Jurisdiction: Florida - HB 7033
+Description: Received
+Ways & Means Committee
+Duggan
+Budget Committee
+
+Title: AN ACT relating to sales and use tax exemptions for menstrual discharge collection devices.
+Jurisdiction: Kentucky - HB 123
+Description: to Appropriations & Revenue (H)
+G. Brown Jr.
+B. Chester-Burton
+C. Aull
+A. Moore
+
+Title: AN ACT relating to state financial practices.
+Jurisdiction: Kentucky - HB 376
+Description: to Banking & Insurance (H)
+T. Roberts
+
+Title: AN ACT relating to housing and making an appropriation therefor.
+Jurisdiction: Kentucky - HB 583
+Description: to Appropriations & Revenue (H)
+J. Watkins
+L. Burke
+C. Aull
+T. Bojanowski
+G. Brown Jr.
+A. Camuel
+B. Chester-Burton
+A. Donworth
+A. Gentry
+E. Hancock
+M. Lehman
+A. Moore
+R. Roarx
+S. Stalker
+P. Stevenson
+A. Tackett Laferty
+L. Willner
+
+Title: AN ACT relating to a sales and use tax exemption for diapers.
+Jurisdiction: Kentucky - HB 282
+Description: to Appropriations & Revenue (H)
+T. Roberts
+V. Grossl
+C. Aull
+J. Calloway
+
+Title: AN ACT relating to sales and use tax exemptions for baby and personal care products.
+Jurisdiction: Kentucky - HB 122
+Description: to Appropriations & Revenue (H)
+G. Brown Jr.
+C. Aull
+B. Chester-Burton
+A. Gentry
+M. Marzian
+A. Moore
+
+Title: AN ACT relating to the sale or exchange of currency or bullion.
+Jurisdiction: Kentucky - HB 625
+Description: to Appropriations & Revenue (H)
+S. Doan
+
+Title: AN ACT relating to a sales and use tax exemption for diapers.
+Jurisdiction: Kentucky - SB 78
+Description: to Appropriations & Revenue (S)
+C. Armstrong
+D. Yates
+
+Title: AN ACT relating to sales and use tax exemptions for bullion and currency.
+Jurisdiction: Kentucky - HB 179
+Description: to Appropriations & Revenue (H)
+S. Doan
+F. Rabourn
+
+Title: AN ACT relating to sales and use tax exemptions for firearm-related items.
+Jurisdiction: Kentucky - HB 281
+Description: to Appropriations & Revenue (H)
+T. Roberts
+S. Maddox
+J. Calloway
+V. Grossl
+
+Title: AN ACT relating to the taxation of currency and bullion currency and declaring an emergency.
+Jurisdiction: Kentucky - HB 2
+Description: delivered to Secretary of State (Acts Ch. 100)
+T. Roberts
+J. Petrie
+A. Bowling
+J. Branscum
+S. Bratcher
+J. Bray
+J. Calloway
+J. Decker
+D. Elliott
+C. Freeland
+D. Gordon
+P. Griffee
+V. Grossl
+D. Hale
+J. Hodgson
+K. Holloway
+T. Huff
+DJ Johnson
+D. Lewis
+C. Massaroni
+D. Meade
+S. Miles
+K. Moser
+D. Osborne
+M. Proctor
+F. Rabourn
+S. Rudy
+W. Williams
+
+Title: BANKS/BANKING: Establishes gold and silver as currency (OR INCREASE SG EX See Note)
+Jurisdiction: Louisiana - HB 386
+Description: Read by title, under the rules, referred to the Committee on Commerce.
+Raymond Crews
+
+Title: Relating to the issuance of gold and silver specie and the establishment of a currency based on gold and silver; authorizing a fee.
+Jurisdiction: Texas - HB 1056
+Description: Statement(s) of vote recorded in Journal
+Dorazio
+Hunter
+Capriglione
+Raymond
+Harris
+Alders
+Allen
+Bell, Cecil
+Bell, Keith
+Bowers
+Buckley
+Bucy
+Bumgarner
+Cain
+Campos
+Cook
+Cortez
+Cunningham
+Dean
+DeAyala
+Dyson
+Frank
+Garcia, Josey
+Gates
+Gerdes
+González, Mary
+Guillen
+Harris Davila
+Harrison
+Hayes
+Hefner
+Hernandez
+Hickland
+Holt
+Hopper
+Isaac
+Jones, Jolanda
+Kerwin
+Kitzman
+LaHood
+Leach
+Little
+Lopez, Janie
+Lopez, Ray
+Louderback
+Lowe
+Lozano
+Lujan
+Luther
+Manuel
+McLaughlin
+Metcalf
+Meza
+Money
+Moody
+Morales Shaw
+Morales, Eddie
+Morgan
+Muñoz
+Noble
+Olcott
+Oliverson
+Ordaz
+Orr
+Patterson
+Paul
+Pierson
+Reynolds
+Richardson
+Schatzline
+Schoolcraft
+Shofner
+Smithee
+Swanson
+Talarico
+Tepper
+Tinderholt
+Toth
+Troxclair
+Vasut
+Villalobos
+Virdell
+Wharton
+
+Title: Legal Tender
+Jurisdiction: Florida - HB 999
+Description: Ordered engrossed, then enrolled
+Commerce Committee
+Bankson
+LaMarca
+Barnaby
+Benarroch
+Black
+Botana
+Buchanan
+Chamberlin
+Kendall
+Miller
+Plakon
+Plasencia
+
+Title: Taxation
+Jurisdiction: Florida - HB 7033
+Description: Received
+Ways & Means Committee
+Duggan
+Budget Committee
+
+Title: AN ACT relating to sales and use tax exemptions for menstrual discharge collection devices.
+Jurisdiction: Kentucky - HB 123
+Description: to Appropriations & Revenue (H)
+G. Brown Jr.
+B. Chester-Burton
+C. Aull
+A. Moore
+
+Title: AN ACT relating to state financial practices.
+Jurisdiction: Kentucky - HB 376
+Description: to Banking & Insurance (H)
+T. Roberts
+
+Title: AN ACT relating to housing and making an appropriation therefor.
+Jurisdiction: Kentucky - HB 583
+Description: to Appropriations & Revenue (H)
+J. Watkins
+L. Burke
+C. Aull
+T. Bojanowski
+G. Brown Jr.
+A. Camuel
+B. Chester-Burton
+A. Donworth
+A. Gentry
+E. Hancock
+M. Lehman
+A. Moore
+R. Roarx
+S. Stalker
+P. Stevenson
+A. Tackett Laferty
+L. Willner
+
+Title: AN ACT relating to a sales and use tax exemption for diapers.
+Jurisdiction: Kentucky - HB 282
+Description: to Appropriations & Revenue (H)
+T. Roberts
+V. Grossl
+C. Aull
+J. Calloway
+
+Title: AN ACT relating to sales and use tax exemptions for baby and personal care products.
+Jurisdiction: Kentucky - HB 122
+Description: to Appropriations & Revenue (H)
+G. Brown Jr.
+C. Aull
+B. Chester-Burton
+A. Gentry
+M. Marzian
+A. Moore
+
+Title: AN ACT relating to the sale or exchange of currency or bullion.
+Jurisdiction: Kentucky - HB 625
+Description: to Appropriations & Revenue (H)
+S. Doan
+
+Title: AN ACT relating to a sales and use tax exemption for diapers.
+Jurisdiction: Kentucky - SB 78
+Description: to Appropriations & Revenue (S)
+C. Armstrong
+D. Yates
+
+Title: AN ACT relating to sales and use tax exemptions for bullion and currency.
+Jurisdiction: Kentucky - HB 179
+Description: to Appropriations & Revenue (H)
+S. Doan
+F. Rabourn
+
+Title: AN ACT relating to sales and use tax exemptions for firearm-related items.
+Jurisdiction: Kentucky - HB 281
+Description: to Appropriations & Revenue (H)
+T. Roberts
+S. Maddox
+J. Calloway
+V. Grossl
+
+Title: AN ACT relating to the taxation of currency and bullion currency and declaring an emergency.
+Jurisdiction: Kentucky - HB 2
+Description: delivered to Secretary of State (Acts Ch. 100)
+T. Roberts
+J. Petrie
+A. Bowling
+J. Branscum
+S. Bratcher
+J. Bray
+J. Calloway
+J. Decker
+D. Elliott
+C. Freeland
+D. Gordon
+P. Griffee
+V. Grossl
+D. Hale
+J. Hodgson
+K. Holloway
+T. Huff
+DJ Johnson
+D. Lewis
+C. Massaroni
+D. Meade
+S. Miles
+K. Moser
+D. Osborne
+M. Proctor
+F. Rabourn
+S. Rudy
+W. Williams
+
+Title: AN ACT relating to sales and use taxes.
+Jurisdiction: Kentucky - HB 247
+Description: to Appropriations & Revenue (H)
+K. Holloway
+J. Calloway
+
+Title: BANKS/BANKING: Establishes gold and silver as currency (OR INCREASE SG EX See Note)
+Jurisdiction: Louisiana - HB 386
+Description: Read by title, under the rules, referred to the Committee on Commerce.
+Raymond Crews
+
+Title: Relating to the issuance of gold and silver specie and the establishment of a currency based on gold and silver; authorizing a fee.
+Jurisdiction: Texas - HB 1056
+Description: Statement(s) of vote recorded in Journal
+Dorazio
+Hunter
+Capriglione
+Raymond
+Harris
+Alders
+Allen
+Bell, Cecil
+Bell, Keith
+Bowers
+Buckley
+Bucy
+Bumgarner
+Cain
+Campos
+Cook
+Cortez
+Cunningham
+Dean
+DeAyala
+Dyson
+Frank
+Garcia, Josey
+Gates
+Gerdes
+González, Mary
+Guillen
+Harris Davila
+Harrison
+Hayes
+Hefner
+Hernandez
+Hickland
+Holt
+Hopper
+Isaac
+Jones, Jolanda
+Kerwin
+Kitzman
+LaHood
+Leach
+Little
+Lopez, Janie
+Lopez, Ray
+Louderback
+Lowe
+Lozano
+Lujan
+Luther
+Manuel
+McLaughlin
+Metcalf
+Meza
+Money
+Moody
+Morales Shaw
+Morales, Eddie
+Morgan
+Muñoz
+Noble
+Olcott
+Oliverson
+Ordaz
+Orr
+Patterson
+Paul
+Pierson
+Reynolds
+Richardson
+Schatzline
+Schoolcraft
+Shofner
+Smithee
+Swanson
+Talarico
+Tepper
+Tinderholt
+Toth
+Troxclair
+Vasut
+Villalobos
+Virdell
+Wharton
+
+Title: Legal Tender
+Jurisdiction: Florida - HB 999
+Description: Ordered engrossed, then enrolled
+Commerce Committee
+Bankson
+LaMarca
+Barnaby
+Benarroch
+Black
+Botana
+Buchanan
+Chamberlin
+Kendall
+Miller
+Plakon
+Plasencia
+
+Title: Taxation
+Jurisdiction: Florida - HB 7033
+Description: Received
+Ways & Means Committee
+Duggan
+Budget Committee
+
+Title: AN ACT relating to sales and use tax exemptions for menstrual discharge collection devices.
+Jurisdiction: Kentucky - HB 123
+Description: to Appropriations & Revenue (H)
+G. Brown Jr.
+B. Chester-Burton
+C. Aull
+A. Moore
+
+Title: AN ACT relating to state financial practices.
+Jurisdiction: Kentucky - HB 376
+Description: to Banking & Insurance (H)
+T. Roberts
+
+Title: AN ACT relating to housing and making an appropriation therefor.
+Jurisdiction: Kentucky - HB 583
+Description: to Appropriations & Revenue (H)
+J. Watkins
+L. Burke
+C. Aull
+T. Bojanowski
+G. Brown Jr.
+A. Camuel
+B. Chester-Burton
+A. Donworth
+A. Gentry
+E. Hancock
+M. Lehman
+A. Moore
+R. Roarx
+S. Stalker
+P. Stevenson
+A. Tackett Laferty
+L. Willner
+
+Title: AN ACT relating to a sales and use tax exemption for diapers.
+Jurisdiction: Kentucky - HB 282
+Description: to Appropriations & Revenue (H)
+T. Roberts
+V. Grossl
+C. Aull
+J. Calloway
+
+Title: AN ACT relating to sales and use tax exemptions for baby and personal care products.
+Jurisdiction: Kentucky - HB 122
+Description: to Appropriations & Revenue (H)
+G. Brown Jr.
+C. Aull
+B. Chester-Burton
+A. Gentry
+M. Marzian
+A. Moore
+
+Title: AN ACT relating to the sale or exchange of currency or bullion.
+Jurisdiction: Kentucky - HB 625
+Description: to Appropriations & Revenue (H)
+S. Doan
+
+Title: AN ACT relating to a sales and use tax exemption for diapers.
+Jurisdiction: Kentucky - SB 78
+Description: to Appropriations & Revenue (S)
+C. Armstrong
+D. Yates
+
+Title: AN ACT relating to sales and use tax exemptions for bullion and currency.
+Jurisdiction: Kentucky - HB 179
+Description: to Appropriations & Revenue (H)
+S. Doan
+F. Rabourn
+
+Title: AN ACT relating to sales and use tax exemptions for firearm-related items.
+Jurisdiction: Kentucky - HB 281
+Description: to Appropriations & Revenue (H)
+T. Roberts
+S. Maddox
+J. Calloway
+V. Grossl
+
+Title: AN ACT relating to the taxation of currency and bullion currency and declaring an emergency.
+Jurisdiction: Kentucky - HB 2
+Description: delivered to Secretary of State (Acts Ch. 100)
+T. Roberts
+J. Petrie
+A. Bowling
+J. Branscum
+S. Bratcher
+J. Bray
+J. Calloway
+J. Decker
+D. Elliott
+C. Freeland
+D. Gordon
+P. Griffee
+V. Grossl
+D. Hale
+J. Hodgson
+K. Holloway
+T. Huff
+DJ Johnson
+D. Lewis
+C. Massaroni
+D. Meade
+S. Miles
+K. Moser
+D. Osborne
+M. Proctor
+F. Rabourn
+S. Rudy
+W. Williams
+
+Title: AN ACT relating to sales and use taxes.
+Jurisdiction: Kentucky - HB 247
+Description: to Appropriations & Revenue (H)
+K. Holloway
+J. Calloway
+
+Title: AN ACT relating to menstrual discharge collection devices and making an appropriation therefor.
+Jurisdiction: Kentucky - HB 231
+Description: to Appropriations & Revenue (H)
+L. Willner
+M. Lehman
+C. Aull
+G. Brown Jr.
+B. Chester-Burton
+M. Marzian
+R. Roarx
+S. Stalker
+P. Stevenson
+
+Title: BANKS/BANKING: Establishes gold and silver as currency (OR INCREASE SG EX See Note)
+Jurisdiction: Louisiana - HB 386
+Description: Read by title, under the rules, referred to the Committee on Commerce.
+Raymond Crews
+
+Title: Relating to the issuance of gold and silver specie and the establishment of a currency based on gold and silver; authorizing a fee.
+Jurisdiction: Texas - HB 1056
+Description: Statement(s) of vote recorded in Journal
+Dorazio
+Hunter
+Capriglione
+Raymond
+Harris
+Alders
+Allen
+Bell, Cecil
+Bell, Keith
+Bowers
+Buckley
+Bucy
+Bumgarner
+Cain
+Campos
+Cook
+Cortez
+Cunningham
+Dean
+DeAyala
+Dyson
+Frank
+Garcia, Josey
+Gates
+Gerdes
+González, Mary
+Guillen
+Harris Davila
+Harrison
+Hayes
+Hefner
+Hernandez
+Hickland
+Holt
+Hopper
+Isaac
+Jones, Jolanda
+Kerwin
+Kitzman
+LaHood
+Leach
+Little
+Lopez, Janie
+Lopez, Ray
+Louderback
+Lowe
+Lozano
+Lujan
+Luther
+Manuel
+McLaughlin
+Metcalf
+Meza
+Money
+Moody
+Morales Shaw
+Morales, Eddie
+Morgan
+Muñoz
+Noble
+Olcott
+Oliverson
+Ordaz
+Orr
+Patterson
+Paul
+Pierson
+Reynolds
+Richardson
+Schatzline
+Schoolcraft
+Shofner
+Smithee
+Swanson
+Talarico
+Tepper
+Tinderholt
+Toth
+Troxclair
+Vasut
+Villalobos
+Virdell
+Wharton
+
+Title: Legal Tender
+Jurisdiction: Florida - HB 999
+Description: Ordered engrossed, then enrolled
+Commerce Committee
+Bankson
+LaMarca
+Barnaby
+Benarroch
+Black
+Botana
+Buchanan
+Chamberlin
+Kendall
+Miller
+Plakon
+Plasencia
+
+Title: Taxation
+Jurisdiction: Florida - HB 7033
+Description: Received
+Ways & Means Committee
+Duggan
+Budget Committee
+
+Title: AN ACT relating to sales and use tax exemptions for menstrual discharge collection devices.
+Jurisdiction: Kentucky - HB 123
+Description: to Appropriations & Revenue (H)
+G. Brown Jr.
+B. Chester-Burton
+C. Aull
+A. Moore
+
+Title: AN ACT relating to state financial practices.
+Jurisdiction: Kentucky - HB 376
+Description: to Banking & Insurance (H)
+T. Roberts
+
+Title: AN ACT relating to housing and making an appropriation therefor.
+Jurisdiction: Kentucky - HB 583
+Description: to Appropriations & Revenue (H)
+J. Watkins
+L. Burke
+C. Aull
+T. Bojanowski
+G. Brown Jr.
+A. Camuel
+B. Chester-Burton
+A. Donworth
+A. Gentry
+E. Hancock
+M. Lehman
+A. Moore
+R. Roarx
+S. Stalker
+P. Stevenson
+A. Tackett Laferty
+L. Willner
+
+Title: AN ACT relating to a sales and use tax exemption for diapers.
+Jurisdiction: Kentucky - HB 282
+Description: to Appropriations & Revenue (H)
+T. Roberts
+V. Grossl
+C. Aull
+J. Calloway
+
+Title: AN ACT relating to sales and use tax exemptions for baby and personal care products.
+Jurisdiction: Kentucky - HB 122
+Description: to Appropriations & Revenue (H)
+G. Brown Jr.
+C. Aull
+B. Chester-Burton
+A. Gentry
+M. Marzian
+A. Moore
+
+Title: AN ACT relating to the sale or exchange of currency or bullion.
+Jurisdiction: Kentucky - HB 625
+Description: to Appropriations & Revenue (H)
+S. Doan
+
+Title: AN ACT relating to a sales and use tax exemption for diapers.
+Jurisdiction: Kentucky - SB 78
+Description: to Appropriations & Revenue (S)
+C. Armstrong
+D. Yates
+
+Title: AN ACT relating to sales and use tax exemptions for bullion and currency.
+Jurisdiction: Kentucky - HB 179
+Description: to Appropriations & Revenue (H)
+S. Doan
+F. Rabourn
+
+Title: AN ACT relating to sales and use tax exemptions for firearm-related items.
+Jurisdiction: Kentucky - HB 281
+Description: to Appropriations & Revenue (H)
+T. Roberts
+S. Maddox
+J. Calloway
+V. Grossl
+
+Title: AN ACT relating to the taxation of currency and bullion currency and declaring an emergency.
+Jurisdiction: Kentucky - HB 2
+Description: delivered to Secretary of State (Acts Ch. 100)
+T. Roberts
+J. Petrie
+A. Bowling
+J. Branscum
+S. Bratcher
+J. Bray
+J. Calloway
+J. Decker
+D. Elliott
+C. Freeland
+D. Gordon
+P. Griffee
+V. Grossl
+D. Hale
+J. Hodgson
+K. Holloway
+T. Huff
+DJ Johnson
+D. Lewis
+C. Massaroni
+D. Meade
+S. Miles
+K. Moser
+D. Osborne
+M. Proctor
+F. Rabourn
+S. Rudy
+W. Williams
+
+Title: AN ACT relating to sales and use taxes.
+Jurisdiction: Kentucky - HB 247
+Description: to Appropriations & Revenue (H)
+K. Holloway
+J. Calloway
+
+Title: AN ACT relating to menstrual discharge collection devices and making an appropriation therefor.
+Jurisdiction: Kentucky - HB 231
+Description: to Appropriations & Revenue (H)
+L. Willner
+M. Lehman
+C. Aull
+G. Brown Jr.
+B. Chester-Burton
+M. Marzian
+R. Roarx
+S. Stalker
+P. Stevenson
+
+Title: USE/OCC TX-SOLAR PANELS
+Jurisdiction: Illinois - SB 1633
+Description: Added as Co-Sponsor Sen. Mary Edly-Allen
+Donald P. DeWitte
+Adriane Johnson
+Emil Jones, III
+Mary Edly-Allen
+
+Title: BANKS/BANKING: Establishes gold and silver as currency (OR INCREASE SG EX See Note)
+Jurisdiction: Louisiana - HB 386
+Description: Read by title, under the rules, referred to the Committee on Commerce.
+Raymond Crews
+
+Title: Relating to the issuance of gold and silver specie and the establishment of a currency based on gold and silver; authorizing a fee.
+Jurisdiction: Texas - HB 1056
+Description: Statement(s) of vote recorded in Journal
+Dorazio
+Hunter
+Capriglione
+Raymond
+Harris
+Alders
+Allen
+Bell, Cecil
+Bell, Keith
+Bowers
+Buckley
+Bucy
+Bumgarner
+Cain
+Campos
+Cook
+Cortez
+Cunningham
+Dean
+DeAyala
+Dyson
+Frank
+Garcia, Josey
+Gates
+Gerdes
+González, Mary
+Guillen
+Harris Davila
+Harrison
+Hayes
+Hefner
+Hernandez
+Hickland
+Holt
+Hopper
+Isaac
+Jones, Jolanda
+Kerwin
+Kitzman
+LaHood
+Leach
+Little
+Lopez, Janie
+Lopez, Ray
+Louderback
+Lowe
+Lozano
+Lujan
+Luther
+Manuel
+McLaughlin
+Metcalf
+Meza
+Money
+Moody
+Morales Shaw
+Morales, Eddie
+Morgan
+Muñoz
+Noble
+Olcott
+Oliverson
+Ordaz
+Orr
+Patterson
+Paul
+Pierson
+Reynolds
+Richardson
+Schatzline
+Schoolcraft
+Shofner
+Smithee
+Swanson
+Talarico
+Tepper
+Tinderholt
+Toth
+Troxclair
+Vasut
+Villalobos
+Virdell
+Wharton
+
+Title: Legal Tender
+Jurisdiction: Florida - HB 999
+Description: Ordered engrossed, then enrolled
+Commerce Committee
+Bankson
+LaMarca
+Barnaby
+Benarroch
+Black
+Botana
+Buchanan
+Chamberlin
+Kendall
+Miller
+Plakon
+Plasencia
+
+Title: Taxation
+Jurisdiction: Florida - HB 7033
+Description: Received
+Ways & Means Committee
+Duggan
+Budget Committee
+
+Title: AN ACT relating to sales and use tax exemptions for menstrual discharge collection devices.
+Jurisdiction: Kentucky - HB 123
+Description: to Appropriations & Revenue (H)
+G. Brown Jr.
+B. Chester-Burton
+C. Aull
+A. Moore
+
+Title: AN ACT relating to state financial practices.
+Jurisdiction: Kentucky - HB 376
+Description: to Banking & Insurance (H)
+T. Roberts
+
+Title: AN ACT relating to housing and making an appropriation therefor.
+Jurisdiction: Kentucky - HB 583
+Description: to Appropriations & Revenue (H)
+J. Watkins
+L. Burke
+C. Aull
+T. Bojanowski
+G. Brown Jr.
+A. Camuel
+B. Chester-Burton
+A. Donworth
+A. Gentry
+E. Hancock
+M. Lehman
+A. Moore
+R. Roarx
+S. Stalker
+P. Stevenson
+A. Tackett Laferty
+L. Willner
+
+Title: AN ACT relating to a sales and use tax exemption for diapers.
+Jurisdiction: Kentucky - HB 282
+Description: to Appropriations & Revenue (H)
+T. Roberts
+V. Grossl
+C. Aull
+J. Calloway
+
+Title: AN ACT relating to sales and use tax exemptions for baby and personal care products.
+Jurisdiction: Kentucky - HB 122
+Description: to Appropriations & Revenue (H)
+G. Brown Jr.
+C. Aull
+B. Chester-Burton
+A. Gentry
+M. Marzian
+A. Moore
+
+Title: AN ACT relating to the sale or exchange of currency or bullion.
+Jurisdiction: Kentucky - HB 625
+Description: to Appropriations & Revenue (H)
+S. Doan
+
+Title: AN ACT relating to a sales and use tax exemption for diapers.
+Jurisdiction: Kentucky - SB 78
+Description: to Appropriations & Revenue (S)
+C. Armstrong
+D. Yates
+
+Title: AN ACT relating to sales and use tax exemptions for bullion and currency.
+Jurisdiction: Kentucky - HB 179
+Description: to Appropriations & Revenue (H)
+S. Doan
+F. Rabourn
+
+Title: AN ACT relating to sales and use tax exemptions for firearm-related items.
+Jurisdiction: Kentucky - HB 281
+Description: to Appropriations & Revenue (H)
+T. Roberts
+S. Maddox
+J. Calloway
+V. Grossl
+
+Title: AN ACT relating to the taxation of currency and bullion currency and declaring an emergency.
+Jurisdiction: Kentucky - HB 2
+Description: delivered to Secretary of State (Acts Ch. 100)
+T. Roberts
+J. Petrie
+A. Bowling
+J. Branscum
+S. Bratcher
+J. Bray
+J. Calloway
+J. Decker
+D. Elliott
+C. Freeland
+D. Gordon
+P. Griffee
+V. Grossl
+D. Hale
+J. Hodgson
+K. Holloway
+T. Huff
+DJ Johnson
+D. Lewis
+C. Massaroni
+D. Meade
+S. Miles
+K. Moser
+D. Osborne
+M. Proctor
+F. Rabourn
+S. Rudy
+W. Williams
+
+Title: AN ACT relating to sales and use taxes.
+Jurisdiction: Kentucky - HB 247
+Description: to Appropriations & Revenue (H)
+K. Holloway
+J. Calloway
+
+Title: AN ACT relating to menstrual discharge collection devices and making an appropriation therefor.
+Jurisdiction: Kentucky - HB 231
+Description: to Appropriations & Revenue (H)
+L. Willner
+M. Lehman
+C. Aull
+G. Brown Jr.
+B. Chester-Burton
+M. Marzian
+R. Roarx
+S. Stalker
+P. Stevenson
+
+Title: USE/OCC TX-SOLAR PANELS
+Jurisdiction: Illinois - SB 1633
+Description: Added as Co-Sponsor Sen. Mary Edly-Allen
+Donald P. DeWitte
+Adriane Johnson
+Emil Jones, III
+Mary Edly-Allen
+
+Title: An Act relating to specie as legal tender in the state; and relating to borough and city sales and use taxes on specie.
+Jurisdiction: Alaska - HB 1
+Description: (H) COSPONSOR(S): STAPP, TILTON, ALLARD, TOMASZEWSKI, PRAX, COULOMBE, RUFFRIDGE
+Mccabe
+Underwood
+Johnson
+Rauscher
+Moore
+Stapp
+Tilton
+Allard
+Tomaszewski
+Prax
+Coulombe
+Ruffridge
