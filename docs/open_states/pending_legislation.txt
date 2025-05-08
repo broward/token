@@ -1,96 +1,450 @@
 
 
-Title: Resolve, To Establish The Commission To Study Fostering A Positive Economic Environment For Blockchain Technology And Cryptocurrency
-Jurisdiction: Maine - LD 1286
-Description: Voted - OTP-AM
-Richard BRADSTREET
-Marshall ARCHER
-Alicia COLLINS
-Paul FLYNN
-Robert FOLEY
-David HAGGAN
+Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
+Jurisdiction: Texas - SB 21
+Description: Reported favorably w/o amendment(s)
+Schwertner
+Hinojosa, Adam
+Parker
+West
 
-Title: Resolve, To Establish The Commission To Study Fostering A Positive Economic Environment For Blockchain Technology And Cryptocurrency
-Jurisdiction: Maine - LD 1286
-Description: Voted - OTP-AM
-Richard BRADSTREET
-Marshall ARCHER
-Alicia COLLINS
-Paul FLYNN
-Robert FOLEY
-David HAGGAN
+Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
+Jurisdiction: Texas - SB 21
+Description: Reported favorably w/o amendment(s)
+Schwertner
+Hinojosa, Adam
+Parker
+West
 
-Title: Relating to: modifying the sales and use tax exemption for qualified data centers. (FE)
-Jurisdiction: Wisconsin - AB 245
-Description: Read first time and referred to Committee on Ways and Means
-Zimmerman
-Gustafson
-Armstrong
-Knodl
-Kreibich
-O'Connor
-Piwowarczyk
-Snyder
-Wittke
+Title: Relating to the formation of decentralized unincorporated nonprofit associations and the use of distributed ledger or blockchain technology for certain business purposes; authorizing fees.
+Jurisdiction: Texas - HB 4518
+Description: Committee report sent to Calendars
+Cook
 
-Title: Resolve, To Establish The Commission To Study Fostering A Positive Economic Environment For Blockchain Technology And Cryptocurrency
-Jurisdiction: Maine - LD 1286
-Description: Voted - OTP-AM
-Richard BRADSTREET
-Marshall ARCHER
-Alicia COLLINS
-Paul FLYNN
-Robert FOLEY
-David HAGGAN
+Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
+Jurisdiction: Texas - SB 21
+Description: Reported favorably w/o amendment(s)
+Schwertner
+Hinojosa, Adam
+Parker
+West
 
-Title: Relating to: modifying the sales and use tax exemption for qualified data centers. (FE)
-Jurisdiction: Wisconsin - AB 245
-Description: Read first time and referred to Committee on Ways and Means
-Zimmerman
-Gustafson
-Armstrong
-Knodl
-Kreibich
-O'Connor
-Piwowarczyk
-Snyder
-Wittke
+Title: Relating to the formation of decentralized unincorporated nonprofit associations and the use of distributed ledger or blockchain technology for certain business purposes; authorizing fees.
+Jurisdiction: Texas - HB 4518
+Description: Committee report sent to Calendars
+Cook
 
-Title: Digital assets.
-Jurisdiction: California - AB 1052
-Description: From committee chair, with author's amendments: Amend, and re-refer to Com. on ELECTIONS. Read second time and amended.
-Valencia
+Title: technical correction; unclaimed property; interest
+Jurisdiction: Arizona - HB 2324
+Description: PASSED
+Jeff Weninger
 
-Title: Resolve, To Establish The Commission To Study Fostering A Positive Economic Environment For Blockchain Technology And Cryptocurrency
-Jurisdiction: Maine - LD 1286
-Description: Voted - OTP-AM
-Richard BRADSTREET
-Marshall ARCHER
-Alicia COLLINS
-Paul FLYNN
-Robert FOLEY
-David HAGGAN
+Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
+Jurisdiction: Texas - SB 21
+Description: Reported favorably w/o amendment(s)
+Schwertner
+Hinojosa, Adam
+Parker
+West
 
-Title: Relating to: modifying the sales and use tax exemption for qualified data centers. (FE)
-Jurisdiction: Wisconsin - AB 245
-Description: Read first time and referred to Committee on Ways and Means
-Zimmerman
-Gustafson
-Armstrong
-Knodl
-Kreibich
-O'Connor
-Piwowarczyk
-Snyder
-Wittke
+Title: Relating to the formation of decentralized unincorporated nonprofit associations and the use of distributed ledger or blockchain technology for certain business purposes; authorizing fees.
+Jurisdiction: Texas - HB 4518
+Description: Committee report sent to Calendars
+Cook
 
-Title: Digital assets.
-Jurisdiction: California - AB 1052
-Description: From committee chair, with author's amendments: Amend, and re-refer to Com. on ELECTIONS. Read second time and amended.
-Valencia
+Title: technical correction; unclaimed property; interest
+Jurisdiction: Arizona - HB 2324
+Description: PASSED
+Jeff Weninger
+
+Title: BANKS/BANKING: Provide relative to virtual currency kiosks
+Jurisdiction: Louisiana - HB 483
+Description: Read by title, amended, ordered engrossed, passed to 3rd reading.
+Mark Wright
+
+Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
+Jurisdiction: Texas - SB 21
+Description: Reported favorably w/o amendment(s)
+Schwertner
+Hinojosa, Adam
+Parker
+West
+
+Title: Relating to the formation of decentralized unincorporated nonprofit associations and the use of distributed ledger or blockchain technology for certain business purposes; authorizing fees.
+Jurisdiction: Texas - HB 4518
+Description: Committee report sent to Calendars
+Cook
+
+Title: technical correction; unclaimed property; interest
+Jurisdiction: Arizona - HB 2324
+Description: PASSED
+Jeff Weninger
+
+Title: BANKS/BANKING: Provide relative to virtual currency kiosks
+Jurisdiction: Louisiana - HB 483
+Description: Read by title, amended, ordered engrossed, passed to 3rd reading.
+Mark Wright
+
+Title: An act relating to the regulation of insurance products and services
+Jurisdiction: Vermont - H 137
+Description: Notice Calendar: Senate Proposal of Amendment
+Michael Marcotte
+David Bosch
+Emily Carris-Duncan
+Jonathan Cooper
+Abbey Duke
+Edye Graning
+Anthony Micklus
+Herb Olson
+Kirk White
+
+Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
+Jurisdiction: Texas - SB 21
+Description: Reported favorably w/o amendment(s)
+Schwertner
+Hinojosa, Adam
+Parker
+West
+
+Title: Relating to the formation of decentralized unincorporated nonprofit associations and the use of distributed ledger or blockchain technology for certain business purposes; authorizing fees.
+Jurisdiction: Texas - HB 4518
+Description: Committee report sent to Calendars
+Cook
+
+Title: technical correction; unclaimed property; interest
+Jurisdiction: Arizona - HB 2324
+Description: PASSED
+Jeff Weninger
+
+Title: BANKS/BANKING: Provide relative to virtual currency kiosks
+Jurisdiction: Louisiana - HB 483
+Description: Read by title, amended, ordered engrossed, passed to 3rd reading.
+Mark Wright
+
+Title: An act relating to the regulation of insurance products and services
+Jurisdiction: Vermont - H 137
+Description: Notice Calendar: Senate Proposal of Amendment
+Michael Marcotte
+David Bosch
+Emily Carris-Duncan
+Jonathan Cooper
+Abbey Duke
+Edye Graning
+Anthony Micklus
+Herb Olson
+Kirk White
+
+Title: VIRTUAL CURRENCY CONSUM PROT
+Jurisdiction: Illinois - SB 2319
+Description: Senate Floor Amendment No. 1 Assignments Refers to Executive
+Laura Ellman
+Mark L. Walker
+Karina Villa
+
+Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
+Jurisdiction: Texas - SB 21
+Description: Reported favorably w/o amendment(s)
+Schwertner
+Hinojosa, Adam
+Parker
+West
+
+Title: Relating to the formation of decentralized unincorporated nonprofit associations and the use of distributed ledger or blockchain technology for certain business purposes; authorizing fees.
+Jurisdiction: Texas - HB 4518
+Description: Committee report sent to Calendars
+Cook
+
+Title: technical correction; unclaimed property; interest
+Jurisdiction: Arizona - HB 2324
+Description: PASSED
+Jeff Weninger
+
+Title: BANKS/BANKING: Provide relative to virtual currency kiosks
+Jurisdiction: Louisiana - HB 483
+Description: Read by title, amended, ordered engrossed, passed to 3rd reading.
+Mark Wright
+
+Title: An act relating to the regulation of insurance products and services
+Jurisdiction: Vermont - H 137
+Description: Notice Calendar: Senate Proposal of Amendment
+Michael Marcotte
+David Bosch
+Emily Carris-Duncan
+Jonathan Cooper
+Abbey Duke
+Edye Graning
+Anthony Micklus
+Herb Olson
+Kirk White
+
+Title: VIRTUAL CURRENCY CONSUM PROT
+Jurisdiction: Illinois - SB 2319
+Description: Senate Floor Amendment No. 1 Assignments Refers to Executive
+Laura Ellman
+Mark L. Walker
+Karina Villa
 
 Title: Cryptocurrency
 Jurisdiction: South Carolina - S 163
-Description: Roll call Ayes-38  Nays-1
+Description: Referred to Committee on Labor, Commerce and Industry
 Verdin
 Leber
+
+Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
+Jurisdiction: Texas - SB 21
+Description: Reported favorably w/o amendment(s)
+Schwertner
+Hinojosa, Adam
+Parker
+West
+
+Title: Relating to the formation of decentralized unincorporated nonprofit associations and the use of distributed ledger or blockchain technology for certain business purposes; authorizing fees.
+Jurisdiction: Texas - HB 4518
+Description: Committee report sent to Calendars
+Cook
+
+Title: technical correction; unclaimed property; interest
+Jurisdiction: Arizona - HB 2324
+Description: PASSED
+Jeff Weninger
+
+Title: BANKS/BANKING: Provide relative to virtual currency kiosks
+Jurisdiction: Louisiana - HB 483
+Description: Read by title, amended, ordered engrossed, passed to 3rd reading.
+Mark Wright
+
+Title: An act relating to the regulation of insurance products and services
+Jurisdiction: Vermont - H 137
+Description: Notice Calendar: Senate Proposal of Amendment
+Michael Marcotte
+David Bosch
+Emily Carris-Duncan
+Jonathan Cooper
+Abbey Duke
+Edye Graning
+Anthony Micklus
+Herb Olson
+Kirk White
+
+Title: VIRTUAL CURRENCY CONSUM PROT
+Jurisdiction: Illinois - SB 2319
+Description: Senate Floor Amendment No. 1 Assignments Refers to Executive
+Laura Ellman
+Mark L. Walker
+Karina Villa
+
+Title: Cryptocurrency
+Jurisdiction: South Carolina - S 163
+Description: Referred to Committee on Labor, Commerce and Industry
+Verdin
+Leber
+
+Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
+Jurisdiction: Montana - SB 265
+Description: (S) Transmitted to Governor
+Daniel Zolnikov
+
+Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
+Jurisdiction: Texas - SB 21
+Description: Reported favorably w/o amendment(s)
+Schwertner
+Hinojosa, Adam
+Parker
+West
+
+Title: Relating to the formation of decentralized unincorporated nonprofit associations and the use of distributed ledger or blockchain technology for certain business purposes; authorizing fees.
+Jurisdiction: Texas - HB 4518
+Description: Committee report sent to Calendars
+Cook
+
+Title: technical correction; unclaimed property; interest
+Jurisdiction: Arizona - HB 2324
+Description: PASSED
+Jeff Weninger
+
+Title: BANKS/BANKING: Provide relative to virtual currency kiosks
+Jurisdiction: Louisiana - HB 483
+Description: Read by title, amended, ordered engrossed, passed to 3rd reading.
+Mark Wright
+
+Title: An act relating to the regulation of insurance products and services
+Jurisdiction: Vermont - H 137
+Description: Notice Calendar: Senate Proposal of Amendment
+Michael Marcotte
+David Bosch
+Emily Carris-Duncan
+Jonathan Cooper
+Abbey Duke
+Edye Graning
+Anthony Micklus
+Herb Olson
+Kirk White
+
+Title: VIRTUAL CURRENCY CONSUM PROT
+Jurisdiction: Illinois - SB 2319
+Description: Senate Floor Amendment No. 1 Assignments Refers to Executive
+Laura Ellman
+Mark L. Walker
+Karina Villa
+
+Title: Cryptocurrency
+Jurisdiction: South Carolina - S 163
+Description: Referred to Committee on Labor, Commerce and Industry
+Verdin
+Leber
+
+Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
+Jurisdiction: Montana - SB 265
+Description: (S) Transmitted to Governor
+Daniel Zolnikov
+
+Title: Create a Montana blockchain and digital innovation task force
+Jurisdiction: Montana - SB 330
+Description: (S) Transmitted to Governor
+Gayle  Lammers
+
+Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
+Jurisdiction: Texas - SB 21
+Description: Reported favorably w/o amendment(s)
+Schwertner
+Hinojosa, Adam
+Parker
+West
+
+Title: Relating to the formation of decentralized unincorporated nonprofit associations and the use of distributed ledger or blockchain technology for certain business purposes; authorizing fees.
+Jurisdiction: Texas - HB 4518
+Description: Committee report sent to Calendars
+Cook
+
+Title: technical correction; unclaimed property; interest
+Jurisdiction: Arizona - HB 2324
+Description: PASSED
+Jeff Weninger
+
+Title: BANKS/BANKING: Provide relative to virtual currency kiosks
+Jurisdiction: Louisiana - HB 483
+Description: Read by title, amended, ordered engrossed, passed to 3rd reading.
+Mark Wright
+
+Title: An act relating to the regulation of insurance products and services
+Jurisdiction: Vermont - H 137
+Description: Notice Calendar: Senate Proposal of Amendment
+Michael Marcotte
+David Bosch
+Emily Carris-Duncan
+Jonathan Cooper
+Abbey Duke
+Edye Graning
+Anthony Micklus
+Herb Olson
+Kirk White
+
+Title: VIRTUAL CURRENCY CONSUM PROT
+Jurisdiction: Illinois - SB 2319
+Description: Senate Floor Amendment No. 1 Assignments Refers to Executive
+Laura Ellman
+Mark L. Walker
+Karina Villa
+
+Title: Cryptocurrency
+Jurisdiction: South Carolina - S 163
+Description: Referred to Committee on Labor, Commerce and Industry
+Verdin
+Leber
+
+Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
+Jurisdiction: Montana - SB 265
+Description: (S) Transmitted to Governor
+Daniel Zolnikov
+
+Title: Create a Montana blockchain and digital innovation task force
+Jurisdiction: Montana - SB 330
+Description: (S) Transmitted to Governor
+Gayle  Lammers
+
+Title: Businesses: other; regulations regarding cryptocurrency and digital asset mining; provide for. Creates new act.
+Jurisdiction: Michigan - HB 6147
+Description: bill electronically reproduced 11/14/2024
+Steve Carra
+Matt Maddock
+James DeSana
+Josh Schriver
+Jaime Greene
+Joseph Fox
+Neil Friske
+
+Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
+Jurisdiction: Texas - SB 21
+Description: Reported favorably w/o amendment(s)
+Schwertner
+Hinojosa, Adam
+Parker
+West
+
+Title: Relating to the formation of decentralized unincorporated nonprofit associations and the use of distributed ledger or blockchain technology for certain business purposes; authorizing fees.
+Jurisdiction: Texas - HB 4518
+Description: Committee report sent to Calendars
+Cook
+
+Title: technical correction; unclaimed property; interest
+Jurisdiction: Arizona - HB 2324
+Description: PASSED
+Jeff Weninger
+
+Title: BANKS/BANKING: Provide relative to virtual currency kiosks
+Jurisdiction: Louisiana - HB 483
+Description: Read by title, amended, ordered engrossed, passed to 3rd reading.
+Mark Wright
+
+Title: An act relating to the regulation of insurance products and services
+Jurisdiction: Vermont - H 137
+Description: Notice Calendar: Senate Proposal of Amendment
+Michael Marcotte
+David Bosch
+Emily Carris-Duncan
+Jonathan Cooper
+Abbey Duke
+Edye Graning
+Anthony Micklus
+Herb Olson
+Kirk White
+
+Title: VIRTUAL CURRENCY CONSUM PROT
+Jurisdiction: Illinois - SB 2319
+Description: Senate Floor Amendment No. 1 Assignments Refers to Executive
+Laura Ellman
+Mark L. Walker
+Karina Villa
+
+Title: Cryptocurrency
+Jurisdiction: South Carolina - S 163
+Description: Referred to Committee on Labor, Commerce and Industry
+Verdin
+Leber
+
+Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
+Jurisdiction: Montana - SB 265
+Description: (S) Transmitted to Governor
+Daniel Zolnikov
+
+Title: Create a Montana blockchain and digital innovation task force
+Jurisdiction: Montana - SB 330
+Description: (S) Transmitted to Governor
+Gayle  Lammers
+
+Title: Businesses: other; regulations regarding cryptocurrency and digital asset mining; provide for. Creates new act.
+Jurisdiction: Michigan - HB 6147
+Description: bill electronically reproduced 11/14/2024
+Steve Carra
+Matt Maddock
+James DeSana
+Josh Schriver
+Jaime Greene
+Joseph Fox
+Neil Friske
+
+Title: Requires certain disclosures in advertisements involving virtual tokens
+Jurisdiction: New York - A 391
+Description: REPORTED REFERRED TO CODES
+Clyde Vanel
+Steven Otis
