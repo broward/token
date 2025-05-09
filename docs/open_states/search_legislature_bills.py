@@ -86,8 +86,8 @@ def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
                 with open(OUTPUT_FILE, "a") as f:
                     # f.write(f"Found {len(results)} bills:")
                     for result in results:
-                        f.write(f"\n\nTitle: {result['title']}")
-                        f.write(f"\nJurisdiction: {result['jurisdiction']['name']} - {result['identifier']}")
+                        f.write(f"\n\n{result['jurisdiction']['name']} - {result['identifier']}")
+                        f.write(f"\nTitle: {result['title']}")
                         f.write(f"\nDescription: {result['description']}")
                         
                         if result["sponsors"]:
@@ -134,11 +134,11 @@ def main():
     session = "" # input("Enter legislative session (leave blank for all sessions): ").strip() or None
     
     size = 1
-    #keyword = "cryptocurrency"
+    keyword = "cryptocurrency"
     #keyword = "bitcoin"
     #keyword = "bullion depository"
     #keyword = "gold currency"
-    keyword = "blockchain"
+    #keyword = "blockchain"
     #keyword = "stablecoin"
     #keyword = "precious metals digital assets"
     #keyword = "crypto currency"

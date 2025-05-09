@@ -1,93 +1,28 @@
 
 
-Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
-Jurisdiction: Texas - SB 21
-Description: Reported favorably w/o amendment(s)
-Schwertner
-Hinojosa, Adam
-Parker
-West
+Illinois - HB 2568
+Title: TRUST CODE-UNCLAIMED PROPERTY
+Description: Assigned to Executive
+Diane Blair-Sherlock
+Dave Vella
+Jennifer Gong-Gershowitz
+Eva-Dina Delgado
+Michelle Mussman
+Robert F. Martwick
 
-Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
-Jurisdiction: Texas - SB 21
-Description: Reported favorably w/o amendment(s)
-Schwertner
-Hinojosa, Adam
-Parker
-West
+Illinois - HB 2568
+Title: TRUST CODE-UNCLAIMED PROPERTY
+Description: Assigned to Executive
+Diane Blair-Sherlock
+Dave Vella
+Jennifer Gong-Gershowitz
+Eva-Dina Delgado
+Michelle Mussman
+Robert F. Martwick
 
-Title: Relating to the formation of decentralized unincorporated nonprofit associations and the use of distributed ledger or blockchain technology for certain business purposes; authorizing fees.
-Jurisdiction: Texas - HB 4518
-Description: Committee report sent to Calendars
-Cook
-
-Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
-Jurisdiction: Texas - SB 21
-Description: Reported favorably w/o amendment(s)
-Schwertner
-Hinojosa, Adam
-Parker
-West
-
-Title: Relating to the formation of decentralized unincorporated nonprofit associations and the use of distributed ledger or blockchain technology for certain business purposes; authorizing fees.
-Jurisdiction: Texas - HB 4518
-Description: Committee report sent to Calendars
-Cook
-
-Title: technical correction; unclaimed property; interest
-Jurisdiction: Arizona - HB 2324
-Description: PASSED
-Jeff Weninger
-
-Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
-Jurisdiction: Texas - SB 21
-Description: Reported favorably w/o amendment(s)
-Schwertner
-Hinojosa, Adam
-Parker
-West
-
-Title: Relating to the formation of decentralized unincorporated nonprofit associations and the use of distributed ledger or blockchain technology for certain business purposes; authorizing fees.
-Jurisdiction: Texas - HB 4518
-Description: Committee report sent to Calendars
-Cook
-
-Title: technical correction; unclaimed property; interest
-Jurisdiction: Arizona - HB 2324
-Description: PASSED
-Jeff Weninger
-
-Title: BANKS/BANKING: Provide relative to virtual currency kiosks
-Jurisdiction: Louisiana - HB 483
-Description: Read by title, amended, ordered engrossed, passed to 3rd reading.
-Mark Wright
-
-Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
-Jurisdiction: Texas - SB 21
-Description: Reported favorably w/o amendment(s)
-Schwertner
-Hinojosa, Adam
-Parker
-West
-
-Title: Relating to the formation of decentralized unincorporated nonprofit associations and the use of distributed ledger or blockchain technology for certain business purposes; authorizing fees.
-Jurisdiction: Texas - HB 4518
-Description: Committee report sent to Calendars
-Cook
-
-Title: technical correction; unclaimed property; interest
-Jurisdiction: Arizona - HB 2324
-Description: PASSED
-Jeff Weninger
-
-Title: BANKS/BANKING: Provide relative to virtual currency kiosks
-Jurisdiction: Louisiana - HB 483
-Description: Read by title, amended, ordered engrossed, passed to 3rd reading.
-Mark Wright
-
+Vermont - H 137
 Title: An act relating to the regulation of insurance products and services
-Jurisdiction: Vermont - H 137
-Description: Notice Calendar: Senate Proposal of Amendment
+Description: Senate proposal of amendment concurred in
 Michael Marcotte
 David Bosch
 Emily Carris-Duncan
@@ -98,32 +33,19 @@ Anthony Micklus
 Herb Olson
 Kirk White
 
-Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
-Jurisdiction: Texas - SB 21
-Description: Reported favorably w/o amendment(s)
-Schwertner
-Hinojosa, Adam
-Parker
-West
+Illinois - HB 2568
+Title: TRUST CODE-UNCLAIMED PROPERTY
+Description: Assigned to Executive
+Diane Blair-Sherlock
+Dave Vella
+Jennifer Gong-Gershowitz
+Eva-Dina Delgado
+Michelle Mussman
+Robert F. Martwick
 
-Title: Relating to the formation of decentralized unincorporated nonprofit associations and the use of distributed ledger or blockchain technology for certain business purposes; authorizing fees.
-Jurisdiction: Texas - HB 4518
-Description: Committee report sent to Calendars
-Cook
-
-Title: technical correction; unclaimed property; interest
-Jurisdiction: Arizona - HB 2324
-Description: PASSED
-Jeff Weninger
-
-Title: BANKS/BANKING: Provide relative to virtual currency kiosks
-Jurisdiction: Louisiana - HB 483
-Description: Read by title, amended, ordered engrossed, passed to 3rd reading.
-Mark Wright
-
+Vermont - H 137
 Title: An act relating to the regulation of insurance products and services
-Jurisdiction: Vermont - H 137
-Description: Notice Calendar: Senate Proposal of Amendment
+Description: Senate proposal of amendment concurred in
 Michael Marcotte
 David Bosch
 Emily Carris-Duncan
@@ -134,39 +56,27 @@ Anthony Micklus
 Herb Olson
 Kirk White
 
-Title: VIRTUAL CURRENCY CONSUM PROT
-Jurisdiction: Illinois - SB 2319
-Description: Senate Floor Amendment No. 1 Assignments Refers to Executive
-Laura Ellman
-Mark L. Walker
-Karina Villa
-
+Texas - SB 21
 Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
-Jurisdiction: Texas - SB 21
-Description: Reported favorably w/o amendment(s)
+Description: Reported favorably as substituted
 Schwertner
 Hinojosa, Adam
 Parker
 West
 
-Title: Relating to the formation of decentralized unincorporated nonprofit associations and the use of distributed ledger or blockchain technology for certain business purposes; authorizing fees.
-Jurisdiction: Texas - HB 4518
-Description: Committee report sent to Calendars
-Cook
+Illinois - HB 2568
+Title: TRUST CODE-UNCLAIMED PROPERTY
+Description: Assigned to Executive
+Diane Blair-Sherlock
+Dave Vella
+Jennifer Gong-Gershowitz
+Eva-Dina Delgado
+Michelle Mussman
+Robert F. Martwick
 
-Title: technical correction; unclaimed property; interest
-Jurisdiction: Arizona - HB 2324
-Description: PASSED
-Jeff Weninger
-
-Title: BANKS/BANKING: Provide relative to virtual currency kiosks
-Jurisdiction: Louisiana - HB 483
-Description: Read by title, amended, ordered engrossed, passed to 3rd reading.
-Mark Wright
-
+Vermont - H 137
 Title: An act relating to the regulation of insurance products and services
-Jurisdiction: Vermont - H 137
-Description: Notice Calendar: Senate Proposal of Amendment
+Description: Senate proposal of amendment concurred in
 Michael Marcotte
 David Bosch
 Emily Carris-Duncan
@@ -177,45 +87,471 @@ Anthony Micklus
 Herb Olson
 Kirk White
 
-Title: VIRTUAL CURRENCY CONSUM PROT
-Jurisdiction: Illinois - SB 2319
-Description: Senate Floor Amendment No. 1 Assignments Refers to Executive
-Laura Ellman
-Mark L. Walker
-Karina Villa
+Texas - SB 21
+Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
+Description: Reported favorably as substituted
+Schwertner
+Hinojosa, Adam
+Parker
+West
 
+Montana - SB 426
+Title: Generally revise the Uniform Commercial Code
+Description: Chapter Number Assigned
+Vince Ricci
+
+Illinois - HB 2568
+Title: TRUST CODE-UNCLAIMED PROPERTY
+Description: Assigned to Executive
+Diane Blair-Sherlock
+Dave Vella
+Jennifer Gong-Gershowitz
+Eva-Dina Delgado
+Michelle Mussman
+Robert F. Martwick
+
+Vermont - H 137
+Title: An act relating to the regulation of insurance products and services
+Description: Senate proposal of amendment concurred in
+Michael Marcotte
+David Bosch
+Emily Carris-Duncan
+Jonathan Cooper
+Abbey Duke
+Edye Graning
+Anthony Micklus
+Herb Olson
+Kirk White
+
+Texas - SB 21
+Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
+Description: Reported favorably as substituted
+Schwertner
+Hinojosa, Adam
+Parker
+West
+
+Montana - SB 426
+Title: Generally revise the Uniform Commercial Code
+Description: Chapter Number Assigned
+Vince Ricci
+
+Montana - SB 134
+Title: Generally revise laws relating to gifts and endowments
+Description: Chapter Number Assigned
+Greg Hertz
+
+Illinois - HB 2568
+Title: TRUST CODE-UNCLAIMED PROPERTY
+Description: Assigned to Executive
+Diane Blair-Sherlock
+Dave Vella
+Jennifer Gong-Gershowitz
+Eva-Dina Delgado
+Michelle Mussman
+Robert F. Martwick
+
+Vermont - H 137
+Title: An act relating to the regulation of insurance products and services
+Description: Senate proposal of amendment concurred in
+Michael Marcotte
+David Bosch
+Emily Carris-Duncan
+Jonathan Cooper
+Abbey Duke
+Edye Graning
+Anthony Micklus
+Herb Olson
+Kirk White
+
+Texas - SB 21
+Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
+Description: Reported favorably as substituted
+Schwertner
+Hinojosa, Adam
+Parker
+West
+
+Montana - SB 426
+Title: Generally revise the Uniform Commercial Code
+Description: Chapter Number Assigned
+Vince Ricci
+
+Montana - SB 134
+Title: Generally revise laws relating to gifts and endowments
+Description: Chapter Number Assigned
+Greg Hertz
+
+Arizona - HB 2324
+Title: technical correction; unclaimed property; interest
+Description: PASSED
+Jeff Weninger
+
+Illinois - HB 2568
+Title: TRUST CODE-UNCLAIMED PROPERTY
+Description: Assigned to Executive
+Diane Blair-Sherlock
+Dave Vella
+Jennifer Gong-Gershowitz
+Eva-Dina Delgado
+Michelle Mussman
+Robert F. Martwick
+
+Vermont - H 137
+Title: An act relating to the regulation of insurance products and services
+Description: Senate proposal of amendment concurred in
+Michael Marcotte
+David Bosch
+Emily Carris-Duncan
+Jonathan Cooper
+Abbey Duke
+Edye Graning
+Anthony Micklus
+Herb Olson
+Kirk White
+
+Texas - SB 21
+Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
+Description: Reported favorably as substituted
+Schwertner
+Hinojosa, Adam
+Parker
+West
+
+Montana - SB 426
+Title: Generally revise the Uniform Commercial Code
+Description: Chapter Number Assigned
+Vince Ricci
+
+Montana - SB 134
+Title: Generally revise laws relating to gifts and endowments
+Description: Chapter Number Assigned
+Greg Hertz
+
+Arizona - HB 2324
+Title: technical correction; unclaimed property; interest
+Description: PASSED
+Jeff Weninger
+
+South Carolina - H 4500
+Title: Rita Wilson, SC Female Small Business Owner of the Year
+Description: Introduced and adopted
+Erickson
+Bradley
+Herbkersman
+Hager
+Rivers
+Alexander
+Anderson
+Atkinson
+Bailey
+Ballentine
+Bamberg
+Bannister
+Bauer
+Beach
+Bernstein
+Bowers
+Brewer
+Brittain
+Burns
+Bustos
+Calhoon
+Caskey
+Chapman
+Chumley
+Clyburn
+Cobb-Hunter
+Collins
+B.J. Cox
+B.L. Cox
+Crawford
+Cromer
+Davis
+Dillard
+Duncan
+Edgerton
+Forrest
+Frank
+Gagnon
+Garvin
+Gatch
+Gibson
+Gilliam
+Gilliard
+Gilreath
+Govan
+Grant
+Guest
+Guffey
+Haddon
+Hardee
+Harris
+Hart
+Hartnett
+Hartz
+Hayes
+Henderson-Myers
+Hewitt
+Hiott
+Hixon
+Holman
+Hosey
+Howard
+Huff
+J.E. Johnson
+J.L. Johnson
+Jones
+Jordan
+Kilmartin
+King
+Kirby
+Landing
+Lawson
+Ligon
+Long
+Lowe
+Luck
+Magnuson
+Martin
+May
+McCabe
+McCravy
+McDaniel
+McGinnis
+Mitchell
+Montgomery
+J. Moore
+T. Moore
+Morgan
+Moss
+Murphy
+Neese
+B. Newton
+W. Newton
+Oremus
+Pace
+Pedalino
+Pope
+Rankin
+Reese
+Robbins
+Rose
+Rutherford
+Sanders
+Schuessler
+Sessions
+G.M. Smith
+M.M. Smith
+Spann-Wilder
+Stavrinakis
+Taylor
+Teeple
+Terribile
+Vaughan
+Waters
+Weeks
+Wetmore
+White
+Whitmire
+Wickensimer
+Williams
+Willis
+Wooten
+Yow
+
+Illinois - HB 2568
+Title: TRUST CODE-UNCLAIMED PROPERTY
+Description: Assigned to Executive
+Diane Blair-Sherlock
+Dave Vella
+Jennifer Gong-Gershowitz
+Eva-Dina Delgado
+Michelle Mussman
+Robert F. Martwick
+
+Vermont - H 137
+Title: An act relating to the regulation of insurance products and services
+Description: Senate proposal of amendment concurred in
+Michael Marcotte
+David Bosch
+Emily Carris-Duncan
+Jonathan Cooper
+Abbey Duke
+Edye Graning
+Anthony Micklus
+Herb Olson
+Kirk White
+
+Texas - SB 21
+Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
+Description: Reported favorably as substituted
+Schwertner
+Hinojosa, Adam
+Parker
+West
+
+Montana - SB 426
+Title: Generally revise the Uniform Commercial Code
+Description: Chapter Number Assigned
+Vince Ricci
+
+Montana - SB 134
+Title: Generally revise laws relating to gifts and endowments
+Description: Chapter Number Assigned
+Greg Hertz
+
+Arizona - HB 2324
+Title: technical correction; unclaimed property; interest
+Description: PASSED
+Jeff Weninger
+
+South Carolina - H 4500
+Title: Rita Wilson, SC Female Small Business Owner of the Year
+Description: Introduced and adopted
+Erickson
+Bradley
+Herbkersman
+Hager
+Rivers
+Alexander
+Anderson
+Atkinson
+Bailey
+Ballentine
+Bamberg
+Bannister
+Bauer
+Beach
+Bernstein
+Bowers
+Brewer
+Brittain
+Burns
+Bustos
+Calhoon
+Caskey
+Chapman
+Chumley
+Clyburn
+Cobb-Hunter
+Collins
+B.J. Cox
+B.L. Cox
+Crawford
+Cromer
+Davis
+Dillard
+Duncan
+Edgerton
+Forrest
+Frank
+Gagnon
+Garvin
+Gatch
+Gibson
+Gilliam
+Gilliard
+Gilreath
+Govan
+Grant
+Guest
+Guffey
+Haddon
+Hardee
+Harris
+Hart
+Hartnett
+Hartz
+Hayes
+Henderson-Myers
+Hewitt
+Hiott
+Hixon
+Holman
+Hosey
+Howard
+Huff
+J.E. Johnson
+J.L. Johnson
+Jones
+Jordan
+Kilmartin
+King
+Kirby
+Landing
+Lawson
+Ligon
+Long
+Lowe
+Luck
+Magnuson
+Martin
+May
+McCabe
+McCravy
+McDaniel
+McGinnis
+Mitchell
+Montgomery
+J. Moore
+T. Moore
+Morgan
+Moss
+Murphy
+Neese
+B. Newton
+W. Newton
+Oremus
+Pace
+Pedalino
+Pope
+Rankin
+Reese
+Robbins
+Rose
+Rutherford
+Sanders
+Schuessler
+Sessions
+G.M. Smith
+M.M. Smith
+Spann-Wilder
+Stavrinakis
+Taylor
+Teeple
+Terribile
+Vaughan
+Waters
+Weeks
+Wetmore
+White
+Whitmire
+Wickensimer
+Williams
+Willis
+Wooten
+Yow
+
+South Carolina - S 163
 Title: Cryptocurrency
-Jurisdiction: South Carolina - S 163
 Description: Referred to Committee on Labor, Commerce and Industry
 Verdin
 Leber
 
-Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
-Jurisdiction: Texas - SB 21
-Description: Reported favorably w/o amendment(s)
-Schwertner
-Hinojosa, Adam
-Parker
-West
+Illinois - HB 2568
+Title: TRUST CODE-UNCLAIMED PROPERTY
+Description: Assigned to Executive
+Diane Blair-Sherlock
+Dave Vella
+Jennifer Gong-Gershowitz
+Eva-Dina Delgado
+Michelle Mussman
+Robert F. Martwick
 
-Title: Relating to the formation of decentralized unincorporated nonprofit associations and the use of distributed ledger or blockchain technology for certain business purposes; authorizing fees.
-Jurisdiction: Texas - HB 4518
-Description: Committee report sent to Calendars
-Cook
-
-Title: technical correction; unclaimed property; interest
-Jurisdiction: Arizona - HB 2324
-Description: PASSED
-Jeff Weninger
-
-Title: BANKS/BANKING: Provide relative to virtual currency kiosks
-Jurisdiction: Louisiana - HB 483
-Description: Read by title, amended, ordered engrossed, passed to 3rd reading.
-Mark Wright
-
+Vermont - H 137
 Title: An act relating to the regulation of insurance products and services
-Jurisdiction: Vermont - H 137
-Description: Notice Calendar: Senate Proposal of Amendment
+Description: Senate proposal of amendment concurred in
 Michael Marcotte
 David Bosch
 Emily Carris-Duncan
@@ -226,50 +562,180 @@ Anthony Micklus
 Herb Olson
 Kirk White
 
-Title: VIRTUAL CURRENCY CONSUM PROT
-Jurisdiction: Illinois - SB 2319
-Description: Senate Floor Amendment No. 1 Assignments Refers to Executive
-Laura Ellman
-Mark L. Walker
-Karina Villa
+Texas - SB 21
+Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
+Description: Reported favorably as substituted
+Schwertner
+Hinojosa, Adam
+Parker
+West
 
+Montana - SB 426
+Title: Generally revise the Uniform Commercial Code
+Description: Chapter Number Assigned
+Vince Ricci
+
+Montana - SB 134
+Title: Generally revise laws relating to gifts and endowments
+Description: Chapter Number Assigned
+Greg Hertz
+
+Arizona - HB 2324
+Title: technical correction; unclaimed property; interest
+Description: PASSED
+Jeff Weninger
+
+South Carolina - H 4500
+Title: Rita Wilson, SC Female Small Business Owner of the Year
+Description: Introduced and adopted
+Erickson
+Bradley
+Herbkersman
+Hager
+Rivers
+Alexander
+Anderson
+Atkinson
+Bailey
+Ballentine
+Bamberg
+Bannister
+Bauer
+Beach
+Bernstein
+Bowers
+Brewer
+Brittain
+Burns
+Bustos
+Calhoon
+Caskey
+Chapman
+Chumley
+Clyburn
+Cobb-Hunter
+Collins
+B.J. Cox
+B.L. Cox
+Crawford
+Cromer
+Davis
+Dillard
+Duncan
+Edgerton
+Forrest
+Frank
+Gagnon
+Garvin
+Gatch
+Gibson
+Gilliam
+Gilliard
+Gilreath
+Govan
+Grant
+Guest
+Guffey
+Haddon
+Hardee
+Harris
+Hart
+Hartnett
+Hartz
+Hayes
+Henderson-Myers
+Hewitt
+Hiott
+Hixon
+Holman
+Hosey
+Howard
+Huff
+J.E. Johnson
+J.L. Johnson
+Jones
+Jordan
+Kilmartin
+King
+Kirby
+Landing
+Lawson
+Ligon
+Long
+Lowe
+Luck
+Magnuson
+Martin
+May
+McCabe
+McCravy
+McDaniel
+McGinnis
+Mitchell
+Montgomery
+J. Moore
+T. Moore
+Morgan
+Moss
+Murphy
+Neese
+B. Newton
+W. Newton
+Oremus
+Pace
+Pedalino
+Pope
+Rankin
+Reese
+Robbins
+Rose
+Rutherford
+Sanders
+Schuessler
+Sessions
+G.M. Smith
+M.M. Smith
+Spann-Wilder
+Stavrinakis
+Taylor
+Teeple
+Terribile
+Vaughan
+Waters
+Weeks
+Wetmore
+White
+Whitmire
+Wickensimer
+Williams
+Willis
+Wooten
+Yow
+
+South Carolina - S 163
 Title: Cryptocurrency
-Jurisdiction: South Carolina - S 163
 Description: Referred to Committee on Labor, Commerce and Industry
 Verdin
 Leber
 
+Montana - SB 265
 Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
-Jurisdiction: Montana - SB 265
 Description: (S) Transmitted to Governor
 Daniel Zolnikov
 
-Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
-Jurisdiction: Texas - SB 21
-Description: Reported favorably w/o amendment(s)
-Schwertner
-Hinojosa, Adam
-Parker
-West
+Illinois - HB 2568
+Title: TRUST CODE-UNCLAIMED PROPERTY
+Description: Assigned to Executive
+Diane Blair-Sherlock
+Dave Vella
+Jennifer Gong-Gershowitz
+Eva-Dina Delgado
+Michelle Mussman
+Robert F. Martwick
 
-Title: Relating to the formation of decentralized unincorporated nonprofit associations and the use of distributed ledger or blockchain technology for certain business purposes; authorizing fees.
-Jurisdiction: Texas - HB 4518
-Description: Committee report sent to Calendars
-Cook
-
-Title: technical correction; unclaimed property; interest
-Jurisdiction: Arizona - HB 2324
-Description: PASSED
-Jeff Weninger
-
-Title: BANKS/BANKING: Provide relative to virtual currency kiosks
-Jurisdiction: Louisiana - HB 483
-Description: Read by title, amended, ordered engrossed, passed to 3rd reading.
-Mark Wright
-
+Vermont - H 137
 Title: An act relating to the regulation of insurance products and services
-Jurisdiction: Vermont - H 137
-Description: Notice Calendar: Senate Proposal of Amendment
+Description: Senate proposal of amendment concurred in
 Michael Marcotte
 David Bosch
 Emily Carris-Duncan
@@ -280,55 +746,379 @@ Anthony Micklus
 Herb Olson
 Kirk White
 
-Title: VIRTUAL CURRENCY CONSUM PROT
-Jurisdiction: Illinois - SB 2319
-Description: Senate Floor Amendment No. 1 Assignments Refers to Executive
-Laura Ellman
-Mark L. Walker
-Karina Villa
+Texas - SB 21
+Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
+Description: Reported favorably as substituted
+Schwertner
+Hinojosa, Adam
+Parker
+West
 
+Montana - SB 426
+Title: Generally revise the Uniform Commercial Code
+Description: Chapter Number Assigned
+Vince Ricci
+
+Montana - SB 134
+Title: Generally revise laws relating to gifts and endowments
+Description: Chapter Number Assigned
+Greg Hertz
+
+Arizona - HB 2324
+Title: technical correction; unclaimed property; interest
+Description: PASSED
+Jeff Weninger
+
+South Carolina - H 4500
+Title: Rita Wilson, SC Female Small Business Owner of the Year
+Description: Introduced and adopted
+Erickson
+Bradley
+Herbkersman
+Hager
+Rivers
+Alexander
+Anderson
+Atkinson
+Bailey
+Ballentine
+Bamberg
+Bannister
+Bauer
+Beach
+Bernstein
+Bowers
+Brewer
+Brittain
+Burns
+Bustos
+Calhoon
+Caskey
+Chapman
+Chumley
+Clyburn
+Cobb-Hunter
+Collins
+B.J. Cox
+B.L. Cox
+Crawford
+Cromer
+Davis
+Dillard
+Duncan
+Edgerton
+Forrest
+Frank
+Gagnon
+Garvin
+Gatch
+Gibson
+Gilliam
+Gilliard
+Gilreath
+Govan
+Grant
+Guest
+Guffey
+Haddon
+Hardee
+Harris
+Hart
+Hartnett
+Hartz
+Hayes
+Henderson-Myers
+Hewitt
+Hiott
+Hixon
+Holman
+Hosey
+Howard
+Huff
+J.E. Johnson
+J.L. Johnson
+Jones
+Jordan
+Kilmartin
+King
+Kirby
+Landing
+Lawson
+Ligon
+Long
+Lowe
+Luck
+Magnuson
+Martin
+May
+McCabe
+McCravy
+McDaniel
+McGinnis
+Mitchell
+Montgomery
+J. Moore
+T. Moore
+Morgan
+Moss
+Murphy
+Neese
+B. Newton
+W. Newton
+Oremus
+Pace
+Pedalino
+Pope
+Rankin
+Reese
+Robbins
+Rose
+Rutherford
+Sanders
+Schuessler
+Sessions
+G.M. Smith
+M.M. Smith
+Spann-Wilder
+Stavrinakis
+Taylor
+Teeple
+Terribile
+Vaughan
+Waters
+Weeks
+Wetmore
+White
+Whitmire
+Wickensimer
+Williams
+Willis
+Wooten
+Yow
+
+South Carolina - S 163
 Title: Cryptocurrency
-Jurisdiction: South Carolina - S 163
 Description: Referred to Committee on Labor, Commerce and Industry
 Verdin
 Leber
 
+Montana - SB 265
 Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
-Jurisdiction: Montana - SB 265
 Description: (S) Transmitted to Governor
 Daniel Zolnikov
 
+Montana - SB 555
+Title: Generally revise gambling laws
+Description: (S) Transmitted to Governor
+Vince Ricci
+
+Illinois - HB 2568
+Title: TRUST CODE-UNCLAIMED PROPERTY
+Description: Assigned to Executive
+Diane Blair-Sherlock
+Dave Vella
+Jennifer Gong-Gershowitz
+Eva-Dina Delgado
+Michelle Mussman
+Robert F. Martwick
+
+Vermont - H 137
+Title: An act relating to the regulation of insurance products and services
+Description: Senate proposal of amendment concurred in
+Michael Marcotte
+David Bosch
+Emily Carris-Duncan
+Jonathan Cooper
+Abbey Duke
+Edye Graning
+Anthony Micklus
+Herb Olson
+Kirk White
+
+Texas - SB 21
+Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
+Description: Reported favorably as substituted
+Schwertner
+Hinojosa, Adam
+Parker
+West
+
+Montana - SB 426
+Title: Generally revise the Uniform Commercial Code
+Description: Chapter Number Assigned
+Vince Ricci
+
+Montana - SB 134
+Title: Generally revise laws relating to gifts and endowments
+Description: Chapter Number Assigned
+Greg Hertz
+
+Arizona - HB 2324
+Title: technical correction; unclaimed property; interest
+Description: PASSED
+Jeff Weninger
+
+South Carolina - H 4500
+Title: Rita Wilson, SC Female Small Business Owner of the Year
+Description: Introduced and adopted
+Erickson
+Bradley
+Herbkersman
+Hager
+Rivers
+Alexander
+Anderson
+Atkinson
+Bailey
+Ballentine
+Bamberg
+Bannister
+Bauer
+Beach
+Bernstein
+Bowers
+Brewer
+Brittain
+Burns
+Bustos
+Calhoon
+Caskey
+Chapman
+Chumley
+Clyburn
+Cobb-Hunter
+Collins
+B.J. Cox
+B.L. Cox
+Crawford
+Cromer
+Davis
+Dillard
+Duncan
+Edgerton
+Forrest
+Frank
+Gagnon
+Garvin
+Gatch
+Gibson
+Gilliam
+Gilliard
+Gilreath
+Govan
+Grant
+Guest
+Guffey
+Haddon
+Hardee
+Harris
+Hart
+Hartnett
+Hartz
+Hayes
+Henderson-Myers
+Hewitt
+Hiott
+Hixon
+Holman
+Hosey
+Howard
+Huff
+J.E. Johnson
+J.L. Johnson
+Jones
+Jordan
+Kilmartin
+King
+Kirby
+Landing
+Lawson
+Ligon
+Long
+Lowe
+Luck
+Magnuson
+Martin
+May
+McCabe
+McCravy
+McDaniel
+McGinnis
+Mitchell
+Montgomery
+J. Moore
+T. Moore
+Morgan
+Moss
+Murphy
+Neese
+B. Newton
+W. Newton
+Oremus
+Pace
+Pedalino
+Pope
+Rankin
+Reese
+Robbins
+Rose
+Rutherford
+Sanders
+Schuessler
+Sessions
+G.M. Smith
+M.M. Smith
+Spann-Wilder
+Stavrinakis
+Taylor
+Teeple
+Terribile
+Vaughan
+Waters
+Weeks
+Wetmore
+White
+Whitmire
+Wickensimer
+Williams
+Willis
+Wooten
+Yow
+
+South Carolina - S 163
+Title: Cryptocurrency
+Description: Referred to Committee on Labor, Commerce and Industry
+Verdin
+Leber
+
+Montana - SB 265
+Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
+Description: (S) Transmitted to Governor
+Daniel Zolnikov
+
+Montana - SB 555
+Title: Generally revise gambling laws
+Description: (S) Transmitted to Governor
+Vince Ricci
+
+Montana - SB 330
 Title: Create a Montana blockchain and digital innovation task force
-Jurisdiction: Montana - SB 330
 Description: (S) Transmitted to Governor
 Gayle  Lammers
 
-Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
-Jurisdiction: Texas - SB 21
-Description: Reported favorably w/o amendment(s)
-Schwertner
-Hinojosa, Adam
-Parker
-West
+Illinois - HB 2568
+Title: TRUST CODE-UNCLAIMED PROPERTY
+Description: Assigned to Executive
+Diane Blair-Sherlock
+Dave Vella
+Jennifer Gong-Gershowitz
+Eva-Dina Delgado
+Michelle Mussman
+Robert F. Martwick
 
-Title: Relating to the formation of decentralized unincorporated nonprofit associations and the use of distributed ledger or blockchain technology for certain business purposes; authorizing fees.
-Jurisdiction: Texas - HB 4518
-Description: Committee report sent to Calendars
-Cook
-
-Title: technical correction; unclaimed property; interest
-Jurisdiction: Arizona - HB 2324
-Description: PASSED
-Jeff Weninger
-
-Title: BANKS/BANKING: Provide relative to virtual currency kiosks
-Jurisdiction: Louisiana - HB 483
-Description: Read by title, amended, ordered engrossed, passed to 3rd reading.
-Mark Wright
-
+Vermont - H 137
 Title: An act relating to the regulation of insurance products and services
-Jurisdiction: Vermont - H 137
-Description: Notice Calendar: Senate Proposal of Amendment
+Description: Senate proposal of amendment concurred in
 Michael Marcotte
 David Bosch
 Emily Carris-Duncan
@@ -339,31 +1129,383 @@ Anthony Micklus
 Herb Olson
 Kirk White
 
-Title: VIRTUAL CURRENCY CONSUM PROT
-Jurisdiction: Illinois - SB 2319
-Description: Senate Floor Amendment No. 1 Assignments Refers to Executive
-Laura Ellman
-Mark L. Walker
-Karina Villa
+Texas - SB 21
+Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
+Description: Reported favorably as substituted
+Schwertner
+Hinojosa, Adam
+Parker
+West
 
+Montana - SB 426
+Title: Generally revise the Uniform Commercial Code
+Description: Chapter Number Assigned
+Vince Ricci
+
+Montana - SB 134
+Title: Generally revise laws relating to gifts and endowments
+Description: Chapter Number Assigned
+Greg Hertz
+
+Arizona - HB 2324
+Title: technical correction; unclaimed property; interest
+Description: PASSED
+Jeff Weninger
+
+South Carolina - H 4500
+Title: Rita Wilson, SC Female Small Business Owner of the Year
+Description: Introduced and adopted
+Erickson
+Bradley
+Herbkersman
+Hager
+Rivers
+Alexander
+Anderson
+Atkinson
+Bailey
+Ballentine
+Bamberg
+Bannister
+Bauer
+Beach
+Bernstein
+Bowers
+Brewer
+Brittain
+Burns
+Bustos
+Calhoon
+Caskey
+Chapman
+Chumley
+Clyburn
+Cobb-Hunter
+Collins
+B.J. Cox
+B.L. Cox
+Crawford
+Cromer
+Davis
+Dillard
+Duncan
+Edgerton
+Forrest
+Frank
+Gagnon
+Garvin
+Gatch
+Gibson
+Gilliam
+Gilliard
+Gilreath
+Govan
+Grant
+Guest
+Guffey
+Haddon
+Hardee
+Harris
+Hart
+Hartnett
+Hartz
+Hayes
+Henderson-Myers
+Hewitt
+Hiott
+Hixon
+Holman
+Hosey
+Howard
+Huff
+J.E. Johnson
+J.L. Johnson
+Jones
+Jordan
+Kilmartin
+King
+Kirby
+Landing
+Lawson
+Ligon
+Long
+Lowe
+Luck
+Magnuson
+Martin
+May
+McCabe
+McCravy
+McDaniel
+McGinnis
+Mitchell
+Montgomery
+J. Moore
+T. Moore
+Morgan
+Moss
+Murphy
+Neese
+B. Newton
+W. Newton
+Oremus
+Pace
+Pedalino
+Pope
+Rankin
+Reese
+Robbins
+Rose
+Rutherford
+Sanders
+Schuessler
+Sessions
+G.M. Smith
+M.M. Smith
+Spann-Wilder
+Stavrinakis
+Taylor
+Teeple
+Terribile
+Vaughan
+Waters
+Weeks
+Wetmore
+White
+Whitmire
+Wickensimer
+Williams
+Willis
+Wooten
+Yow
+
+South Carolina - S 163
 Title: Cryptocurrency
-Jurisdiction: South Carolina - S 163
 Description: Referred to Committee on Labor, Commerce and Industry
 Verdin
 Leber
 
+Montana - SB 265
 Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
-Jurisdiction: Montana - SB 265
 Description: (S) Transmitted to Governor
 Daniel Zolnikov
 
+Montana - SB 555
+Title: Generally revise gambling laws
+Description: (S) Transmitted to Governor
+Vince Ricci
+
+Montana - SB 330
 Title: Create a Montana blockchain and digital innovation task force
-Jurisdiction: Montana - SB 330
 Description: (S) Transmitted to Governor
 Gayle  Lammers
 
+Alabama - HB 483
+Title: Virtual currency, declares preemption of virtual currency or cryptocurrency regulation by the Legislature and exempts virtual currency from ad valorem tax
+Description: Currently Indefinitely Postponed
+Shaw
+
+Illinois - HB 2568
+Title: TRUST CODE-UNCLAIMED PROPERTY
+Description: Assigned to Executive
+Diane Blair-Sherlock
+Dave Vella
+Jennifer Gong-Gershowitz
+Eva-Dina Delgado
+Michelle Mussman
+Robert F. Martwick
+
+Vermont - H 137
+Title: An act relating to the regulation of insurance products and services
+Description: Senate proposal of amendment concurred in
+Michael Marcotte
+David Bosch
+Emily Carris-Duncan
+Jonathan Cooper
+Abbey Duke
+Edye Graning
+Anthony Micklus
+Herb Olson
+Kirk White
+
+Texas - SB 21
+Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
+Description: Reported favorably as substituted
+Schwertner
+Hinojosa, Adam
+Parker
+West
+
+Montana - SB 426
+Title: Generally revise the Uniform Commercial Code
+Description: Chapter Number Assigned
+Vince Ricci
+
+Montana - SB 134
+Title: Generally revise laws relating to gifts and endowments
+Description: Chapter Number Assigned
+Greg Hertz
+
+Arizona - HB 2324
+Title: technical correction; unclaimed property; interest
+Description: PASSED
+Jeff Weninger
+
+South Carolina - H 4500
+Title: Rita Wilson, SC Female Small Business Owner of the Year
+Description: Introduced and adopted
+Erickson
+Bradley
+Herbkersman
+Hager
+Rivers
+Alexander
+Anderson
+Atkinson
+Bailey
+Ballentine
+Bamberg
+Bannister
+Bauer
+Beach
+Bernstein
+Bowers
+Brewer
+Brittain
+Burns
+Bustos
+Calhoon
+Caskey
+Chapman
+Chumley
+Clyburn
+Cobb-Hunter
+Collins
+B.J. Cox
+B.L. Cox
+Crawford
+Cromer
+Davis
+Dillard
+Duncan
+Edgerton
+Forrest
+Frank
+Gagnon
+Garvin
+Gatch
+Gibson
+Gilliam
+Gilliard
+Gilreath
+Govan
+Grant
+Guest
+Guffey
+Haddon
+Hardee
+Harris
+Hart
+Hartnett
+Hartz
+Hayes
+Henderson-Myers
+Hewitt
+Hiott
+Hixon
+Holman
+Hosey
+Howard
+Huff
+J.E. Johnson
+J.L. Johnson
+Jones
+Jordan
+Kilmartin
+King
+Kirby
+Landing
+Lawson
+Ligon
+Long
+Lowe
+Luck
+Magnuson
+Martin
+May
+McCabe
+McCravy
+McDaniel
+McGinnis
+Mitchell
+Montgomery
+J. Moore
+T. Moore
+Morgan
+Moss
+Murphy
+Neese
+B. Newton
+W. Newton
+Oremus
+Pace
+Pedalino
+Pope
+Rankin
+Reese
+Robbins
+Rose
+Rutherford
+Sanders
+Schuessler
+Sessions
+G.M. Smith
+M.M. Smith
+Spann-Wilder
+Stavrinakis
+Taylor
+Teeple
+Terribile
+Vaughan
+Waters
+Weeks
+Wetmore
+White
+Whitmire
+Wickensimer
+Williams
+Willis
+Wooten
+Yow
+
+South Carolina - S 163
+Title: Cryptocurrency
+Description: Referred to Committee on Labor, Commerce and Industry
+Verdin
+Leber
+
+Montana - SB 265
+Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
+Description: (S) Transmitted to Governor
+Daniel Zolnikov
+
+Montana - SB 555
+Title: Generally revise gambling laws
+Description: (S) Transmitted to Governor
+Vince Ricci
+
+Montana - SB 330
+Title: Create a Montana blockchain and digital innovation task force
+Description: (S) Transmitted to Governor
+Gayle  Lammers
+
+Alabama - HB 483
+Title: Virtual currency, declares preemption of virtual currency or cryptocurrency regulation by the Legislature and exempts virtual currency from ad valorem tax
+Description: Currently Indefinitely Postponed
+Shaw
+
+Michigan - HB 6147
 Title: Businesses: other; regulations regarding cryptocurrency and digital asset mining; provide for. Creates new act.
-Jurisdiction: Michigan - HB 6147
 Description: bill electronically reproduced 11/14/2024
 Steve Carra
 Matt Maddock
@@ -373,32 +1515,19 @@ Jaime Greene
 Joseph Fox
 Neil Friske
 
-Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
-Jurisdiction: Texas - SB 21
-Description: Reported favorably w/o amendment(s)
-Schwertner
-Hinojosa, Adam
-Parker
-West
+Illinois - HB 2568
+Title: TRUST CODE-UNCLAIMED PROPERTY
+Description: Assigned to Executive
+Diane Blair-Sherlock
+Dave Vella
+Jennifer Gong-Gershowitz
+Eva-Dina Delgado
+Michelle Mussman
+Robert F. Martwick
 
-Title: Relating to the formation of decentralized unincorporated nonprofit associations and the use of distributed ledger or blockchain technology for certain business purposes; authorizing fees.
-Jurisdiction: Texas - HB 4518
-Description: Committee report sent to Calendars
-Cook
-
-Title: technical correction; unclaimed property; interest
-Jurisdiction: Arizona - HB 2324
-Description: PASSED
-Jeff Weninger
-
-Title: BANKS/BANKING: Provide relative to virtual currency kiosks
-Jurisdiction: Louisiana - HB 483
-Description: Read by title, amended, ordered engrossed, passed to 3rd reading.
-Mark Wright
-
+Vermont - H 137
 Title: An act relating to the regulation of insurance products and services
-Jurisdiction: Vermont - H 137
-Description: Notice Calendar: Senate Proposal of Amendment
+Description: Senate proposal of amendment concurred in
 Michael Marcotte
 David Bosch
 Emily Carris-Duncan
@@ -409,31 +1538,184 @@ Anthony Micklus
 Herb Olson
 Kirk White
 
-Title: VIRTUAL CURRENCY CONSUM PROT
-Jurisdiction: Illinois - SB 2319
-Description: Senate Floor Amendment No. 1 Assignments Refers to Executive
-Laura Ellman
-Mark L. Walker
-Karina Villa
+Texas - SB 21
+Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
+Description: Reported favorably as substituted
+Schwertner
+Hinojosa, Adam
+Parker
+West
 
+Montana - SB 426
+Title: Generally revise the Uniform Commercial Code
+Description: Chapter Number Assigned
+Vince Ricci
+
+Montana - SB 134
+Title: Generally revise laws relating to gifts and endowments
+Description: Chapter Number Assigned
+Greg Hertz
+
+Arizona - HB 2324
+Title: technical correction; unclaimed property; interest
+Description: PASSED
+Jeff Weninger
+
+South Carolina - H 4500
+Title: Rita Wilson, SC Female Small Business Owner of the Year
+Description: Introduced and adopted
+Erickson
+Bradley
+Herbkersman
+Hager
+Rivers
+Alexander
+Anderson
+Atkinson
+Bailey
+Ballentine
+Bamberg
+Bannister
+Bauer
+Beach
+Bernstein
+Bowers
+Brewer
+Brittain
+Burns
+Bustos
+Calhoon
+Caskey
+Chapman
+Chumley
+Clyburn
+Cobb-Hunter
+Collins
+B.J. Cox
+B.L. Cox
+Crawford
+Cromer
+Davis
+Dillard
+Duncan
+Edgerton
+Forrest
+Frank
+Gagnon
+Garvin
+Gatch
+Gibson
+Gilliam
+Gilliard
+Gilreath
+Govan
+Grant
+Guest
+Guffey
+Haddon
+Hardee
+Harris
+Hart
+Hartnett
+Hartz
+Hayes
+Henderson-Myers
+Hewitt
+Hiott
+Hixon
+Holman
+Hosey
+Howard
+Huff
+J.E. Johnson
+J.L. Johnson
+Jones
+Jordan
+Kilmartin
+King
+Kirby
+Landing
+Lawson
+Ligon
+Long
+Lowe
+Luck
+Magnuson
+Martin
+May
+McCabe
+McCravy
+McDaniel
+McGinnis
+Mitchell
+Montgomery
+J. Moore
+T. Moore
+Morgan
+Moss
+Murphy
+Neese
+B. Newton
+W. Newton
+Oremus
+Pace
+Pedalino
+Pope
+Rankin
+Reese
+Robbins
+Rose
+Rutherford
+Sanders
+Schuessler
+Sessions
+G.M. Smith
+M.M. Smith
+Spann-Wilder
+Stavrinakis
+Taylor
+Teeple
+Terribile
+Vaughan
+Waters
+Weeks
+Wetmore
+White
+Whitmire
+Wickensimer
+Williams
+Willis
+Wooten
+Yow
+
+South Carolina - S 163
 Title: Cryptocurrency
-Jurisdiction: South Carolina - S 163
 Description: Referred to Committee on Labor, Commerce and Industry
 Verdin
 Leber
 
+Montana - SB 265
 Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
-Jurisdiction: Montana - SB 265
 Description: (S) Transmitted to Governor
 Daniel Zolnikov
 
+Montana - SB 555
+Title: Generally revise gambling laws
+Description: (S) Transmitted to Governor
+Vince Ricci
+
+Montana - SB 330
 Title: Create a Montana blockchain and digital innovation task force
-Jurisdiction: Montana - SB 330
 Description: (S) Transmitted to Governor
 Gayle  Lammers
 
+Alabama - HB 483
+Title: Virtual currency, declares preemption of virtual currency or cryptocurrency regulation by the Legislature and exempts virtual currency from ad valorem tax
+Description: Currently Indefinitely Postponed
+Shaw
+
+Michigan - HB 6147
 Title: Businesses: other; regulations regarding cryptocurrency and digital asset mining; provide for. Creates new act.
-Jurisdiction: Michigan - HB 6147
 Description: bill electronically reproduced 11/14/2024
 Steve Carra
 Matt Maddock
@@ -443,8 +1725,687 @@ Jaime Greene
 Joseph Fox
 Neil Friske
 
+New York - A 391
 Title: Requires certain disclosures in advertisements involving virtual tokens
-Jurisdiction: New York - A 391
 Description: REPORTED REFERRED TO CODES
 Clyde Vanel
 Steven Otis
+
+Illinois - HB 2568
+Title: TRUST CODE-UNCLAIMED PROPERTY
+Description: Assigned to Executive
+Diane Blair-Sherlock
+Dave Vella
+Jennifer Gong-Gershowitz
+Eva-Dina Delgado
+Michelle Mussman
+Robert F. Martwick
+
+Vermont - H 137
+Title: An act relating to the regulation of insurance products and services
+Description: Senate proposal of amendment concurred in
+Michael Marcotte
+David Bosch
+Emily Carris-Duncan
+Jonathan Cooper
+Abbey Duke
+Edye Graning
+Anthony Micklus
+Herb Olson
+Kirk White
+
+Texas - SB 21
+Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
+Description: Reported favorably as substituted
+Schwertner
+Hinojosa, Adam
+Parker
+West
+
+Montana - SB 426
+Title: Generally revise the Uniform Commercial Code
+Description: Chapter Number Assigned
+Vince Ricci
+
+Montana - SB 134
+Title: Generally revise laws relating to gifts and endowments
+Description: Chapter Number Assigned
+Greg Hertz
+
+Arizona - HB 2324
+Title: technical correction; unclaimed property; interest
+Description: PASSED
+Jeff Weninger
+
+South Carolina - H 4500
+Title: Rita Wilson, SC Female Small Business Owner of the Year
+Description: Introduced and adopted
+Erickson
+Bradley
+Herbkersman
+Hager
+Rivers
+Alexander
+Anderson
+Atkinson
+Bailey
+Ballentine
+Bamberg
+Bannister
+Bauer
+Beach
+Bernstein
+Bowers
+Brewer
+Brittain
+Burns
+Bustos
+Calhoon
+Caskey
+Chapman
+Chumley
+Clyburn
+Cobb-Hunter
+Collins
+B.J. Cox
+B.L. Cox
+Crawford
+Cromer
+Davis
+Dillard
+Duncan
+Edgerton
+Forrest
+Frank
+Gagnon
+Garvin
+Gatch
+Gibson
+Gilliam
+Gilliard
+Gilreath
+Govan
+Grant
+Guest
+Guffey
+Haddon
+Hardee
+Harris
+Hart
+Hartnett
+Hartz
+Hayes
+Henderson-Myers
+Hewitt
+Hiott
+Hixon
+Holman
+Hosey
+Howard
+Huff
+J.E. Johnson
+J.L. Johnson
+Jones
+Jordan
+Kilmartin
+King
+Kirby
+Landing
+Lawson
+Ligon
+Long
+Lowe
+Luck
+Magnuson
+Martin
+May
+McCabe
+McCravy
+McDaniel
+McGinnis
+Mitchell
+Montgomery
+J. Moore
+T. Moore
+Morgan
+Moss
+Murphy
+Neese
+B. Newton
+W. Newton
+Oremus
+Pace
+Pedalino
+Pope
+Rankin
+Reese
+Robbins
+Rose
+Rutherford
+Sanders
+Schuessler
+Sessions
+G.M. Smith
+M.M. Smith
+Spann-Wilder
+Stavrinakis
+Taylor
+Teeple
+Terribile
+Vaughan
+Waters
+Weeks
+Wetmore
+White
+Whitmire
+Wickensimer
+Williams
+Willis
+Wooten
+Yow
+
+South Carolina - S 163
+Title: Cryptocurrency
+Description: Referred to Committee on Labor, Commerce and Industry
+Verdin
+Leber
+
+Montana - SB 265
+Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
+Description: (S) Transmitted to Governor
+Daniel Zolnikov
+
+Montana - SB 555
+Title: Generally revise gambling laws
+Description: (S) Transmitted to Governor
+Vince Ricci
+
+Montana - SB 330
+Title: Create a Montana blockchain and digital innovation task force
+Description: (S) Transmitted to Governor
+Gayle  Lammers
+
+Alabama - HB 483
+Title: Virtual currency, declares preemption of virtual currency or cryptocurrency regulation by the Legislature and exempts virtual currency from ad valorem tax
+Description: Currently Indefinitely Postponed
+Shaw
+
+Michigan - HB 6147
+Title: Businesses: other; regulations regarding cryptocurrency and digital asset mining; provide for. Creates new act.
+Description: bill electronically reproduced 11/14/2024
+Steve Carra
+Matt Maddock
+James DeSana
+Josh Schriver
+Jaime Greene
+Joseph Fox
+Neil Friske
+
+New York - A 391
+Title: Requires certain disclosures in advertisements involving virtual tokens
+Description: REPORTED REFERRED TO CODES
+Clyde Vanel
+Steven Otis
+
+Alabama - SB 282
+Title: Virtual currency, declares preemption of virtual currency or cryptocurrency regulation by the Legislature and exempts virtual currency from ad valorem tax
+Description: Currently Indefinitely Postponed
+Barfoot
+
+Illinois - HB 2568
+Title: TRUST CODE-UNCLAIMED PROPERTY
+Description: Assigned to Executive
+Diane Blair-Sherlock
+Dave Vella
+Jennifer Gong-Gershowitz
+Eva-Dina Delgado
+Michelle Mussman
+Robert F. Martwick
+
+Vermont - H 137
+Title: An act relating to the regulation of insurance products and services
+Description: Senate proposal of amendment concurred in
+Michael Marcotte
+David Bosch
+Emily Carris-Duncan
+Jonathan Cooper
+Abbey Duke
+Edye Graning
+Anthony Micklus
+Herb Olson
+Kirk White
+
+Texas - SB 21
+Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
+Description: Reported favorably as substituted
+Schwertner
+Hinojosa, Adam
+Parker
+West
+
+Montana - SB 426
+Title: Generally revise the Uniform Commercial Code
+Description: Chapter Number Assigned
+Vince Ricci
+
+Montana - SB 134
+Title: Generally revise laws relating to gifts and endowments
+Description: Chapter Number Assigned
+Greg Hertz
+
+Arizona - HB 2324
+Title: technical correction; unclaimed property; interest
+Description: PASSED
+Jeff Weninger
+
+South Carolina - H 4500
+Title: Rita Wilson, SC Female Small Business Owner of the Year
+Description: Introduced and adopted
+Erickson
+Bradley
+Herbkersman
+Hager
+Rivers
+Alexander
+Anderson
+Atkinson
+Bailey
+Ballentine
+Bamberg
+Bannister
+Bauer
+Beach
+Bernstein
+Bowers
+Brewer
+Brittain
+Burns
+Bustos
+Calhoon
+Caskey
+Chapman
+Chumley
+Clyburn
+Cobb-Hunter
+Collins
+B.J. Cox
+B.L. Cox
+Crawford
+Cromer
+Davis
+Dillard
+Duncan
+Edgerton
+Forrest
+Frank
+Gagnon
+Garvin
+Gatch
+Gibson
+Gilliam
+Gilliard
+Gilreath
+Govan
+Grant
+Guest
+Guffey
+Haddon
+Hardee
+Harris
+Hart
+Hartnett
+Hartz
+Hayes
+Henderson-Myers
+Hewitt
+Hiott
+Hixon
+Holman
+Hosey
+Howard
+Huff
+J.E. Johnson
+J.L. Johnson
+Jones
+Jordan
+Kilmartin
+King
+Kirby
+Landing
+Lawson
+Ligon
+Long
+Lowe
+Luck
+Magnuson
+Martin
+May
+McCabe
+McCravy
+McDaniel
+McGinnis
+Mitchell
+Montgomery
+J. Moore
+T. Moore
+Morgan
+Moss
+Murphy
+Neese
+B. Newton
+W. Newton
+Oremus
+Pace
+Pedalino
+Pope
+Rankin
+Reese
+Robbins
+Rose
+Rutherford
+Sanders
+Schuessler
+Sessions
+G.M. Smith
+M.M. Smith
+Spann-Wilder
+Stavrinakis
+Taylor
+Teeple
+Terribile
+Vaughan
+Waters
+Weeks
+Wetmore
+White
+Whitmire
+Wickensimer
+Williams
+Willis
+Wooten
+Yow
+
+South Carolina - S 163
+Title: Cryptocurrency
+Description: Referred to Committee on Labor, Commerce and Industry
+Verdin
+Leber
+
+Montana - SB 265
+Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
+Description: (S) Transmitted to Governor
+Daniel Zolnikov
+
+Montana - SB 555
+Title: Generally revise gambling laws
+Description: (S) Transmitted to Governor
+Vince Ricci
+
+Montana - SB 330
+Title: Create a Montana blockchain and digital innovation task force
+Description: (S) Transmitted to Governor
+Gayle  Lammers
+
+Alabama - HB 483
+Title: Virtual currency, declares preemption of virtual currency or cryptocurrency regulation by the Legislature and exempts virtual currency from ad valorem tax
+Description: Currently Indefinitely Postponed
+Shaw
+
+Michigan - HB 6147
+Title: Businesses: other; regulations regarding cryptocurrency and digital asset mining; provide for. Creates new act.
+Description: bill electronically reproduced 11/14/2024
+Steve Carra
+Matt Maddock
+James DeSana
+Josh Schriver
+Jaime Greene
+Joseph Fox
+Neil Friske
+
+New York - A 391
+Title: Requires certain disclosures in advertisements involving virtual tokens
+Description: REPORTED REFERRED TO CODES
+Clyde Vanel
+Steven Otis
+
+Alabama - SB 282
+Title: Virtual currency, declares preemption of virtual currency or cryptocurrency regulation by the Legislature and exempts virtual currency from ad valorem tax
+Description: Currently Indefinitely Postponed
+Barfoot
+
+Arizona - SB 1373
+Title: digital assets strategic reserve fund
+Description: Transmit to Governor
+Mark Finchem
+
+Illinois - HB 2568
+Title: TRUST CODE-UNCLAIMED PROPERTY
+Description: Assigned to Executive
+Diane Blair-Sherlock
+Dave Vella
+Jennifer Gong-Gershowitz
+Eva-Dina Delgado
+Michelle Mussman
+Robert F. Martwick
+
+Vermont - H 137
+Title: An act relating to the regulation of insurance products and services
+Description: Senate proposal of amendment concurred in
+Michael Marcotte
+David Bosch
+Emily Carris-Duncan
+Jonathan Cooper
+Abbey Duke
+Edye Graning
+Anthony Micklus
+Herb Olson
+Kirk White
+
+Texas - SB 21
+Title: Relating to the establishment and administration of the Texas Strategic Bitcoin Reserve for the purpose of investing in cryptocurrency and the investment authority of the comptroller of public accounts over the reserve and certain other state funds.
+Description: Reported favorably as substituted
+Schwertner
+Hinojosa, Adam
+Parker
+West
+
+Montana - SB 426
+Title: Generally revise the Uniform Commercial Code
+Description: Chapter Number Assigned
+Vince Ricci
+
+Montana - SB 134
+Title: Generally revise laws relating to gifts and endowments
+Description: Chapter Number Assigned
+Greg Hertz
+
+Arizona - HB 2324
+Title: technical correction; unclaimed property; interest
+Description: PASSED
+Jeff Weninger
+
+South Carolina - H 4500
+Title: Rita Wilson, SC Female Small Business Owner of the Year
+Description: Introduced and adopted
+Erickson
+Bradley
+Herbkersman
+Hager
+Rivers
+Alexander
+Anderson
+Atkinson
+Bailey
+Ballentine
+Bamberg
+Bannister
+Bauer
+Beach
+Bernstein
+Bowers
+Brewer
+Brittain
+Burns
+Bustos
+Calhoon
+Caskey
+Chapman
+Chumley
+Clyburn
+Cobb-Hunter
+Collins
+B.J. Cox
+B.L. Cox
+Crawford
+Cromer
+Davis
+Dillard
+Duncan
+Edgerton
+Forrest
+Frank
+Gagnon
+Garvin
+Gatch
+Gibson
+Gilliam
+Gilliard
+Gilreath
+Govan
+Grant
+Guest
+Guffey
+Haddon
+Hardee
+Harris
+Hart
+Hartnett
+Hartz
+Hayes
+Henderson-Myers
+Hewitt
+Hiott
+Hixon
+Holman
+Hosey
+Howard
+Huff
+J.E. Johnson
+J.L. Johnson
+Jones
+Jordan
+Kilmartin
+King
+Kirby
+Landing
+Lawson
+Ligon
+Long
+Lowe
+Luck
+Magnuson
+Martin
+May
+McCabe
+McCravy
+McDaniel
+McGinnis
+Mitchell
+Montgomery
+J. Moore
+T. Moore
+Morgan
+Moss
+Murphy
+Neese
+B. Newton
+W. Newton
+Oremus
+Pace
+Pedalino
+Pope
+Rankin
+Reese
+Robbins
+Rose
+Rutherford
+Sanders
+Schuessler
+Sessions
+G.M. Smith
+M.M. Smith
+Spann-Wilder
+Stavrinakis
+Taylor
+Teeple
+Terribile
+Vaughan
+Waters
+Weeks
+Wetmore
+White
+Whitmire
+Wickensimer
+Williams
+Willis
+Wooten
+Yow
+
+South Carolina - S 163
+Title: Cryptocurrency
+Description: Referred to Committee on Labor, Commerce and Industry
+Verdin
+Leber
+
+Montana - SB 265
+Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
+Description: (S) Transmitted to Governor
+Daniel Zolnikov
+
+Montana - SB 555
+Title: Generally revise gambling laws
+Description: (S) Transmitted to Governor
+Vince Ricci
+
+Montana - SB 330
+Title: Create a Montana blockchain and digital innovation task force
+Description: (S) Transmitted to Governor
+Gayle  Lammers
+
+Alabama - HB 483
+Title: Virtual currency, declares preemption of virtual currency or cryptocurrency regulation by the Legislature and exempts virtual currency from ad valorem tax
+Description: Currently Indefinitely Postponed
+Shaw
+
+Michigan - HB 6147
+Title: Businesses: other; regulations regarding cryptocurrency and digital asset mining; provide for. Creates new act.
+Description: bill electronically reproduced 11/14/2024
+Steve Carra
+Matt Maddock
+James DeSana
+Josh Schriver
+Jaime Greene
+Joseph Fox
+Neil Friske
+
+New York - A 391
+Title: Requires certain disclosures in advertisements involving virtual tokens
+Description: REPORTED REFERRED TO CODES
+Clyde Vanel
+Steven Otis
+
+Alabama - SB 282
+Title: Virtual currency, declares preemption of virtual currency or cryptocurrency regulation by the Legislature and exempts virtual currency from ad valorem tax
+Description: Currently Indefinitely Postponed
+Barfoot
+
+Arizona - SB 1373
+Title: digital assets strategic reserve fund
+Description: Transmit to Governor
+Mark Finchem
+
+Arizona - SB 1024
+Title: state agencies; payments; cryptocurrency
+Description: Transmit to Governor
+Wendy Rogers
+Jeff Weninger
