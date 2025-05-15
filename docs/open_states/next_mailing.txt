@@ -1,53 +1,26 @@
 https://www.youtube.com/watch?v=6PWugymo32A
 
-Delaware
-Spiros.Mantzavinos@delaware.gov
-Trey.Paradee@delaware.gov
-cyndie.romer@delaware.gov
-Madinah.Wilson-Anton@delaware.gov
+New Hampshire - HB 639
+Title: relative to the use of and disputes over blockchain and digital currencies.
+Description: Committee Report: No Recommendation, 05/15/2025, Vote 3-3;  SC 21A
+Mark Warden
+Joe Sweeney
+Keith Michael Ammon
+Jason M. Osborne
+Kevin A. Avard
+Calvin Beaulier
+Joe H. Alexander
 
-Sen. Spiros Mantzavinos
-P.O. Box 1401 411 Legislative Ave.
-Dover, DE 19901
-
-Senator Trey Paradee
-P.O. Box 1401 411 Legislative Ave.
-Dover, DE 19901
-
-Rep. Cyndie Romer 
-411 Legislative Ave.
-Dover, DE 19901
-
-Rep. Madinah Wilson-Anton
-P.O. Box 1401 411 Legislative Ave.
-Dover, DE 19901
-
-South Carolina
-gilgatch@schouse.gov
-billherbkerman@schouse.gov
-harveypeeler@scsenate.gov
-ronniecromer@scsenate.gov
-tomdavis@scsenate.gov
-
-Senator Ronnie W. Cromer
-Gressette Building P.O. Box 142
-Columbia, SC 29201
-
-Senator Harvey S. Peeler, Jr.
-Gressette Building P.O. Box 142 111
-Columbia, SC 29201
-
-Representative William G. "Bill" Herbkersman
-Blatt Building P.O. Box 11867
-Columbia, SC 29201
-
-Representative Gil Gatch
-Blatt Building P.O. Box 11867
-Columbia, SC 29201
-
-Senator Tom Davis
-Gressette Building P.O. Box 142
-Columbia, SC 29201
+New York - A 3279
+Title: Establishes the New York state cryptocurrency and blockchain study task force
+Description: REPORTED REFERRED TO WAYS AND MEANS
+Clyde Vanel
+Chris Burdick
+Nader Sayegh
+Patrick Burke
+David Weprin
+Al Taylor
+John Lemondes
 
 2026 - Maryland 
 https://mgaleg.maryland.gov/mgawebsite/Committees/Details?cmte=mjm
@@ -110,6 +83,56 @@ Richmond, VA 23219
 
 
 -------------------------- Mailed ----------------------
+
+Delaware
+Spiros.Mantzavinos@delaware.gov
+Trey.Paradee@delaware.gov
+cyndie.romer@delaware.gov
+Madinah.Wilson-Anton@delaware.gov
+
+Sen. Spiros Mantzavinos
+P.O. Box 1401 411 Legislative Ave.
+Dover, DE 19901
+
+Senator Trey Paradee
+P.O. Box 1401 411 Legislative Ave.
+Dover, DE 19901
+
+Rep. Cyndie Romer 
+411 Legislative Ave.
+Dover, DE 19901
+
+Rep. Madinah Wilson-Anton
+P.O. Box 1401 411 Legislative Ave.
+Dover, DE 19901
+
+South Carolina
+gilgatch@schouse.gov
+billherbkerman@schouse.gov
+harveypeeler@scsenate.gov
+ronniecromer@scsenate.gov
+tomdavis@scsenate.gov
+
+Senator Ronnie W. Cromer
+Gressette Building P.O. Box 142
+Columbia, SC 29201
+
+Senator Harvey S. Peeler, Jr.
+Gressette Building P.O. Box 142 111
+Columbia, SC 29201
+
+Representative William G. "Bill" Herbkersman
+Blatt Building P.O. Box 11867
+Columbia, SC 29201
+
+Representative Gil Gatch
+Blatt Building P.O. Box 11867
+Columbia, SC 29201
+
+Senator Tom Davis
+Gressette Building P.O. Box 142
+Columbia, SC 29201
+
 Pennsylvania Senate Communications & Technology
 kward@pasen.gov,
 tpennycuick@pasen.gov,
