@@ -1,16 +1,7 @@
 
 
-Kentucky - HB 376
-Title: AN ACT relating to state financial practices.
-Description: to Banking & Insurance (H)
-Sponsors: None
-
-Kentucky - HB 376
-Title: AN ACT relating to state financial practices.
-Description: to Banking & Insurance (H)
-Sponsors: None
-
-Kentucky - HB 701
-Title: AN ACT relating to blockchain digital assets.
-Description: signed by Governor (Acts Ch. 50)
-Sponsors: None
+Arizona - SB 1095
+Title: central bank digital currency; ban
+Description: Vetoed by Governor
+Jake Hoffman
+Rachel Keshel
