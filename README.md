@@ -1,6 +1,6 @@
-# State Depository Token (SDT) Platform
+# State Token Platform (STP)
 
-A digital token platform backed by State-regulated depositories similar to Texas bills [H.B. 1049](https://legiscan.com/TX/sponsors/HB1049/2025) and [H.B. 1056](https://legiscan.com/TX/bill/HB1056/2025) and [Wyoming's stablecoin](https://stabletoken.wyo.gov/).
+A digital token platform backed by State-regulated depositories similar to Arkansas [Chapter 4](https://open.pluralpolicy.com/nh/bills/2025/HB302/) and [H.B. 1056](https://legiscan.com/TX/bill/HB1056/2025) and [Wyoming's stablecoin](https://stabletoken.wyo.gov/).
 
 My goal is to create this system via State funding‚ grants‚ consulting, etc. [My background is eclectic](https://broward.ghost.io/2014/03/09/about/) and spans startups‚ corporations‚ State and Federal systems for 35 years.
 
@@ -12,7 +12,7 @@ My goal is to create this system via State funding‚ grants‚ consulting, etc.
 
 [Research & Design](https://broward.ghost.io/token/)
 
-Components defined and justified for State Depository Token Platform:
+Components defined and justified for State Token Platform:
 
 ACH, KYC & AML: [3rd-party API development](https://broward.ghost.io/2024/11/28/sdt-kyc-and-aml/)\
 Language: [Python ver 3.9](https://broward.ghost.io/2024/11/26/sdt-language/) - [Ubuntu install](https://askubuntu.com/questions/1318846/how-do-i-install-python-3-9)\
@@ -31,7 +31,7 @@ Depositories: Some proprietary API work\
 Other Tools: [Misc](https://broward.ghost.io/2024/11/28/sdt-misc-tools/)
 
 
-![SDTOverview](https://github.com/broward/token/blob/main/docs/APIOverview.jpg)
+![STPOverview](https://github.com/broward/token/blob/main/docs/APIOverview.jpg)
 
 **API PROCESS FLOW**
 
