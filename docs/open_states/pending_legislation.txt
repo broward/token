@@ -1,17 +1,86 @@
 
 
-California - SB 97
-Title: Digital financial assets: stablecoins.
-Description: Ordered to second reading.
-Grayson
+Arizona - HB 2324
+Title: technical correction; unclaimed property; interest
+Description: PASSED
+Jeff Weninger
 
-California - SB 97
-Title: Digital financial assets: stablecoins.
-Description: Ordered to second reading.
-Grayson
+Arizona - HB 2324
+Title: technical correction; unclaimed property; interest
+Description: PASSED
+Jeff Weninger
 
-Oklahoma - HB 2104
-Title: Classification of felony offenses; designating classification for certain offenses; effective date.
-Description: Sent to Governor
-Osburn
-Rader
+Illinois - SB 1429
+Title: EPA-NOISE-CRYPTO-MINING
+Description: Referred to Assignments
+Sue Rezin
+
+Arizona - HB 2324
+Title: technical correction; unclaimed property; interest
+Description: PASSED
+Jeff Weninger
+
+Illinois - SB 1429
+Title: EPA-NOISE-CRYPTO-MINING
+Description: Referred to Assignments
+Sue Rezin
+
+Illinois - HB 1844
+Title: STRATEGIC BITCOIN RESERVE
+Description: Added Chief Co-Sponsor Rep. Travis Weaver
+John M. Cabello
+William E Hauter
+Travis Weaver
+
+Arizona - HB 2324
+Title: technical correction; unclaimed property; interest
+Description: PASSED
+Jeff Weninger
+
+Illinois - SB 1429
+Title: EPA-NOISE-CRYPTO-MINING
+Description: Referred to Assignments
+Sue Rezin
+
+Illinois - HB 1844
+Title: STRATEGIC BITCOIN RESERVE
+Description: Added Chief Co-Sponsor Rep. Travis Weaver
+John M. Cabello
+William E Hauter
+Travis Weaver
+
+Illinois - SB 1667
+Title: TRUST CODE-UNCLAIMED PROPERTY
+Description: Passed Both Houses
+Robert F. Martwick
+Michael W. Halpin
+Diane Blair-Sherlock
+
+Arizona - HB 2324
+Title: technical correction; unclaimed property; interest
+Description: PASSED
+Jeff Weninger
+
+Illinois - SB 1429
+Title: EPA-NOISE-CRYPTO-MINING
+Description: Referred to Assignments
+Sue Rezin
+
+Illinois - HB 1844
+Title: STRATEGIC BITCOIN RESERVE
+Description: Added Chief Co-Sponsor Rep. Travis Weaver
+John M. Cabello
+William E Hauter
+Travis Weaver
+
+Illinois - SB 1667
+Title: TRUST CODE-UNCLAIMED PROPERTY
+Description: Passed Both Houses
+Robert F. Martwick
+Michael W. Halpin
+Diane Blair-Sherlock
+
+Illinois - HB 4057
+Title: UNIFORM UNCLAIMED PROPERTY ACT
+Description: Referred to Rules Committee
+Dan Ugaste
