@@ -1,16 +1,276 @@
 
 
-California - SB 97
-Title: Digital financial assets: stablecoins.
-Description: From committee: Do pass and re-refer to Com. on APPR. (Ayes 13. Noes 0.) (July 8). Re-referred to Com. on APPR.
-Grayson
+Montana - SB 330
+Title: Create a Montana blockchain and digital innovation task force
+Description: Chapter Number Assigned
+Gayle  Lammers
 
-California - SB 97
-Title: Digital financial assets: stablecoins.
-Description: From committee: Do pass and re-refer to Com. on APPR. (Ayes 13. Noes 0.) (July 8). Re-referred to Com. on APPR.
-Grayson
+Montana - SB 330
+Title: Create a Montana blockchain and digital innovation task force
+Description: Chapter Number Assigned
+Gayle  Lammers
 
-Arizona - SB 1749
-Title: 2025-2026; taxation; omnibus
-Description: Transmit to Governor
-John Kavanagh
+Montana - HB 453
+Title: Require DOR to accept income tax payments in cryptocurrency
+Description: (H) Died in Process
+Randyn Gregg
+
+Montana - SB 330
+Title: Create a Montana blockchain and digital innovation task force
+Description: Chapter Number Assigned
+Gayle  Lammers
+
+Montana - HB 453
+Title: Require DOR to accept income tax payments in cryptocurrency
+Description: (H) Died in Process
+Randyn Gregg
+
+Montana - HB 639
+Title: Generally revise gambling laws
+Description: (H) Died in Process
+Mike Vinton
+
+Montana - SB 330
+Title: Create a Montana blockchain and digital innovation task force
+Description: Chapter Number Assigned
+Gayle  Lammers
+
+Montana - HB 453
+Title: Require DOR to accept income tax payments in cryptocurrency
+Description: (H) Died in Process
+Randyn Gregg
+
+Montana - HB 639
+Title: Generally revise gambling laws
+Description: (H) Died in Process
+Mike Vinton
+
+Montana - SB 265
+Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
+Description: Chapter Number Assigned
+Daniel Zolnikov
+
+Montana - SB 330
+Title: Create a Montana blockchain and digital innovation task force
+Description: Chapter Number Assigned
+Gayle  Lammers
+
+Montana - HB 453
+Title: Require DOR to accept income tax payments in cryptocurrency
+Description: (H) Died in Process
+Randyn Gregg
+
+Montana - HB 639
+Title: Generally revise gambling laws
+Description: (H) Died in Process
+Mike Vinton
+
+Montana - SB 265
+Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
+Description: Chapter Number Assigned
+Daniel Zolnikov
+
+Montana - SB 555
+Title: Generally revise gambling laws
+Description: Chapter Number Assigned
+Vince Ricci
+
+Montana - SB 330
+Title: Create a Montana blockchain and digital innovation task force
+Description: Chapter Number Assigned
+Gayle  Lammers
+
+Montana - HB 453
+Title: Require DOR to accept income tax payments in cryptocurrency
+Description: (H) Died in Process
+Randyn Gregg
+
+Montana - HB 639
+Title: Generally revise gambling laws
+Description: (H) Died in Process
+Mike Vinton
+
+Montana - SB 265
+Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
+Description: Chapter Number Assigned
+Daniel Zolnikov
+
+Montana - SB 555
+Title: Generally revise gambling laws
+Description: Chapter Number Assigned
+Vince Ricci
+
+Montana - SB 426
+Title: Generally revise the Uniform Commercial Code
+Description: Chapter Number Assigned
+Vince Ricci
+
+Montana - SB 330
+Title: Create a Montana blockchain and digital innovation task force
+Description: Chapter Number Assigned
+Gayle  Lammers
+
+Montana - HB 453
+Title: Require DOR to accept income tax payments in cryptocurrency
+Description: (H) Died in Process
+Randyn Gregg
+
+Montana - HB 639
+Title: Generally revise gambling laws
+Description: (H) Died in Process
+Mike Vinton
+
+Montana - SB 265
+Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
+Description: Chapter Number Assigned
+Daniel Zolnikov
+
+Montana - SB 555
+Title: Generally revise gambling laws
+Description: Chapter Number Assigned
+Vince Ricci
+
+Montana - SB 426
+Title: Generally revise the Uniform Commercial Code
+Description: Chapter Number Assigned
+Vince Ricci
+
+Montana - SB 134
+Title: Generally revise laws relating to gifts and endowments
+Description: Chapter Number Assigned
+Greg Hertz
+
+Montana - SB 330
+Title: Create a Montana blockchain and digital innovation task force
+Description: Chapter Number Assigned
+Gayle  Lammers
+
+Montana - HB 453
+Title: Require DOR to accept income tax payments in cryptocurrency
+Description: (H) Died in Process
+Randyn Gregg
+
+Montana - HB 639
+Title: Generally revise gambling laws
+Description: (H) Died in Process
+Mike Vinton
+
+Montana - SB 265
+Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
+Description: Chapter Number Assigned
+Daniel Zolnikov
+
+Montana - SB 555
+Title: Generally revise gambling laws
+Description: Chapter Number Assigned
+Vince Ricci
+
+Montana - SB 426
+Title: Generally revise the Uniform Commercial Code
+Description: Chapter Number Assigned
+Vince Ricci
+
+Montana - SB 134
+Title: Generally revise laws relating to gifts and endowments
+Description: Chapter Number Assigned
+Greg Hertz
+
+New York - A 5353
+Title: Extends the the moratorium on air permit issuance and renewal for certain electric generating facilities
+Description: ENACTING CLAUSE STRICKEN
+Anna Kelles
+
+Montana - SB 330
+Title: Create a Montana blockchain and digital innovation task force
+Description: Chapter Number Assigned
+Gayle  Lammers
+
+Montana - HB 453
+Title: Require DOR to accept income tax payments in cryptocurrency
+Description: (H) Died in Process
+Randyn Gregg
+
+Montana - HB 639
+Title: Generally revise gambling laws
+Description: (H) Died in Process
+Mike Vinton
+
+Montana - SB 265
+Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
+Description: Chapter Number Assigned
+Daniel Zolnikov
+
+Montana - SB 555
+Title: Generally revise gambling laws
+Description: Chapter Number Assigned
+Vince Ricci
+
+Montana - SB 426
+Title: Generally revise the Uniform Commercial Code
+Description: Chapter Number Assigned
+Vince Ricci
+
+Montana - SB 134
+Title: Generally revise laws relating to gifts and endowments
+Description: Chapter Number Assigned
+Greg Hertz
+
+New York - A 5353
+Title: Extends the the moratorium on air permit issuance and renewal for certain electric generating facilities
+Description: ENACTING CLAUSE STRICKEN
+Anna Kelles
+
+California - AB 1180
+Title: Department of Financial Protection and Innovation: state payments.
+Description: From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 13. Noes 0.) (July 15). Re-referred to Com. on APPR.
+Valencia
+
+Montana - SB 330
+Title: Create a Montana blockchain and digital innovation task force
+Description: Chapter Number Assigned
+Gayle  Lammers
+
+Montana - HB 453
+Title: Require DOR to accept income tax payments in cryptocurrency
+Description: (H) Died in Process
+Randyn Gregg
+
+Montana - HB 639
+Title: Generally revise gambling laws
+Description: (H) Died in Process
+Mike Vinton
+
+Montana - SB 265
+Title: Revise cryptocurrency laws to create Financial Freedom and Innovation Act
+Description: Chapter Number Assigned
+Daniel Zolnikov
+
+Montana - SB 555
+Title: Generally revise gambling laws
+Description: Chapter Number Assigned
+Vince Ricci
+
+Montana - SB 426
+Title: Generally revise the Uniform Commercial Code
+Description: Chapter Number Assigned
+Vince Ricci
+
+Montana - SB 134
+Title: Generally revise laws relating to gifts and endowments
+Description: Chapter Number Assigned
+Greg Hertz
+
+New York - A 5353
+Title: Extends the the moratorium on air permit issuance and renewal for certain electric generating facilities
+Description: ENACTING CLAUSE STRICKEN
+Anna Kelles
+
+California - AB 1180
+Title: Department of Financial Protection and Innovation: state payments.
+Description: From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 13. Noes 0.) (July 15). Re-referred to Com. on APPR.
+Valencia
+
+California - SB 822
+Title: Unclaimed property: digital financial assets.
+Description: Read second time and amended. Re-referred to Com. on APPR.
+Becker
