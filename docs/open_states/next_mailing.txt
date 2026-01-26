@@ -1,158 +1,17 @@
-steve.rawlings@kylegislature.gov
-lindsey.tichenor@kylegislature.gov
-aaron.reed@kylegislature.gov
-steve.west@kylegislature.gov
-gex.williams@kylegislature.gov
+sen-urso@rilegislature.gov,
+sen-paolino@rilegislature.gov,
+sen-zurier@rilegislature.gov,
+sen-dipalma@rilegislature.gov,
+sen-gu@rilegislature.gov,
+sen-burke@rilegislature.gov
 
-Senator Steve Rawlings - SB 99
-702 Capital Ave.
-Frankfort, KY 40601
 
-Senator Lindsey Tichenor - SB 99
-702 Capital Ave.
-Frankfort, KY 40601
+kivory@le.utah.gov HB 195
 
-Senator Aaron Reed - SB 99
-702 Capital Ave.
-Frankfort, KY 40601
+rep.jody.barrett@capitol.tn.gov
 
-Senator Steve West - SB 99
-702 Capital Ave.
-Frankfort, KY 40601
-
-Senator Gex Williams - SB 99
-702 Capital Ave.
-Frankfort, KY 40601
-
-patricia.rucker@wvsenate.gov
-darren.thorne@wvsenate.gov
-
-Senator Patricia Rucker - SB 172
-State Capitol Complex, Building 1 
-1900 Kanawha Blvd. East
-Charleston, WV 25305
-
-Senator Darren Thorne - SB 172
-State Capitol Complex, Building 1 
-1900 Kanawha Blvd. East
-Charleston, WV 25305
-
-dusty.deevers@oksenate.gov
-
-Senator Dusty Deevers - SB 2058
-2300 N. Lincoln Blvd.
-Oklahoma City, OK 73105
-
-lfink@azleg.gov
-nkupper@azleg.gov
-
-Rep. Lisa Fink - HB 2140
-1700 W. Washington St.
-Phoenix, AZ 85007
-
-Rep. Nick Kupper - HB 2088
-1700 W. Washington St.
-Phoenix, AZ 85007
-
-gruters.joe.web@flsenate.gov
-
-Senator Joe Gruters
-Senate Building 
-404 S. Monroe St. 
-Tallahassee, FL 32399
-
-john.snyder@flhouse.gov
-
-Rep. John Snyder - HB 1039
-House Office Building 
-402 S. Monroe St.
-Tallahassee, FL 32399
-
-wrogers@azleg.gov
-
-Senator Wendy Rogers - SB 1043
-1700 W. Washington St.
-Phoenix, AZ 85007
-
-jeff.holcomb@flhouse.gov
-
-Rep. Jeff Holcomb - HB 1415
-House Office Building 
-402 S. Monroe St.
-Tallahassee, FL 32399
-
-diceglie.nick.web@flsenate.gov
-
-Senator Nick DiCeglie - SB 1568
-Senate Building 
-404 S. Monroe St.
-Tallahassee, FL 32399
-
-nick.archer@okhouse.gov
-
-Rep. Nick Archer - HB 3176
-2300 N. Lincoln Blvd.
-Oklahoma City, OK 73105
-
-tim.melson@alsenate.gov
-
-Senator Tim Melson - SB 129 (AI)
-11 S. Union St.
-Montgomery, AL 36130
-
-jones.shevrin.web@flsenate.gov
-
-Senator Shev Jones - SB 1194 (AI)
-Senate Building 404 S. Monroe St.
-Tallahassee, FL 32399
-
-grall.erin.web@flsenate.gov
-
-Senator Erin Grall - SB 1178
-Senate Building 
-404 S. Monroe St.
-Tallahassee, FL 32399
-
-harrell.gayle.web@flsenate.gov
-
-Senator Gayle Harrell - SB 146 (AI)
-Senate Building 
-404 S. Monroe St.
-Tallahassee, FL 32399
-
-alex.rizo@flhouse.gov
-
-Rep. Alex Rizo - HB 1395 (AI)
-House Office Building 
-402 S. Monroe St.
-Tallahassee, FL 32399
-
-jenna.persons@flhouse.gov
-
-Rep. Jenna Persons-Mulicka - HB 905 (AI)
-The Capitol 
-402 S. Monroe St.
-Tallahassee, FL 32399
-
-michael.owen@flhouse.gov
-
-Rep. Michael Owen - HB 905 (AI)
-he Capitol 
-402 S. Monroe St.
-Tallahassee, FL 32399
-
-leonard.spencer@flhouse.gov
-
-Rep. Leonard Spencer - HB 899 (AI)
-The Capitol 
-402 S. Monroe St.
-Tallahassee, FL 32399
-
-christine.hunschofsky@flhouse.gov
-
-Rep. Christine Hunschofsky - HB 281 (AI)
-The Capitol 
-402 S. Monroe St.
-Tallahassee, FL 32399
-
-Tallahassee, FL 32399
+lisa.parshley@leg.wa.gov,
+tarra.simmons@leg.wa.gov,
+mary.fosse@leg.wa.gov,
+natasha.hill@leg.wa.gov
+julio.cortes@leg.wa.gov
