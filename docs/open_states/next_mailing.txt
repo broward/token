@@ -1,17 +1,26 @@
-sen-urso@rilegislature.gov,
-sen-paolino@rilegislature.gov,
-sen-zurier@rilegislature.gov,
-sen-dipalma@rilegislature.gov,
-sen-gu@rilegislature.gov,
-sen-burke@rilegislature.gov
+adefay@le.utah.gov
 
+Rep. Ariel Defay - HB 276 (AI)
+P.O. Box 145030 
+350 N. State St., Suite 350
+Salt Lake City, UT 84114
 
-kivory@le.utah.gov HB 195
+heather.baxter@sdlegislature.gov,
+scott.moore@sdlegislature.gov,
+lauren.nelson@sdlegislature.gov
 
-rep.jody.barrett@capitol.tn.gov
+Rep. Heather Baxter - HB 1125 (AI)
+Capitol Building 
+500 E. Capitol Ave.
+Pierre, SD 57501
 
-lisa.parshley@leg.wa.gov,
-tarra.simmons@leg.wa.gov,
-mary.fosse@leg.wa.gov,
-natasha.hill@leg.wa.gov
-julio.cortes@leg.wa.gov
+Rep. Scott Moore - HB 1125 (AI)
+Capitol Building 
+500 E. Capitol Ave.
+Pierre, SD 57501
+
+Senator Lauren Nelson - HB 1125 (AI)
+Capitol Building 
+500 E. Capitol Ave.
+Pierre, SD 57501
+
