@@ -1,0 +1,2 @@
+Usage:
+ catdoc [-vu8btawxlV] [-m number] [-s charset] [-d charset] [ -f format] files
