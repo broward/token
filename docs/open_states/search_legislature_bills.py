@@ -5,7 +5,6 @@ import sys, os
 # Open States API Key
 file = open('../../../keys/open_spaces_api_key.json', "r")
 API_KEY = file.read().strip()
-print(API_KEY)
 file.close()
 
 # Base URLs for Open States API
@@ -41,7 +40,7 @@ def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
         "page": page,
         "per_page": 20,
         # "jurisdiction": jurisdiction,
-        "updated_since": "2026-08-05",
+        "updated_since": "2026-10-05",
         "include": ["sponsorships"],
         "apikey": API_KEY,
         "session": session
@@ -54,11 +53,16 @@ def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
         
         bills = data.get("results", [])
         results = []
+        seen = set()
         
         for bill in bills:
             jurisdiction = bill.get("jurisdiction", [])
             title = bill.get("title", "No title available")
             identifier = bill.get("identifier", "no identifier available")
+            key = bill.get("id") or (jurisdiction.get("name"), bill.get("legislative_session"), identifier)
+            if key in seen:
+                continue
+            seen.add(key)
             description = bill.get("latest_action_description", "no description")
             subjects = bill.get("subject", [])
             actions = bill.get("actions", [])
@@ -80,27 +84,22 @@ def search_bills_by_keyword(page, keyword, jurisdiction="all", session=None):
                 "subjects": subjects,
                 "sponsor": sponsor,
                 "sponsors": sponsor_details,
-                "updated": updated})
+                "updated": updated,
+                "latest_action_date": bill.get("latest_action_date") or "no date available"})
         
-            if results:
-                with open(OUTPUT_FILE, "a") as f:
-                    # f.write(f"Found {len(results)} bills:")
-                    for result in results:
-                        f.write(f"\n\n{result['jurisdiction']['name']} - {result['identifier']}")
-                        f.write(f"\nTitle: {result['title']}")
-                        f.write(f"\nDescription: {result['description']}")
-                        
-                        if result["sponsors"]:
-                            for sponsor in result["sponsors"]:
-                                f.write(f"\n{sponsor['name']}")
-
-                                person = sponsor["person"]
-                                if person:
-                                    id = person["id"]
-                        else:
-                            f.write("\nSponsors: None")
-            else:
-                print(" Sponsors: None")
+        if results:
+            with open(OUTPUT_FILE, "a") as f:
+                for result in results:
+                    f.write(f"\n\n{result['jurisdiction']['name']} - {result['identifier']}")
+                    f.write(f"\nTitle: {result['title']}")
+                    f.write(f"\nDescription: {result['description']}")
+                    f.write(f"\nRecord updated: {result['updated']}")
+                    f.write(f"\nLatest legislative action: {result['latest_action_date']}")
+                    if result["sponsors"]:
+                        for sponsor in result["sponsors"]:
+                            f.write(f"\n{sponsor['name']}")
+                    else:
+                        f.write("\nSponsors: None")
         else:
             print(" No bills found.")
 
@@ -135,12 +134,12 @@ def main():
     
     size = 1
     #keyword = "cryptocurrency"
-    #keyword = "bullion depository"
+    keyword = "bullion depository"
     #keyword = "stablecoin"
     #keyword = "stable token"
     #keyword = "precious metals digital assets"
     #keyword = "crypto currency"
-    keyword = "digital currency gold"
+    #keyword = "digital currency gold"
     #keyword = "wealth tax"
     #keyword = "ECONOMIC GROWTH BLOCKCHAIN"
 
